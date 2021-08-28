@@ -1,12 +1,17 @@
+# Import libraries
 from bs4 import BeautifulSoup
 from urllib.request import urlopen, Request
 import ssl
+import os
+import errno
 
 # Crear un certificado SSL por defecto, esto por si algunas páginas no lo tienen:
 ssl._create_default_https_context = ssl._create_unverified_context
 
 # Cambiar la ruta para cada caso, donde se quieran guardar los archivos .txt de las páginas web y el .txt de los enlaces
-path = "Transcripciones/Pagina"
+path = "Transcripciones/"
+
+# Ruta en donde se encuentra el archivo .txt donde se almacena la lista de las url de cada página web
 enlaces = "Paginas de becas.txt"
 
 
@@ -23,11 +28,35 @@ def escribir(filename, text):
     file.close()
 
 
-def transcribir(url, cont):
+def transcribir(url, cont, directorio):
     soup = getwebsite(url)
     transcript = soup.get_text()
-    nombrearchivo = path + str(cont) + ".txt"  # Darle al archivo el nombre PaginaN, donde N es un contador
+    nombrearchivo = directorio + "Pagina" + str(cont) + ".txt"  # Darle al archivo el nombre PaginaN, donde N es un contador
     escribir(nombrearchivo, transcript)
+
+
+def creardirectorio(url):
+
+    titulocarpeta = url[0:32]
+    caracteresaeliminar = "/\<>:?*|\n\r\t"
+
+    for i in range(len(caracteresaeliminar)):
+        titulocarpeta = titulocarpeta.replace(caracteresaeliminar[i], "")
+
+    titulocarpeta = titulocarpeta.replace("https",  "").replace("http", "").replace("www", "")
+
+    if titulocarpeta[0] == ".":
+        titulocarpeta = titulocarpeta[1:]
+
+    nuevodirectorio = path + titulocarpeta + "/"
+
+    try:
+        os.mkdir(nuevodirectorio)
+    except OSError as e:
+        if e.errno != errno.EEXIST:
+            raise
+
+    return nuevodirectorio
 
 
 def geturl(filename):
@@ -38,7 +67,9 @@ def geturl(filename):
         contador += 1
         if not url:
             break
-        transcribir(url, contador)
+        creardirectorio(url)
+        directorio = creardirectorio(url)
+        transcribir(url, contador, directorio)
     file.close()
 
 
