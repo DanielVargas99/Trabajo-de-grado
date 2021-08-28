@@ -6,11 +6,10 @@ from pdf2image import convert_from_path
 import os
 
 # Path of the PDF files
-path = "C:/Users/Daniel Vargas/Documents/Tareas/Trabajo de Grado I/Transcripciones Páginas Web/WebScrapping/Transcripciones/"
+path = "Transcripciones/"
 
 # Ruta en donde se encuentra el archivo .txt donde se almacena la lista de las url de descarga de los PDF
-# PDF_file = "C:/Users/Daniel Vargas/Documents/Tareas/Trabajo de Grado I/Transcripciones Páginas Web/Italy.pdf"
-enlaces = "C:/Users/Daniel Vargas/Documents/Tareas/Trabajo de Grado I/Transcripciones Páginas Web/WebScrapping/PDFs.txt"
+enlaces = "PDFs.txt"
 
 '''
 Part #1 : Downloading the PDF files
@@ -23,9 +22,6 @@ def download_file(url, cont):
     local_filename = path + "PDF" + str(cont) + '.pdf'
 
     myfile = requests.get(url, stream=True, allow_redirects=True)
-
-    # Con esto es como si descargara el PDF
-    # open(local_filename, 'wb').write(myfile.content)
 
     with open(local_filename, "wb") as pdf:
         for chunk in myfile.iter_content(chunk_size=1024):
@@ -59,7 +55,10 @@ def geturl(archivoenlaces):
         if not url:
             break
 
+        # Descrgar el PDF de la url de la actual linea del archivo "PDFs.txt"
         nombrepdf = download_file(url, contador)
+
+        # Llamar a la funcion que convierte cada página del PDF a imagen
         convertirpaginasaimagenes(nombrepdf, contador)
 
     file.close()
@@ -97,7 +96,11 @@ def convertirpaginasaimagenes(pdf_file, cont):
 
     # Variable to get count of total number of pages
     filelimit = image_counter - 1
+
+    # Delete the PDF file previously downloaded
     os.remove(pdf_file)
+
+    # Call to the function that extract text from the images
     extraertextodeimagenes(filelimit, cont)
 
 
@@ -105,17 +108,8 @@ def convertirpaginasaimagenes(pdf_file, cont):
 Part #3 - Recognizing text from the images using OCR
 '''
 
-# Creating a text file to write the output
-# outfile = "C:/Users/Daniel Vargas/Documents/Tareas/Trabajo de Grado I/Transcripciones Páginas Web/outtext.txt"
-
-# Open the file in append mode so that
-# All contents of all images are added to the same file
-# f = open(outfile, "a")
-
 
 def extraertextodeimagenes(filelimit, cont):
-
-    # contador = 0  # Contador para asignar el nombre del archivo txt que contiene el texto extraido de cada PDF
 
     # Iterate from 1 to total number of pages
     for i in range(1, filelimit + 1):
@@ -143,12 +137,10 @@ def extraertextodeimagenes(filelimit, cont):
         # To remove this, we replace every '-\n' to ''.
         text = text.replace('-\n', '')
 
-        # contador += 1
         nombrearchivotxt = path + "PDF" + str(cont) + ".txt"
 
         # Finally, write the processed text to the file.
         escribir(nombrearchivotxt, text)
-        # f.write(text)
 
     # Close the file after writing all the text.
     # f.close()

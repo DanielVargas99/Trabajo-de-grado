@@ -522,8 +522,8 @@ Email: international@its.ac.id; int_off@its.ac.id
 							Visitors						
 
 
-Today: 44
-Total: 234574
+Today: 250
+Total: 235662
 
 
 

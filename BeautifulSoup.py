@@ -4,8 +4,10 @@ import ssl
 
 # Crear un certificado SSL por defecto, esto por si algunas páginas no lo tienen:
 ssl._create_default_https_context = ssl._create_unverified_context
-path = "C:/Users/Daniel Vargas/Documents/Tareas/Trabajo de Grado I/Transcripciones Páginas Web/WebScrapping/Transcripciones/Pagina"
-enlaces = "C:/Users/Daniel Vargas/Documents/Tareas/Trabajo de Grado I/Transcripciones Páginas Web/WebScrapping/Paginas de becas.txt"
+
+# Cambiar la ruta para cada caso, donde se quieran guardar los archivos .txt de las páginas web y el .txt de los enlaces
+path = "Transcripciones/Pagina"
+enlaces = "Paginas de becas.txt"
 
 
 def getwebsite(url):
