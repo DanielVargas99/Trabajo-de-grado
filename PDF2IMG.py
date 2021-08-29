@@ -4,6 +4,7 @@ import pytesseract
 import requests
 from pdf2image import convert_from_path
 import os
+import errno
 
 # Path of the PDF files
 path = "Transcripciones/"
@@ -59,7 +60,7 @@ def geturl(archivoenlaces):
         nombrepdf = download_file(url, contador)
 
         # Llamar a la funcion que convierte cada página del PDF a imagen
-        convertirpaginasaimagenes(nombrepdf, contador)
+        convertirpaginasaimagenes(nombrepdf, contador, url)
 
     file.close()
 
@@ -69,7 +70,7 @@ Part #2 : Converting PDF to images
 '''
 
 
-def convertirpaginasaimagenes(pdf_file, cont):
+def convertirpaginasaimagenes(pdf_file, cont, url):
 
     # Store all the pages of the PDF in a variable
     pages = convert_from_path(pdf_file, 500, poppler_path=r'C:\Program Files\poppler-0.68.0\bin')
@@ -100,8 +101,11 @@ def convertirpaginasaimagenes(pdf_file, cont):
     # Delete the PDF file previously downloaded
     os.remove(pdf_file)
 
+    # Create a new folder to store the .txt file of the current PDF transcript
+    newpath = creardirectorio(url)
+
     # Call to the function that extract text from the images
-    extraertextodeimagenes(filelimit, cont)
+    extraertextodeimagenes(filelimit, cont, newpath)
 
 
 '''
@@ -109,7 +113,7 @@ Part #3 - Recognizing text from the images using OCR
 '''
 
 
-def extraertextodeimagenes(filelimit, cont):
+def extraertextodeimagenes(filelimit, cont, newpath):
 
     # Iterate from 1 to total number of pages
     for i in range(1, filelimit + 1):
@@ -137,7 +141,8 @@ def extraertextodeimagenes(filelimit, cont):
         # To remove this, we replace every '-\n' to ''.
         text = text.replace('-\n', '')
 
-        nombrearchivotxt = path + "PDF" + str(cont) + ".txt"
+        # Store the .txt file in the new location
+        nombrearchivotxt = newpath + "PDF" + str(9) + ".txt"
 
         # Finally, write the processed text to the file.
         escribir(nombrearchivotxt, text)
@@ -153,7 +158,42 @@ def escribir(filename, text):
 
 
 '''
-Part #4 - Execute the program
+Part #4 - Creating a new path for the .txt file
 '''
+
+
+def creardirectorio(url):
+
+    # Aquí estoy haciendo un substring a partir de la url, esto para darle un titulo a la carpeta nueva.
+    # Lo estoy limitando a 32 caracteres pero este numero puede modificarse a su gusto.
+    titulocarpeta = url[0:32]
+
+    # Proceso de eliminación de caracteres y subcadenas innecesarias:
+    caracteresaeliminar = "/\<>:?*|\n\r\t"
+
+    for i in range(len(caracteresaeliminar)):
+        titulocarpeta = titulocarpeta.replace(caracteresaeliminar[i], "")
+
+    titulocarpeta = titulocarpeta.replace("https",  "").replace("http", "").replace("www", "")
+
+    if titulocarpeta[0] == ".":
+        titulocarpeta = titulocarpeta[1:]
+
+    # Esta es la ruta de la nueva carpeta
+    nuevodirectorio = path + titulocarpeta + "/"
+
+    # Aquí estoy creando una nueva carpeta en la ruta de nuevodirectorio
+    try:
+        os.mkdir(nuevodirectorio)
+
+    # Este except es para ignorar todos los errores que se me presenten
+    # en caso de que la ruta o el directorio ya exista.
+    except OSError as e:
+        if e.errno != errno.EEXIST:
+            raise
+
+    print(nuevodirectorio)
+    return nuevodirectorio
+
 
 geturl(enlaces)

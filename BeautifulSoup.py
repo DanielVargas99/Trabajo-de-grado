@@ -37,7 +37,11 @@ def transcribir(url, cont, directorio):
 
 def creardirectorio(url):
 
+    # Aquí estoy haciendo un substring a partir de la url, esto para darle un titulo a la carpeta nueva.
+    # Lo estoy limitando a 32 caracteres pero este numero puede modificarse a su gusto.
     titulocarpeta = url[0:32]
+
+    # Proceso de eliminación de caracteres y subcadenas innecesarias:
     caracteresaeliminar = "/\<>:?*|\n\r\t"
 
     for i in range(len(caracteresaeliminar)):
@@ -48,10 +52,15 @@ def creardirectorio(url):
     if titulocarpeta[0] == ".":
         titulocarpeta = titulocarpeta[1:]
 
+    # Esta es la ruta de la nueva carpeta
     nuevodirectorio = path + titulocarpeta + "/"
 
+    # Aquí estoy creando una nueva carpeta en la ruta de nuevodirectorio
     try:
         os.mkdir(nuevodirectorio)
+
+    # Este except es para ignorar todos los errores que se me presenten
+    # en caso de que la ruta o el directorio ya exista.
     except OSError as e:
         if e.errno != errno.EEXIST:
             raise
@@ -67,7 +76,6 @@ def geturl(filename):
         contador += 1
         if not url:
             break
-        creardirectorio(url)
         directorio = creardirectorio(url)
         transcribir(url, contador, directorio)
     file.close()
