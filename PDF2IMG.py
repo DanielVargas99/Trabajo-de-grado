@@ -5,12 +5,22 @@ import requests
 from pdf2image import convert_from_path
 import os
 import errno
+from nltk.corpus import stopwords
+# import nltk    # Descomentar esto si es la primera vez que ejecuta el código
 
 # Path of the PDF files
 path = "Transcripciones/"
 
 # Ruta en donde se encuentra el archivo .txt donde se almacena la lista de las url de descarga de los PDF
 enlaces = "PDFs.txt"
+
+# Crear una lista de las palabras "Stopwords" que se eliminarán del texto
+# nltk.download('stopwords')  # Descomentar esto si es la primera vez que ejecuta el código
+stop_words_sp = set(stopwords.words('spanish'))
+stop_words_en = set(stopwords.words('english'))
+
+# Concatenar las stopwords
+stop_words = stop_words_sp | stop_words_en
 
 '''
 Part #1 : Downloading the PDF files
@@ -142,7 +152,7 @@ def extraertextodeimagenes(filelimit, cont, newpath):
         text = text.replace('-\n', '')
 
         # Store the .txt file in the new location
-        nombrearchivotxt = newpath + "PDF" + str(9) + ".txt"
+        nombrearchivotxt = newpath + "PDF" + str(cont) + ".txt"
 
         # Finally, write the processed text to the file.
         escribir(nombrearchivotxt, text)
@@ -155,7 +165,8 @@ def extraertextodeimagenes(filelimit, cont, newpath):
 def escribir(filename, text):
     file = open(filename, "a", encoding="utf-8")  # Abrir en modo "a" Append
     text = text.lower()
-    text = EliminarSimbolos(text)
+    text = eliminarsimbolos(text)
+    text = eliminar_stopwords(text)
     file.write(text)
 
 
@@ -198,11 +209,15 @@ def creardirectorio(url):
     return nuevodirectorio
 
 
-def EliminarSimbolos(text):
+def eliminarsimbolos(text):
     simbolosparaborrar = "!#$%&'()*+,-./:;<=>?@[\]^_`{|}~"
     for i in range(len(simbolosparaborrar)):
         text = text.replace(simbolosparaborrar[i], "")
     return text
+
+
+def eliminar_stopwords(texto):
+    return ' '.join([word for word in texto.split(' ') if word not in stop_words])
 
 
 geturl(enlaces)

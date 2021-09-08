@@ -4,6 +4,8 @@ from urllib.request import urlopen, Request
 import ssl
 import os
 import errno
+from nltk.corpus import stopwords
+# import nltk    # Descomentar esto si es la primera vez que ejecuta el código
 
 # Crear un certificado SSL por defecto, esto por si algunas páginas no lo tienen:
 ssl._create_default_https_context = ssl._create_unverified_context
@@ -13,6 +15,14 @@ path = "Transcripciones/"
 
 # Ruta en donde se encuentra el archivo .txt donde se almacena la lista de las url de cada página web
 enlaces = "Paginas de becas.txt"
+
+# Crear una lista de las palabras "Stopwords" que se eliminarán del texto
+# nltk.download('stopwords')  # Descomentar esto si es la primera vez que ejecuta el código
+stop_words_sp = set(stopwords.words('spanish'))
+stop_words_en = set(stopwords.words('english'))
+
+# Concatenar las stopwords
+stop_words = stop_words_sp | stop_words_en
 
 
 def getwebsite(url):
@@ -25,7 +35,8 @@ def getwebsite(url):
 def escribir(filename, text):
     file = open(filename, 'w', encoding="utf-8")  # Abrir en modo "w" Escritura
     text = text.lower()
-    text = EliminarSimbolos(text)
+    text = eliminarsimbolos(text)
+    text = eliminar_stopwords(text)
     file.write(text)
     file.close()
 
@@ -83,10 +94,15 @@ def geturl(filename):
     file.close()
 
 
-def EliminarSimbolos(text):
+def eliminarsimbolos(text):
     simbolosparaborrar = "!#$%&'()*+,-./:;<=>?@[\]^_`{|}~"
     for i in range(len(simbolosparaborrar)):
         text = text.replace(simbolosparaborrar[i], "")
     return text
+
+
+def eliminar_stopwords(texto):
+    return ' '.join([word for word in texto.split(' ') if word not in stop_words])
+
 
 geturl(enlaces)
