@@ -4,6 +4,7 @@ from urllib.request import urlopen, Request
 import ssl
 import os
 import errno
+import re
 
 # Crear un certificado SSL por defecto, esto por si algunas páginas no lo tienen:
 ssl._create_default_https_context = ssl._create_unverified_context
@@ -26,6 +27,7 @@ def escribir(filename, text):
     file = open(filename, 'w', encoding="utf-8")  # Abrir en modo "w" Escritura
     text = text.lower()
     text = EliminarSimbolos(text)
+    text = re.sub("\n+", " ", text)
     file.write(text)
     file.close()
 

@@ -156,6 +156,7 @@ def escribir(filename, text):
     file = open(filename, "a", encoding="utf-8")  # Abrir en modo "a" Append
     text = text.lower()
     text = EliminarSimbolos(text)
+    text = re.sub("\n+", " ", text)
     file.write(text)
 
 
