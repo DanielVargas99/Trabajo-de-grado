@@ -154,6 +154,8 @@ def extraertextodeimagenes(filelimit, cont, newpath):
 
 def escribir(filename, text):
     file = open(filename, "a", encoding="utf-8")  # Abrir en modo "a" Append
+    text = text.lower()
+    text = EliminarSimbolos(text)
     file.write(text)
 
 
@@ -194,6 +196,13 @@ def creardirectorio(url):
 
     print(nuevodirectorio)
     return nuevodirectorio
+
+
+def EliminarSimbolos(text):
+    simbolosparaborrar = "!#$%&'()*+,-./:;<=>?@[\]^_`{|}~"
+    for i in range(len(simbolosparaborrar)):
+        text = text.replace(simbolosparaborrar[i], "")
+    return text
 
 
 geturl(enlaces)

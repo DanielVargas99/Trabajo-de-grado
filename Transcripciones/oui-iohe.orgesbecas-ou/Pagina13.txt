@@ -6,7 +6,7 @@
 
 
 
-Becas OUI 2021 – OUI-IOHE
+becas oui 2021 – ouiiohe
 
 
 
@@ -44,50 +44,50 @@ Becas OUI 2021 – OUI-IOHE
 
 
 close
-Cerrar el menú
+cerrar el menú
 
 
-Sobre la OUI
+sobre la oui
 
-Sobre la OUI
-Estructura
-Agenda 2021
-Contáctenos
-
-
-Miembros
-Programas
-
-Oferta formativa
-Becas OUI
-eMOVIES
-IGLU
-COLAM
-CAMPUS
-EMULIES
-EIESTEC
+sobre la oui
+estructura
+agenda 2021
+contáctenos
 
 
-CAEI 2021
+miembros
+programas
 
-CAEI 2019
-CAEI 2017
-CAEI 2015
-CAEI 2013
-CAIE 2012
-CAEI 2010
-
-
-Medios y recursos
-
-Actualidad
-Recursos
-Publicaciones
+oferta formativa
+becas oui
+emovies
+iglu
+colam
+campus
+emulies
+eiestec
 
 
-ES
+caei 2021
 
-PT
+caei 2019
+caei 2017
+caei 2015
+caei 2013
+caie 2012
+caei 2010
+
+
+medios y recursos
+
+actualidad
+recursos
+publicaciones
+
+
+es
+
+pt
 
 
  
@@ -102,7 +102,7 @@ PT
 
 
 
-Organización Universitaria Interamericana
+organización universitaria interamericana
 
 
 
@@ -110,24 +110,24 @@ Organización Universitaria Interamericana
 
 
 
-Facebook
+facebook
 
 
 
-Twitter
+twitter
 
 
 
-Youtube
+youtube
 
 
 
-Linkedin
+linkedin
 
  
 
 search
-Abrir  la barra de búsqueda
+abrir  la barra de búsqueda
 
 
 
@@ -137,11 +137,9 @@ Abrir  la barra de búsqueda
 
 
 
-Que busca ?
+que busca 
 
-Buscar
-
-
+buscar
 
 
 
@@ -160,54 +158,56 @@ Buscar
 
 
 
-Sobre la OUI
-
-Sobre la OUI
-Estructura
-Agenda 2021
-Contáctenos
 
 
-Miembros
-Programas
+sobre la oui
 
-Oferta formativa
-Becas OUI
-eMOVIES
-IGLU
-COLAM
-CAMPUS
-EMULIES
-EIESTEC
+sobre la oui
+estructura
+agenda 2021
+contáctenos
 
 
-CAEI 2021
+miembros
+programas
 
-CAEI 2019
-CAEI 2017
-CAEI 2015
-CAEI 2013
-CAIE 2012
-CAEI 2010
-
-
-Medios y recursos
-
-Actualidad
-Recursos
-Publicaciones
+oferta formativa
+becas oui
+emovies
+iglu
+colam
+campus
+emulies
+eiestec
 
 
-ES
+caei 2021
 
-PT
+caei 2019
+caei 2017
+caei 2015
+caei 2013
+caie 2012
+caei 2010
+
+
+medios y recursos
+
+actualidad
+recursos
+publicaciones
+
+
+es
+
+pt
 
 
  
 
 
 menu
-Abrir el menú
+abrir el menú
 
 
 
@@ -217,81 +217,58 @@ Abrir el menú
 
  
 
-Programa de Becas OUI 2021
+programa de becas oui 2021
 
 
-Conscientes de los grandes desafíos que el campo de la Educación Superior viene afrontando, y basados en nuestros valores de solidaridad, cooperación e interamericanidad, presentamos el Programa de Becas OUI 2021, el cual busca fortalecer a las instituciones de educación superior miembros de la OUI, facilitando el acceso a sus actividades formativas mediante el ofrecimiento de becas totales y parciales.
-
-
-
-
-
-Nuestro programa está compuesto por  dos tipos de becas:
+conscientes de los grandes desafíos que el campo de la educación superior viene afrontando y basados en nuestros valores de solidaridad cooperación e interamericanidad presentamos el programa de becas oui 2021 el cual busca fortalecer a las instituciones de educación superior miembros de la oui facilitando el acceso a sus actividades formativas mediante el ofrecimiento de becas totales y parciales
 
 
 
+
+
+nuestro programa está compuesto por  dos tipos de becas
 
 
 
 
 
 
-Requisitos de postulación
-
-Convocatorias
-
-
-Convocatoria – Seminario Especializado Virtual «Innovaciones en la Internacionalización de la Educación Superior»
-Convocatoria – Módulo Internacionalización del Currículo: Un Enfoque Conectivo – 11a Edición
 
 
 
-Resultados
+requisitos de postulación
+
+convocatorias
+
+
+convocatoria – módulo internacionalización del currículo un enfoque conectivo – 11a edición
 
 
 
-
-Curso IGLU Virtual 2021
+resultados
 
 
 
 
-BECAS SOLIDARIDAD
-
-
-
-Institución de Educación Superior
-
-País
-
-
-
-Universidad Tecnológica Privada de Santa Cruz – UTEPSA
-
-Bolivia
+seminario especializado virtual
+“innovaciones en la internacionalización de la educación superior”
 
 
 
 
-BECAS FIDELIDAD
+becas fidelidad
 
 
 
-Institución de Educación Superior
+institución de educación superior
 
-País
-
-
-
-Universidad Austral de Chile
-
-Chile
+país
 
 
 
-Instituto Superior de Formación Docente Salomé Ureña
+universidad de santiago de chile
 
-República Dominicana
+chile
 
 
 
@@ -301,42 +278,47 @@ República Dominicana
 
 
 
-PROGRAMA INTERAMERICANO DE FORMACIÓN EN GESTIÓN DE AMBIENTES DE INNOVACIÓN – 4A EDICIÓN
+curso iglu virtual 2021
 
 
 
 
-BECAS FIDELIDAD
+becas solidaridad
 
 
 
-Institución de Educación Superior
+institución de educación superior
 
-País
-
-
-
-Universidad Nacional de Cuyo
-
-Argentina
+país
 
 
 
-Universidad Católica de la Santísima Concepción
+universidad tecnológica privada de santa cruz – utepsa
 
-Chile
-
-
-
-Universidad de Cuenca
-
-Ecuador
+bolivia
 
 
 
-Universidad de Guanajuato
 
-México
+becas fidelidad
+
+
+
+institución de educación superior
+
+país
+
+
+
+universidad austral de chile
+
+chile
+
+
+
+instituto superior de formación docente salomé ureña
+
+república dominicana
 
 
 
@@ -346,77 +328,42 @@ México
 
 
 
-MÓDULO ESTRATEGIAS PARA LA MOVILIDAD ACADÉMICA – 11A EDICIÓN
+programa interamericano de formación en gestión de ambientes de innovación – 4a edición
 
 
 
 
-BECAS SOLIDARIDAD
+becas fidelidad
 
 
 
-Institución de Educación Superior
+institución de educación superior
 
-País
-
-
-
-Universidad Privada Domingo Savio
-
-Bolivia
+país
 
 
 
-Universidad Centroamericana “José Simeon Cañas”
+universidad nacional de cuyo
 
-El Salvador
-
-
-
-
-BECAS FIDELIDAD
+argentina
 
 
 
-Institución de Educación Superior
+universidad católica de la santísima concepción
 
-País
-
-
-
-Universidad Privada Domingo Savio
-
-Bolivia
+chile
 
 
 
-Universidad Católica de la Santísima Concepción
+universidad de cuenca
 
-Chile
-
-
-
-Fundación Universitaria Juan N. Corpas
-
-Colombia
+ecuador
 
 
 
-Benemérita Universidad Autónoma de Puebla
+universidad de guanajuato
 
-México
-
-
-
-Universidad Veracruzana
-
-México
-
-
-
-Universidad Católica San Pablo
-
-Perú
+méxico
 
 
 
@@ -426,69 +373,77 @@ Perú
 
 
 
-CURSO «POLÍTICAS CON PERSPECTIVA DE GÉNERO EN LAS IES» – 3A EDICIÓN
+módulo estrategias para la movilidad académica – 11a edición
 
 
 
 
-BECAS SOLIDARIDAD
+becas solidaridad
+
+
+
+institución de educación superior
+
+país
+
+
+
+universidad privada domingo savio
+
+bolivia
+
+
+
+universidad centroamericana “josé simeon cañas”
+
+el salvador
 
 
 
 
-Institución de Educación Superior
-
-
-País
+becas fidelidad
 
 
 
-Universidad de Pinar del Río “Hermanos Saíz Montes de Oca”
+institución de educación superior
 
-Cuba
-
-
-
-Universidad Pedagógica Nacional Francisco Morazán
-
-Honduras
+país
 
 
 
-Universidad Nacional Autónoma de Nicaragua – León
+universidad privada domingo savio
 
-Nicaragua
-
-
-
-Universidad Católica Andrés Bello
-
-Venezuela
+bolivia
 
 
 
+universidad católica de la santísima concepción
 
-BECAS FIDELIDAD
-
-
-
-
-Institución de Educación Superior
-
-
-País
+chile
 
 
 
-Universidad Técnica de Manabí
+fundación universitaria juan n corpas
 
-Ecuador
+colombia
 
 
 
-Universidad Centroamericana “José Simeon Cañas”
+benemérita universidad autónoma de puebla
 
-El Salvador
+méxico
+
+
+
+universidad veracruzana
+
+méxico
+
+
+
+universidad católica san pablo
+
+perú
 
 
 
@@ -498,71 +453,143 @@ El Salvador
 
 
 
-CURSO «COMUNICACIÓN Y VISIBILIDAD DE LA PRODUCCIÓN ACADÉMICA Y CIENTÍFICA» – 3A EDICIÓN
+curso «políticas con perspectiva de género en las ies» – 3a edición
 
 
 
 
-BECAS SOLIDARIDAD
-
-
-
-Institución de Educación Superior
-
-País
-
-
-
-Universidad Privada del Valle
-
-Bolivia
-
-
-
-Universidad Pedagógica Nacional Francisco Morazán
-
-Honduras
-
-
-
-Universidad Católica Andrés Bello
-
-Venezuela
+becas solidaridad
 
 
 
 
-BECAS FIDELIDAD
+institución de educación superior
+
+
+país
 
 
 
-Institución de Educación Superior
+universidad de pinar del río “hermanos saíz montes de oca”
 
-País
-
-
-
-Universidad de Concepción
-
-Chile
+cuba
 
 
 
-Universidad de Los Lagos
+universidad pedagógica nacional francisco morazán
 
-Chile
-
-
-
-Universidad de Guanajuato
-
-México
+honduras
 
 
 
-Universidad Nacional Autónoma de México
+universidad nacional autónoma de nicaragua – león
 
-México
+nicaragua
+
+
+
+universidad católica andrés bello
+
+venezuela
+
+
+
+
+becas fidelidad
+
+
+
+
+institución de educación superior
+
+
+país
+
+
+
+universidad técnica de manabí
+
+ecuador
+
+
+
+universidad centroamericana “josé simeon cañas”
+
+el salvador
+
+
+
+
+— —
+
+
+
+
+curso «comunicación y visibilidad de la producción académica y científica» – 3a edición
+
+
+
+
+becas solidaridad
+
+
+
+institución de educación superior
+
+país
+
+
+
+universidad privada del valle
+
+bolivia
+
+
+
+universidad pedagógica nacional francisco morazán
+
+honduras
+
+
+
+universidad católica andrés bello
+
+venezuela
+
+
+
+
+becas fidelidad
+
+
+
+institución de educación superior
+
+país
+
+
+
+universidad de concepción
+
+chile
+
+
+
+universidad de los lagos
+
+chile
+
+
+
+universidad de guanajuato
+
+méxico
+
+
+
+universidad nacional autónoma de méxico
+
+méxico
 
 
 
@@ -576,7 +603,7 @@ México
 
 
 
-MÓDULO «PLANEACIÓN Y GESTIÓN DE LA INTERNACIONALIZACIÓN» DEL DIES
+módulo «planeación y gestión de la internacionalización» del dies
 
 
 
@@ -585,160 +612,160 @@ MÓDULO «PLANEACIÓN Y GESTIÓN DE LA INTERNACIONALIZACIÓN» DEL DIES
 
 
 
-BECAS SOLIDARIDAD
+becas solidaridad
 
 
 
-Institución de Educación Superior
+institución de educación superior
 
-País
+país
 
 
 
-Universidad Mayor, Real y Pontificia San Francisco Xavier de Chuquisaca
+universidad mayor real y pontificia san francisco xavier de chuquisaca
 
-Bolivia
+bolivia
 
 
 
-Universidad Tecnológica Privada de Santa Cruz
+universidad tecnológica privada de santa cruz
 
-Bolivia
+bolivia
 
 
 
-Instituto Especializado de Profesionales de la Salud
+instituto especializado de profesionales de la salud
 
-El Salvador
+el salvador
 
 
 
-Universidad Nacional Autónoma de Nicaragua – León
+universidad nacional autónoma de nicaragua – león
 
-Nicaragua
+nicaragua
 
 
 
 
-BECAS FIDELIDAD
+becas fidelidad
 
 
 
-Institución de Educación Superior
+institución de educación superior
 
-País
+país
 
 
 
-Universidad de Concepción
+universidad de concepción
 
-Chile
+chile
 
 
 
-Universidad Viña del Mar
+universidad viña del mar
 
-Chile
+chile
 
 
 
-Universidad de Cuenca
+universidad de cuenca
 
-Ecuador
+ecuador
 
 
 
-Universidad de Quintana Roo
+universidad de quintana roo
 
-México
+méxico
 
 
 
-Universidad Continental
+universidad continental
 
-Perú
+perú
 
 
 
-Universidad Apec
+universidad apec
 
-República Dominicana
+república dominicana
 
 
 
 
 
 
-Convocatorias Conjuntas
-Resultados
-La Organización Universitaria Interamericana (OUI) anuncia el resultado de la convocatoria a las dos (2) becas completas, a nivel de maestría y doctorado en educación, ofrecidas por Caribbean University de Puerto Rico en el marco del Programa de Becas OUI.
-Felicitamos a los nuevos becarios, cuyos estudios iniciarán el 9 de agosto de 2021.
+convocatorias conjuntas
+resultados
+la organización universitaria interamericana oui anuncia el resultado de la convocatoria a las dos 2 becas completas a nivel de maestría y doctorado en educación ofrecidas por caribbean university de puerto rico en el marco del programa de becas oui
+felicitamos a los nuevos becarios cuyos estudios iniciarán el 9 de agosto de 2021
 
 
 
 
-Nombre
+nombre
 
-Institución
-Cargo
-País
-Beca otorgada
+institución
+cargo
+país
+beca otorgada
 
 
-Yecid Eliécer Gaviria Restrepo
-Institución Universitaria Pascual Bravo
+yecid eliécer gaviria restrepo
+institución universitaria pascual bravo
  
-Docente Líder Escuela de Pedagogía
-Colombia
-Beca de Doctorado en Educación
+docente líder escuela de pedagogía
+colombia
+beca de doctorado en educación
 
 
-María Eugenia Cano Aguirre
-Universidad Católica San Pablo
-Directora de la Escuela de Educación
-Perú
-Beca de Maestría en Educación
-
-
-
+maría eugenia cano aguirre
+universidad católica san pablo
+directora de la escuela de educación
+perú
+beca de maestría en educación
 
 
 
-Preguntas Frecuentes
 
 
-1. ¿Cuál es el número de becas otorgadas por institución de educación superior (IES) en una actividad formativa?
-Se otorgará una beca por IES respetando el número máximo de becas asignado a cada actividad formativa.
+
+preguntas frecuentes
+
+
+1 ¿cuál es el número de becas otorgadas por institución de educación superior ies en una actividad formativa
+se otorgará una beca por ies respetando el número máximo de becas asignado a cada actividad formativa
  
-2. ¿Es posible aplicar a una misma beca para cursos diferentes?
-Si su IES postuló a una beca para tomar una actividad formativa y si el/la candidata/a no fue elegido/a como beneficiario/a, puede presentar una nueva aplicación a otra actividad formativa.
-En el caso que un/a candidato/a haya sido beneficiario/a de una de las becas, el/la mismo/a ya no puede presentar su postulación a otra actividad formativa pero su IES puede postular a otro/a representante. Se dará prioridad a las nuevas postulaciones institucionales, es decir, a aquellas provenientes de IES que no hayan aplicado a una beca anteriormente pero se mantendrá la  posibilidad de elegir a una IES anteriormente beneficiaria si hay cupo disponible.
+2 ¿es posible aplicar a una misma beca para cursos diferentes
+si su ies postuló a una beca para tomar una actividad formativa y si ella candidataa no fue elegidoa como beneficiarioa puede presentar una nueva aplicación a otra actividad formativa
+en el caso que una candidatoa haya sido beneficiarioa de una de las becas ella mismoa ya no puede presentar su postulación a otra actividad formativa pero su ies puede postular a otroa representante se dará prioridad a las nuevas postulaciones institucionales es decir a aquellas provenientes de ies que no hayan aplicado a una beca anteriormente pero se mantendrá la  posibilidad de elegir a una ies anteriormente beneficiaria si hay cupo disponible
  
-3. ¿Es obligatorio contar con el respaldo de mi institución?
-Sí, es necesario contar con la carta de apoyo institucional.
+3 ¿es obligatorio contar con el respaldo de mi institución
+sí es necesario contar con la carta de apoyo institucional
  
-4. Si soy directivo/a de una IES que recientemente se acaba de incorporar a la OUI y mi IES no se encuentra en la lista de países mencionados en la Beca Solidaridad, soy admisible a la Beca Fidelidad?
-Sí. La Junta Directiva de la OUI aprobó una moción para ofrecer incentivos de participación a las nuevas IES miembros.
+4 si soy directivoa de una ies que recientemente se acaba de incorporar a la oui y mi ies no se encuentra en la lista de países mencionados en la beca solidaridad soy admisible a la beca fidelidad
+sí la junta directiva de la oui aprobó una moción para ofrecer incentivos de participación a las nuevas ies miembros
  
-5. ¿Puede un/a estudiante de una IES miembro aplicar al programa de becas?
-No, el programa de becas de la OUI está dirigido solo a personal docente, de dirección o administrativo de las IES miembros de la OUI.
+5 ¿puede una estudiante de una ies miembro aplicar al programa de becas
+no el programa de becas de la oui está dirigido solo a personal docente de dirección o administrativo de las ies miembros de la oui
  
-6. ¿Qué debo hacer si deseo postular a una Beca solidaridad o Fidelidad?
+6 ¿qué debo hacer si deseo postular a una beca solidaridad o fidelidad
 
-Verificar los Requisitos de postulación para cada tipo de beca  (Aquí)
-Verificar que ya haya salido la convocatoria de la actividad formativa que deseo tomar (Oferta Formativa)
-Completar el Formulario de aplicación
-Presentar la carta de apoyo institucional (se debe adjuntar en mismo formulario de aplicación de la beca).
+verificar los requisitos de postulación para cada tipo de beca  aquí
+verificar que ya haya salido la convocatoria de la actividad formativa que deseo tomar oferta formativa
+completar el formulario de aplicación
+presentar la carta de apoyo institucional se debe adjuntar en mismo formulario de aplicación de la beca
 
  
-7. ¿Dónde puedo encontrar el formulario de aplicación a la Beca Solidaridad o Fidelidad?
-En la convocatoria de la actividad formativa que desea tomar (consultar Oferta formativa). Si no encuentra la información es porque la convocatoria a la actividad formativa todavía no está disponible.
+7 ¿dónde puedo encontrar el formulario de aplicación a la beca solidaridad o fidelidad
+en la convocatoria de la actividad formativa que desea tomar consultar oferta formativa si no encuentra la información es porque la convocatoria a la actividad formativa todavía no está disponible
  
-8. Completé el Formulario de Manifestación de interés. Debo también diligenciar el Formulario de Aplicación a una beca.
-Sí, debe completar también el Formulario de Aplicación. El Formulario de Manifestación de Interés aporta información importante a la OUI respecto al grado de interés en las actividades formativas pero NO representa una solicitud o aplicación a una beca.
+8 completé el formulario de manifestación de interés debo también diligenciar el formulario de aplicación a una beca
+sí debe completar también el formulario de aplicación el formulario de manifestación de interés aporta información importante a la oui respecto al grado de interés en las actividades formativas pero no representa una solicitud o aplicación a una beca
  
-9. ¿Cuál es el plazo para postular a una beca y el plazo en que la OUI comunicará la asignación de dichos beneficios?
-En la convocatoria de cada actividad formativa se indicará el plazo para postular así como las fechas para dar respuesta a la solicitud.
+9 ¿cuál es el plazo para postular a una beca y el plazo en que la oui comunicará la asignación de dichos beneficios
+en la convocatoria de cada actividad formativa se indicará el plazo para postular así como las fechas para dar respuesta a la solicitud
 
 
 
@@ -749,8 +776,8 @@ En la convocatoria de cada actividad formativa se indicará el plazo para postul
 
 
 
-Boletín
-Suscribirse a nuestro boletínemail
+boletín
+suscribirse a nuestro boletínemail
 
 
 
@@ -760,7 +787,7 @@ Suscribirse a nuestro boletínemail
 
 
 
-Inscripción al boletín
+inscripción al boletín
 
 
 
@@ -776,30 +803,30 @@ Inscripción al boletín
 
 
 
-Nombre
+nombre
 
 
 
-Apellido
-
-
-
-
-
-Correo electrónico  *
-
-
-
-
-Institución / Organización 
+apellido
 
 
 
 
 
+correo electrónico  
 
 
-Inscribirse
+
+
+institución  organización 
+
+
+
+
+
+
+
+inscribirse
 
 
 
@@ -812,35 +839,35 @@ Inscribirse
 
 
 
-Síguenos
+síguenos
 
 
 
-Facebook
+facebook
 
 
 
-Twitter
+twitter
 
 
 
-Youtube
+youtube
 
 
 
-Linkedin
+linkedin
 
  
 
-Contacto
-3744, Jean-Brillant, Oficina 592
-Montreal, Quebec, Canadá
-H3T 1P1
-(+1) 514-343-6980
+contacto
+3744 jeanbrillant oficina 592
+montreal quebec canadá
+h3t 1p1
+1 5143436980
 
 
 
-							© OUI-IOHE 2020						
+							© ouiiohe 2020						
 
 
  

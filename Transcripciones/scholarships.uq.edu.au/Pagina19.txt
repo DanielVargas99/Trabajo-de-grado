@@ -16,7 +16,7 @@
 
 
 
-Scholarships - University of Queensland
+scholarships  university of queensland
 
 
 
@@ -26,9 +26,9 @@ Scholarships - University of Queensland
 
 
 
-Skip to menu
-Skip to content
-Skip to footer
+skip to menu
+skip to content
+skip to footer
 
 
  
@@ -37,39 +37,39 @@ Skip to footer
 
 
 
-UQ Home
+uq home
 
 
-Contacts
+contacts
 
 
-Study
+study
 
 
-Maps
+maps
 
 
-News
+news
 
 
-Events
+events
 
 
-Library
+library
 
 
-Give now
+give now
 
 
-my.UQ
+myuq
 
 
 
 
 
 
-The University of Queensland
-Scholarships Scholarships 
+the university of queensland
+scholarships scholarships 
 
 
 
@@ -78,8 +78,8 @@ Scholarships Scholarships
 
 
 
-Site search
-Search
+site search
+search
 
 
 
@@ -88,11 +88,11 @@ Search
 
 
 
-Menu
+menu
 
-Home
-About
-Contact
+home
+about
+contact
 
 
 
@@ -107,54 +107,8 @@ Contact
 
 
 
-Scholarships
+scholarships
 
- 
-
-
-
-
-
-
-
-
-
-
-If there's a UQ scholarship, you'll find it here
-With a scholarship your university experience will be easier and more affordable. With so many opportunities available, take some time to research and apply.
-
-
-
-
-
-
-
-
-
-
-
-Scholarships for future students
-Domestic students
-Undergraduate domestic
-Postgraduate domestic
-International students
-Undergraduate international
-Postgraduate international
-Higher Degree by Research students
-Aboriginal and/or Torres Strait Islander students
- 
-
-
-
-Scholarships for current students
-Domestic students
-Undergraduate domestic 
-Postgraduate domestic
-International students
-Undergraduate international
-Postgraduate international
-Higher Degree by Research students
-Aboriginal and/or Torres Strait Islander students
  
 
 
@@ -164,8 +118,10 @@ Aboriginal and/or Torres Strait Islander students
 
 
 
-Open this month
-Applications open in August 2021.
+
+
+if theres a uq scholarship youll find it here
+with a scholarship your university experience will be easier and more affordable with so many opportunities available take some time to research and apply
 
 
 
@@ -173,13 +129,43 @@ Applications open in August 2021.
 
 
 
+
+
+
+
+scholarships for future students
+domestic students
+undergraduate domestic
+postgraduate domestic
+international students
+undergraduate international
+postgraduate international
+higher degree by research students
+aboriginal andor torres strait islander students
  
 
 
 
-UQ Academic Scholarships  
+scholarships for current students
+domestic students
+undergraduate domestic 
+postgraduate domestic
+international students
+undergraduate international
+postgraduate international
+higher degree by research students
+aboriginal andor torres strait islander students
+ 
 
-Support for domestic and international school leavers and gap year students who have demonstrated significant academic, leadership and/or community service achievements.
+
+
+
+
+
+
+
+open this month
+applications open in september 2021
 
 
 
@@ -191,35 +177,9 @@ Support for domestic and international school leavers and gap year students who 
 
 
 
-UQ Law School LEAD Scholarship 
+scholarship in quantitative biology 
 
-Open to domestic undergraduate students who have experienced educational, social and/or financial disadvantage
-
-
-
-
-
-
-
- 
-
-
-
-UQ Link Scholarship 
-
-Assistance for domestic students undertaking tertiary studies for the first time who have experienced educational disadvantage through financial hardship.
-
-
-
-
-
-
-
-
-
-
-Closing this month
-Applications close in August 2021.
+open to domestic and international students who have received an unconditional offer to study the master of quantitative biology program at the university of queensland on a full time basis
 
 
 
@@ -231,23 +191,9 @@ Applications close in August 2021.
 
 
 
-Alumni Friends Veterinary Science Scholarship 
+wensley sporting scholarship 
 
-Support for undergraduate students studying in veterinary science who are facing financial hardship.
-
-
-
-
-
-
-
- 
-
-
-
-PhD scholarship: Sewer inflow and infiltration modelling 
-
-A living stipend and tuition scholarship for an eligible PhD candidate.
+financial assistance to support students with financial need that are competing at an elite level in a recognised sport
 
 
 
@@ -259,11 +205,9 @@ A living stipend and tuition scholarship for an eligible PhD candidate.
 
 
 
-Bert and Vera Thiess Scholarship in Civil Engineering 
+uq academic scholarships  
 
-Support for full time Engineering students experiencing financial disadvantage.
-
-
+support for domestic and international school leavers and gap year students who have demonstrated significant academic leadership andor community service achievements
 
 
 
@@ -274,9 +218,65 @@ Support for full time Engineering students experiencing financial disadvantage.
 
 
 
-Have questions?
-We're here to help if you've got more questions about scholarships.
-Contact us
+closing this month
+applications close in september 2021
+
+
+
+
+
+
+
+ 
+
+
+
+ansto futurenow scholarships 
+
+available for graduate students or early career researchers working on industryfocused research projects aligned with ansto’s strategic objectives
+
+
+
+
+
+
+
+ 
+
+
+
+scharzman scholars 
+
+fully funded one year master’s degree and leadership program at tsinghua university in beijing china includes tuition and fees room and board travel expenses health insurance and living stipend
+
+
+
+
+
+
+
+ 
+
+
+
+summer research program 
+
+ provide opportunity for motivated uq students to participate in an educational research experience
+
+
+
+
+
+
+
+
+
+
+
+
+have questions
+were here to help if youve got more questions about scholarships
+contact us
 
 
 
@@ -292,32 +292,32 @@ Contact us
 
 
 
-© The University of Queensland
+© the university of queensland
 
-          Enquiries: +61 7 3365 1111
-            |   Contact directory
-
-
-ABN: 63 942 912 684   |  
-          CRICOS
-          Provider No: 00025B
+          enquiries 61 7 3365 1111
+               contact directory
 
 
-
-
-Emergency
-          Phone: 3365 3333
+abn 63 942 912 684     
+          cricos
+          provider no 00025b
 
 
 
 
+emergency
+          phone 3365 3333
 
 
-Privacy & Terms of use   |  
-          Feedback
 
 
-Login 
+
+
+privacy  terms of use     
+          feedback
+
+
+login 
 
 
 

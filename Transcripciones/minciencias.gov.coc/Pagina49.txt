@@ -19,7 +19,7 @@
 
 
 
-Convocatoria de Doctorados en el Exterior | Convocatoria 906 | Minciencias
+convocatoria de doctorados en el exterior  convocatoria 906  minciencias
 
 
 
@@ -44,7 +44,7 @@ Convocatoria de Doctorados en el Exterior | Convocatoria 906 | Minciencias
 
 
 
-  Seguir al contenido principal
+  seguir al contenido principal
 
 
 
@@ -54,36 +54,33 @@ Convocatoria de Doctorados en el Exterior | Convocatoria 906 | Minciencias
 
 
 
-A+A-Alto contraste  
+aaalto contraste  
 
 
 
 
 
-ENG | FRA | POR | ESP
-
-
-
-
- 
- 
-
-Cabecera
-
-Quiénes Somos
-Contratación
-Sección infantil
-Sala de prensa
- 
- 
-
+eng  fra  por  esp
 
 
 
 
  
  
+
+cabecera
+
+quiénes somos
+contratación
+sección infantil
+sala de prensa
  
+ 
+
+
+
+
+
  
  
  
@@ -94,6 +91,9 @@ Sala de prensa
  
  
  
+ 
+ 
+ 
 
 
  
@@ -114,94 +114,9 @@ Sala de prensa
 
 
 
-Formulario de búsqueda
+formulario de búsqueda
 
-Buscar 
-
-
-
-
-
-
-
-
-
-
- 
- 
-
-
-
-
-Menu
-
-
-Inicio
-MinisterioSobre MincienciasABC Minciencias
-Funciones 
-Historia del Ministerio
-Guía de uso de la marca de Gobierno de Colombia Minciencias
-Gobierno + Logo Minciencias
-Visión y Misión
-Valores Institucionales
-Organigrama
-Sedes y horarios
-
-ViceministeriosConocimiento, innovación y productividadFunciones del viceministerio
-Dirección Generación de conocimiento
-Dirección de Transferencia y Uso de Conocimiento
-
-Talento y Apropiación SocialFunciones del viceministerio
-Dirección de Capacidades y Divulgación de la CTeI
-Dirección de Vocaciones y Formación en CTeI
-
-
-Dirección de InteligenciaConvocatorias plan bienal
-Ecosistema científico
-Fondo Francisco José de Caldas
-
-
-Oferta institucionalProgramación de Oferta InstitucionalProgramas y Proyectos de CTeI
-Movilidad Internacional
-Fortalecimiento de capacidades
-Innovación y Productividad
-Formación y vinculación de Capital Humano de Alto Nivel
-Apropiación Social del Conocimiento
-Vocaciones Científicas de CteI
-Invitación para presentación de propuestas
-Convocatorias de otras vigencias cierre en 2020
-Todas las convocatorias
-
-Plan de Convocatorias FCTeI 2019 -2020
-Plan de Convocatorias ASCTeI 2021 -2022
-
-ScienTI y SIGPCvLAC
-GrupLAC
-InstituLAC
-Créditos Condonables
-Formación de Alto Nivel
-Participación Proyectos y Programas
-Registro Entidades
-Beneficios Tributarios
-Reconocimiento de Actores
-Patentes e Invenciones
-Publindex
-Currículo del editor
-Gestión de Proyectos y Seguimiento - GPS
-Buscador de Minciencias
-
-Transparencia
-Atención al ciudadano
-Participa
-Sec. OCAD FCTeIPlan de Convocatorias FCTeI 2019 -2020
-Plan de Convocatorias ASCTeI 2021 -2022
-Fondo de Ciencia, Tecnología e Innovación
-Guia Sectorial
-Proyectos
-
- 
-
-
+buscar 
 
 
 
@@ -218,10 +133,76 @@ Proyectos
 
 
 
+menu
+
+
+inicio
+ministeriosobre mincienciasabc minciencias
+funciones 
+historia del ministerio
+guía de uso de la marca de gobierno de colombia minciencias
+gobierno  logo minciencias
+visión y misión
+valores institucionales
+organigrama
+sedes y horarios
+
+viceministeriosconocimiento innovación y productividadfunciones del viceministerio
+dirección generación de conocimiento
+dirección de transferencia y uso de conocimiento
+
+talento y apropiación socialfunciones del viceministerio
+dirección de capacidades y divulgación de la ctei
+dirección de vocaciones y formación en ctei
+
+
+dirección de inteligenciaconvocatorias plan bienal
+ecosistema científico
+fondo francisco josé de caldas
+
+
+oferta institucionalprogramación de oferta institucionalprogramas y proyectos de ctei
+movilidad internacional
+fortalecimiento de capacidades
+innovación y productividad
+formación y vinculación de capital humano de alto nivel
+apropiación social del conocimiento
+vocaciones científicas de ctei
+invitación para presentación de propuestas
+convocatorias de otras vigencias cierre en 2020
+todas las convocatorias
+
+plan de convocatorias fctei 2019 2020
+plan de convocatorias asctei 2021 2022
+
+scienti y sigpcvlac
+gruplac
+institulac
+créditos condonables
+formación de alto nivel
+participación proyectos y programas
+registro entidades
+beneficios tributarios
+reconocimiento de actores
+patentes e invenciones
+publindex
+currículo del editor
+gestión de proyectos y seguimiento  gps
+buscador de minciencias
+
+transparencia
+atención al ciudadano
+participa
+sec ocad fcteiplan de convocatorias fctei 2019 2020
+plan de convocatorias asctei 2021 2022
+fondo de ciencia tecnología e innovación
+guia sectorial
+proyectos
+
+ 
 
 
 
-Usted está aquíInicio Convocatoria de Doctorados en el Exterior 
 
 
 
@@ -231,88 +212,107 @@ Usted está aquíInicio Convocatoria de Doctorados en el Exterior
 
 
 
-Número:
+ 
+ 
+
+
+
+
+
+
+
+usted está aquíinicio convocatoria de doctorados en el exterior 
+
+
+
+
+
+
+
+
+
+número
 
                 906            
-Objetivo:
+objetivo
 
 
-                    Apoyar la formación de profesionales colombianos en programas de doctorado en el exterior, a través de la conformación de un banco de candidatos elegibles.
+                    apoyar la formación de profesionales colombianos en programas de doctorado en el exterior a través de la conformación de un banco de candidatos elegibles
 
-Acceda aquí al formulario de inscripción
-
-
-
-
-Dirigida a:
-
-
-                    Profesionales colombianos que se encuentren en los siguientes estados: admitidos, admitidos condicionados a financiación o que estén estudiando un programa de doctorado en una universidad en el exterior, ubicada en las primeras 500 posiciones del Ranking General de Shanghái 2020. Para las universidades en las áreas específicas de Arte y Diseño, Arquitectura, Artes Escénicas, Comunicación y Estudios de Medios; y Literatura, se aplicará el QS World University Rankings 2020 by Subject en las primeras 200 posiciones                
+acceda aquí al formulario de inscripción
 
 
 
 
-
-
-
-
-Convocatoriaen Evaluación
-
-
-
-
-
-
-
-Recursos disponibles:
-
-
-
-
-
-
-
-
-Cerrada
-
-
-
-
-
-Datos de la convocatoria
-
+dirigida a
 
 
-                            Actividad
-
-                            Fecha
-
-                            Documentos
+                    profesionales colombianos que se encuentren en los siguientes estados admitidos admitidos condicionados a financiación o que estén estudiando un programa de doctorado en una universidad en el exterior ubicada en las primeras 500 posiciones del ranking general de shanghái 2020 para las universidades en las áreas específicas de arte y diseño arquitectura artes escénicas comunicación y estudios de medios y literatura se aplicará el qs world university rankings 2020 by subject en las primeras 200 posiciones                
 
 
+
+
+
+
+
+
+convocatoriaen evaluación
+
+
+
+
+
+
+
+recursos disponibles
+
+
+
+
+
+
+
+
+cerrada
+
+
+
+
+
+datos de la convocatoria
 
 
 
-                            Apertura         
+                            actividad
+
+                            fecha
+
+                            documentos
+
+
+
+
+
+                            apertura         
                         
 
                             miércoles 19 mayo 2021                        
 
-Resolución 1107 de 2021Términos de referenciaAnexo 1Anexo 2Anexo 3
+resolución 1107 de 2021términos de referenciaanexo 1anexo 2anexo 3
 
 
 
 
-                            Cierre          
+                            cierre          
                         
 
-                            viernes 23 julio 2021 03:00 pm                        
+                            viernes 23 julio 2021 0300 pm                        
 
 
 
 
 
-                                   Publicación de resultados preliminares          
+                                   publicación de resultados preliminares          
                                
 
                                    viernes 24 septiembre 2021                               
@@ -322,7 +322,7 @@ Resolución 1107 de 2021Términos de referenciaAnexo 1Anexo 2Anexo 3
 
 
 
-                            Publicación de resultados  definitivos          
+                            publicación de resultados  definitivos          
                         
 
                             miércoles 24 noviembre 2021                        
@@ -353,132 +353,16 @@ Resolución 1107 de 2021Términos de referenciaAnexo 1Anexo 2Anexo 3
 
 
 
-Contacto
+contacto
 
-Si tiene dudas sobre esta convocatoria haga click aquí
+si tiene dudas sobre esta convocatoria haga click aquí
  
  
 
 
 
 
-Transparencia y acceso a información pública 
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- Presidencia
-
- Vicepresidencia
-
- MinJusticia
-
- MinDefensa
-
- MinInterior
-
- Cancilleria
-
- MinHacienda
-
- MinMinas
-
- MinCIT
-
- MinTIC
-
- MinCultura
-
- MinAgricultura
-
- MinAmbiente
-
- MinTransporte
-
- MinVivienda
-
- MinEducación
-
- MinTrabajo
-
- MinSalud
-
-
- 
- 
-
-
-
-
-
-
-
-Información de contacto de Minciencias
-
-Atención Presencial: Avenida Calle 26 No. 57 - 83
-	Torre 8 - Pisos del 2 al 6 Bogotá, Colombia
-Código postal: 111321
-Horario: Lunes a Jueves 8:00am - 5:00pm y Viernes 7:00am- 4:00pm
-	(Jornada contínua)
-Correo Electrónico: atencionalciudadano@minciencias.gov.co
-Teléfono: (+57) (1) 6258480 ext. 2081 - Línea Gratuita: 018000914446
-Fax: (+57) (1) 6258481
-notificacionesjudiciales@minciencias.gov.co
-
-Formato PQRDS
- 
- 
-
-
- 
-
-
-Enlaces relevantes
-
-Atención al ciudadano
-Convocatorias
-Notificaciones Judiciales
-Mapa del sitio
- 
- 
-
-
- 
-
-
-Horario
-
-    Lunes a jueves 8:00 a.m. - 5:00 p.m.
-Viernes 7:00 a.m. - 4:00 p.m. (Jornada contínua)
- 
- 
-
-
- 
-
-
-
-
-
-
-
-
-
- Fecha de última actualización Viernes, Agosto 27, 2021 - 9:09pm  |  Política de Términos, Datos Personales y Condiciones de Uso | Web Master  
-
- 
+transparencia y acceso a información pública 
  
 
 
@@ -492,6 +376,122 @@ Viernes 7:00 a.m. - 4:00 p.m. (Jornada contínua)
 
 
 
-Conoce GOV.CO aquí
+
+
+
+ presidencia
+
+ vicepresidencia
+
+ minjusticia
+
+ mindefensa
+
+ mininterior
+
+ cancilleria
+
+ minhacienda
+
+ minminas
+
+ mincit
+
+ mintic
+
+ mincultura
+
+ minagricultura
+
+ minambiente
+
+ mintransporte
+
+ minvivienda
+
+ mineducación
+
+ mintrabajo
+
+ minsalud
+
+
+ 
+ 
+
+
+
+
+
+
+
+información de contacto de minciencias
+
+atención presencial avenida calle 26 no 57  83
+	torre 8  pisos del 2 al 6 bogotá colombia
+código postal 111321
+horario lunes a jueves 800am  500pm y viernes 700am 400pm
+	jornada contínua
+correo electrónico atencionalciudadanomincienciasgovco
+teléfono 57 601 6258480 ext 2081  línea gratuita 018000914446
+fax 57 601 6258481
+notificacionesjudicialesmincienciasgovco
+
+formato pqrds
+ 
+ 
+
+
+ 
+
+
+enlaces relevantes
+
+atención al ciudadano
+convocatorias
+notificaciones judiciales
+mapa del sitio
+ 
+ 
+
+
+ 
+
+
+horario
+
+    lunes a jueves 800 am  500 pm
+viernes 700 am  400 pm jornada contínua
+ 
+ 
+
+
+ 
+
+
+
+
+
+
+
+
+
+ fecha de última actualización martes septiembre 7 2021  442pm    política de términos datos personales y condiciones de uso  web master  
+
+ 
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+conoce govco aquí
  
 

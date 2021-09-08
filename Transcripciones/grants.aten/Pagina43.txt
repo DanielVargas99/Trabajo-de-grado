@@ -25,7 +25,7 @@
 
 
 
-Austrian Database for Scholarships and Research Grants – grants.at
+austrian database for scholarships and research grants – grantsat
 
 
 
@@ -42,7 +42,7 @@ Austrian Database for Scholarships and Research Grants – grants.at
 
 
 
-Skip to content
+skip to content
 
 
 
@@ -50,16 +50,16 @@ Skip to content
 
 
 
-You are here:
-OeADHome
+you are here
+oeadhome
 
 
-Change languageDE DeutschEnglish (selected)
+change languageen deutschenglish selected
 
 
 
 
-OeAD Portal:NewsEventsNewsletterSocial MediaPressJobsContacts
+oead portalnewseventsnewslettersocial mediapressjobscontacts
 
 
 
@@ -70,15 +70,15 @@ OeAD Portal:NewsEventsNewsletterSocial MediaPressJobsContacts
 
 
 
-Toggle navigation
+toggle navigation
 
 
 
 
 
 
-Main Navigation
-HomeWhat is grants.at?Search tipsQuestions and Answerssubmenu To AustriaFrom Austria to ...Close Menu
+main navigation
+homewhat is grantsatsearch tipsquestions and answerssubmenu to austriafrom austria to close menu
 
 
 
@@ -92,7 +92,7 @@ HomeWhat is grants.at?Search tipsQuestions and Answerssubmenu To AustriaFrom Au
 
 
 
-Austrian Database for Scholarships and Research Grants
+austrian database for scholarships and research grants
 
 
 
@@ -100,15 +100,15 @@ Austrian Database for Scholarships and Research Grants
 
 
 
-© OeAD/Gianmaria Gava
+© oeadgianmaria gava
 
 
 
-granTs.at
+grantsat
 
-Welcome!
+welcome
 
-Austrian Database for Scholarships & Research Grants
+austrian database for scholarships  research grants
 
 
 
@@ -130,40 +130,40 @@ Austrian Database for Scholarships & Research Grants
 
 
 
-eine Initiative des
+eine initiative des
 
 
 
 
 
 
-Skip page footer
-About OeAD Tasks Facts and figures Contact form and location map Our services Programmes A to Z Qualitätsmanagement Ombudsstelle Newsroom Press Social Media Logos Databases oead.map grants.at Lernen in Österreich Studienwahl.at Publikationen About the OeAD Annual reports Erasmus+ Study and research in Austria Study and research worldwide Science, schools and society More OeAD websites africa-uninet APPEAR ARQA-VET Bildungskooperation mit O/SOE Bildungssystem in Österreich Culture connected Digitales Lernen Erasmus+ eTwinning Euraxess Europass Europäisches Solidaritätskorps EU-Strategie für den Donauraum (EUSDR) Initiative Erwachsenenbildung Innovationsstiftung für Bildung International Testing Services Kreativwettbewerb projekt europa Kulturvermittlung mit Schulen NQR-Qualifikationsregister Ö-Cert OeAD-Wohnraumverwaltung SALTO Sparkling Science Study in Austria Vorstudienlehrgang Welt im Ohr Weltweit unterrichten Young Science Zentrum für Citizen Science Find us onFacebookTwitterYouTubePostal addressOeAD, Austria's Agency for Education and Internationalisation Ebendorferstraße 7, 1010 WienCall us +43 1 53408-0A site byCopyright:  OeAD-GmbH – Agency for Education and InternationalisationPrivacy PolicyImpressumSitemap
+skip page footer
+about oead tasks facts and figures contact form and location map our services programmes a to z qualitätsmanagement ombudsstelle newsroom press social media logos databases oeadmap grantsat lernen in österreich studienwahlat publikationen about the oead annual reports erasmus study and research in austria study and research worldwide science schools and society more oead websites africauninet appear arqavet bildungskooperation mit osoe bildungssystem in österreich culture connected digitales lernen erasmus etwinning euraxess europass europäisches solidaritätskorps eustrategie für den donauraum eusdr initiative erwachsenenbildung innovationsstiftung für bildung international testing services kreativwettbewerb projekt europa kulturvermittlung mit schulen nqrqualifikationsregister öcert oeadwohnraumverwaltung salto sparkling science study in austria vorstudienlehrgang welt im ohr weltweit unterrichten young science zentrum für citizen science find us onfacebooktwitteryoutubepostal addressoead austrias agency for education and internationalisation ebendorferstraße 7 1010 wiencall us 43 1 534080a site bycopyright  oeadgmbh – agency for education and internationalisationprivacy policyimpressumsitemap
 
 
 
 
-Start of page
+start of page
 
 
 
 
 
 
-Settings for cookies and third-party applications
+settings for cookies and thirdparty applications
 
 
-For the operation of our website we use operationally necessary cookies to provide you with an optimal website experience. Additional cookies are only used if you agree to them. We use these for statistical purposes or to display individual information. You can decide which categories you want to allow and you can also change your cookie settings at any time. For more information about the cookies we use please see our
-privacy policy.
-By clicking on "Select all and agree" you agree to the use of all cookies. To adjust your cookie settings select the desired checkboxes and click on "Confirm selection".
+for the operation of our website we use operationally necessary cookies to provide you with an optimal website experience additional cookies are only used if you agree to them we use these for statistical purposes or to display individual information you can decide which categories you want to allow and you can also change your cookie settings at any time for more information about the cookies we use please see our
+privacy policy
+by clicking on "select all and agree" you agree to the use of all cookies to adjust your cookie settings select the desired checkboxes and click on "confirm selection"
 
 
 
 
 
-Necessary cookies - These cookies ensure basic functions of our website. This enables us to provide you with preferred settings for your next visit. They also contribute to the safe use of our website.
+necessary cookies  these cookies ensure basic functions of our website this enables us to provide you with preferred settings for your next visit they also contribute to the safe use of our website
 
-cookieconsent_status_new - contains the information to what extent the user has confirmed the use of cookies.
+cookieconsentstatusnew  contains the information to what extent the user has confirmed the use of cookies
 
 
 
@@ -172,17 +172,17 @@ cookieconsent_status_new - contains the information to what extent the user has 
 
 
 
-Statistical cookies - With the help of these cookies we can analyse the use of our website. These help us to constantly improve the functionality of our website.
+statistical cookies  with the help of these cookies we can analyse the use of our website these help us to constantly improve the functionality of our website
 
-_pk_ses.1.d1bb - shows an active visitor's session. used to store interactions with your website. (stored for 30 min)
-_pk_id.1.d1bb - used to recognize visitors and hold their various properties: visitorID, cookie creation time, count of previous visits, current time and time of a last visit. (stored for 13 months)
+pkses1d1bb  shows an active visitors session used to store interactions with your website stored for 30 min
+pkid1d1bb  used to recognize visitors and hold their various properties visitorid cookie creation time count of previous visits current time and time of a last visit stored for 13 months
 
 
 
 
 
-Confirm selection
-Select all and agree
+confirm selection
+select all and agree
 
 
 

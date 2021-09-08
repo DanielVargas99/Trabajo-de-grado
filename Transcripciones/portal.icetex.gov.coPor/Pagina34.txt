@@ -27,7 +27,7 @@
 
 
 
-	Convocatoria- Estudios de Maestría o Doctorado en Taiwán
+	convocatoria estudios de maestría o doctorado en taiwán
 
 
 
@@ -66,10 +66,10 @@
 
 
 
-X
+x
 
 
-Preinscripción
+preinscripción
 
 
 
@@ -93,10 +93,10 @@ Preinscripción
 
 
                                            
-                                            Tamaño de letra:
+                                            tamaño de letra
                                             
                                             
-                                            Aumentar/Reducir
+                                            aumentarreducir
 
 
 
@@ -107,7 +107,7 @@ Preinscripción
 
 
 
-Buscar
+buscar
 
 
 
@@ -125,217 +125,220 @@ Buscar
 
 
 
- Cerrar / Close   
- Menu  
+ cerrar  close   
+ menu  
 
 
 
 
 
 
-El ICETEX
+el icetex
 
 
-Quiénes Somos
+quiénes somos
 
 
-Estructura organizacional
+estructura organizacional
 
 
-Normatividad
+normatividad
 
 
-Relaciones internacionales - ICETEX
+relaciones internacionales  icetex
 
 
-Relación con Inversionistas
+relación con inversionistas
 
 
-Estadísticas Oficiales - ICETEX
+estadísticas oficiales  icetex
 
 
-Plan Estratégico
+plan estratégico
 
 
-Estados financieros y presupuesto
+estados financieros y presupuesto
 
 
-Sistema integrado gestión
+sistema integrado gestión
 
 
-Mecanismos de control
+mecanismos de control
 
 
-Estructura jurídica
+estructura jurídica
 
 
-Contratación
+contratación
 
 
-Bienes muebles inservibles - ICETEX
+bienes muebles inservibles  icetex
 
 
-Estudios y encuestas - ICETEX
+estudios y encuestas  icetex
 
 
-Gestión Documental
+gestión documental
 
 
-Biblioteca
+biblioteca
 
 
 
 
-Estudiante
+estudiante
 
 
-Becas
+becas
 
 
-Fondos en Administración - ICETEX
+fondos en administración  icetex
 
 
-Créditos Tú Eliges - ICETEX
+créditos tú eliges  icetex
 
 
-Gestión Crédito - ICETEX
+gestión crédito  icetex
 
 
-Estado de Cuenta
+estado de cuenta
 
 
-Pagos
+pagos
 
 
-Simuladores - ICETEX
+simuladores  icetex
 
 
-TAE - ICETEX
+tae  icetex
 
 
-Alianzas
+ies convenio con icetex
 
 
+alianzas
 
 
-Universidades
 
 
-Convenios con el ICETEX - ICETEX
+universidades
 
 
-Modelo de integración - ICETEX
+convenios con el icetex  icetex
 
 
-Proceso de IES
+modelo de integración  icetex
 
 
-Convocatoria - ICETEX
+proceso de ies
 
 
-Internacionalización - ICETEX
+convocatoria  icetex
 
 
-Inscripción Crédito IES
+internacionalización  icetex
 
 
-SAV - Canal IES
+inscripción crédito ies
 
 
+sav  canal ies
 
 
-Fondos y Alianzas
 
 
-¿Qué son las alianzas y los fondos de inversión? - ICETEX
+fondos y alianzas
 
 
-Alianzas
+¿qué son las alianzas y los fondos de inversión  icetex
 
 
-Cooperativas
+alianzas
 
 
-Fondos
+cooperativas
 
 
-Invertir en educación - ICETEX
+fondos
 
 
+invertir en educación  icetex
 
 
-Contratación
 
 
-Procesos de contratación
+contratación
 
 
-Contratos Adjudicados
+procesos de contratación
 
 
-SIRECI - ICETEX
+contratos adjudicados
 
 
-Directorio de proponentes - ICETEX
+sireci  icetex
 
 
-Plan de adquisición o compra - ICETEX
+directorio de proponentes  icetex
 
 
-Hojas de vida en curso - ICETEX
+plan de adquisición o compra  icetex
 
 
-Giros a proveedores - ICETEX
+hojas de vida en curso  icetex
 
 
+giros a proveedores  icetex
 
 
-Relación con Inversionistas
 
 
-Atención y Servicios a la Ciudadanía
+relación con inversionistas
 
 
-Centros de Experiencia Presencial - ICETEX
+atención y servicios a la ciudadanía
 
 
-Preguntas frecuentes - ICETEX
+centros de experiencia presencial  icetex
 
 
-Glosario - ICETEX
+preguntas frecuentes  icetex
 
 
-Listado de trámites y servicios - ICETEX
+glosario  icetex
 
 
-Participa
+listado de trámites y servicios  icetex
 
 
-Encuesta de satisfacción - ICETEX
+participa
 
 
-Defensor del Consumidor Financiero - ICETEX
+encuesta de satisfacción  icetex
 
 
-Información al consumidor financiero
+defensor del consumidor financiero  icetex
 
 
-Cartera cedida CISA- ICETEX
+información al consumidor financiero
 
 
-Ayudas - ICETEX
+cartera cedida cisa icetex
 
 
-Sistema de atención virtual (PQRSD) - ICETEX
+ayudas  icetex
 
 
-Denuncias - ICETEX
+sistema de atención virtual pqrsd  icetex
 
 
-Notificaciones Judiciales - ICETEX
+denuncias  icetex
 
 
-Educación en Seguridad de la Información - ICETEX
+notificaciones judiciales  icetex
+
+
+educación en seguridad de la información  icetex
 
 
 
@@ -367,7 +370,7 @@ x
 
 
 
-Becas Mundo
+becas mundo
 
 
 
@@ -378,7 +381,7 @@ Becas Mundo
 
 
 
-Inicio/ Estudiante/ Becas/ Becas para Estudios en el Exterior - ICETEX/ Becas Vigentes/ Convocatoria: Estudios de Maestría o Doctorado en Taiwán
+inicio estudiante becas becas para estudios en el exterior  icetex becas vigentes convocatoria estudios de maestría o doctorado en taiwán
 
 
 
@@ -389,33 +392,33 @@ Inicio/ Estudiante/ Becas/ Becas para Estudios en el Exterior - ICETEX/ Becas Vi
 
 
 
-Estudios de Maestría o Doctorado en Taiwán
+estudios de maestría o doctorado en taiwán
 
 
 
-Descripción de la convocatoria
-Ofrecer la oportunidad a profesionales colombianos de realizar estudios de maestría o doctorado en Taiwán.
-
-
-
-
-
-
-
-Estado y fechas de la convocatoria
-
-
-Estado de la convocatoria:
-CERRADA
+descripción de la convocatoria
+ofrecer la oportunidad a profesionales colombianos de realizar estudios de maestría o doctorado en taiwán
 
 
 
 
 
 
-Apertura:
+
+estado y fechas de la convocatoria
+
+
+estado de la convocatoria
+cerrada
+
+
+
+
+
+
+apertura
 15 de febrero del 2021
-Cierre:
+cierre
 31 de marzo del 2021
 
 
@@ -423,7 +426,7 @@ Cierre:
 
 
 
-Comisión Nacional de Becas:
+comisión nacional de becas
 22 de abril del 2021
 
 
@@ -433,49 +436,49 @@ Comisión Nacional de Becas:
 
 
 
-Tabla de generalidades
+tabla de generalidades
 
 
-País:
-Taiwán
-Ciudad:
-Diferentes Ciudades - Taiwán
-
-
-
-
-
-
-Área de estudio:
-Diferentes Áreas
+país
+taiwán
+ciudad
+diferentes ciudades  taiwán
 
 
 
 
 
 
-
-Oferente:
-Ministerio de Educación (MOE) de la República de China (Taiwán)
-
-
-
-
-
-
-Centro docente:
-Diferentes Centros Docentes
+área de estudio
+diferentes áreas
 
 
 
 
 
 
-Duración del programa:
-2-4 años
-Fecha inicio del programa:
+
+oferente
+ministerio de educación moe de la república de china taiwán
+
+
+
+
+
+
+centro docente
+diferentes centros docentes
+
+
+
+
+
+
+duración del programa
+24 años
+fecha inicio del programa
 1 de septiembre del 2021
-Fecha final del programa:
+fecha final del programa
 1 de septiembre del 2025
 
 
@@ -483,47 +486,18 @@ Fecha final del programa:
 
 
 
-Idioma:
-Inglés
-Tipo de curso:
-Presencial
+idioma
+inglés
+tipo de curso
+presencial
 
 
 
 
 
 
-Título a obtener:
-Título otorgado por la universidad respectiva
-
-
-
-
-
-
-
-
-
-
-Perfil del aspirante
-
-El programa está dirigido a profesionales colombianos en diferentes áreas que deseen realizar estudios de maestría o doctorado en Taiwán.  Los aspirantes que deseen realizar estudios de doctorado deben contar con el título de maestría. 
-
-REQUISITOS: El aspirante debe ser mayor de 23 años y menor de 45 años, tener un promedio mínimo de notas universitarias (pregrado o maestría, según el caso) de 3,7/5,0; contar preferiblemente con mínimo 1 año de experiencia profesional y poseer muy buenos conocimientos de idioma inglés con prueba escrita, con puntaje mínimo: TOEFL IBT: 80 puntos, CAMBRIDGE: 170 puntos o IELTS: 6.0 en todas las áreas. El aspirante debe gozar de buena salud física y mental.
-
- ASPECTOS IMPORTANTES: 1. El aspirante no podrá tener nacionalidad de la República de China (Taiwán), no podrá tener títulos de Taiwán del mismo nivel o grado al que está aplicando, no puede haber sido beneficiario de la misma beca de Taiwán por más de un total de cinco años y no podrá ser beneficiario de cualquier modalidad de becas oficiales o universitarias de la República de China (Taiwán) al mismo tiempo.
-
-2. Los aspirantes deberán gestionar la admisión a una universidad en Taiwán, o de lo contrario la aplicación no será recibida. La fecha límite de aplicación depende de cada universidad. 
-
-3. Los candidatos seleccionados deberán presentar a la Oficina Comercial de Taipéi en Colombia, una copia de su carta de admisión a la universidad en Taiwán, antes del 30 de junio de 2021. Sin obtener la admisión de la universidad o no presentar los documentos dentro del período establecido, resultará descalificada la candidatura a la beca.
-
-4. Luego de ser seleccionado como beneficiario de la beca, los documentos deben ser legalizados con su traducción oficial en chino o inglés por la Embajada u Oficina de Representación de la República de China (Taiwán) para presentar en la universidad solicitada.
-
-5. La beca no se pospone para próximos años.
-
-6. La admisión de la universidad no equivale a que el aspirante ya sea beneficiado de la beca, sino hasta que llegue el aviso formal de la Oficina Comercial de Taipéi en Colombia sobre la aprobación de la beca.
-
-7. Si hubiese irregularidad en cualquier documento presentado para el proceso de selección, se perderá la calidad de candidato y la postulación quedará excluida del proceso.
+título a obtener
+título otorgado por la universidad respectiva
 
 
 
@@ -533,30 +507,56 @@ REQUISITOS: El aspirante debe ser mayor de 23 años y menor de 45 años, tener u
 
 
 
-Financiación
+
+perfil del aspirante
+
+el programa está dirigido a profesionales colombianos en diferentes áreas que deseen realizar estudios de maestría o doctorado en taiwán  los aspirantes que deseen realizar estudios de doctorado deben contar con el título de maestría 
+
+requisitos el aspirante debe ser mayor de 23 años y menor de 45 años tener un promedio mínimo de notas universitarias pregrado o maestría según el caso de 3750 contar preferiblemente con mínimo 1 año de experiencia profesional y poseer muy buenos conocimientos de idioma inglés con prueba escrita con puntaje mínimo toefl ibt 80 puntos cambridge 170 puntos o ielts 60 en todas las áreas el aspirante debe gozar de buena salud física y mental
+
+ aspectos importantes 1 el aspirante no podrá tener nacionalidad de la república de china taiwán no podrá tener títulos de taiwán del mismo nivel o grado al que está aplicando no puede haber sido beneficiario de la misma beca de taiwán por más de un total de cinco años y no podrá ser beneficiario de cualquier modalidad de becas oficiales o universitarias de la república de china taiwán al mismo tiempo
+
+2 los aspirantes deberán gestionar la admisión a una universidad en taiwán o de lo contrario la aplicación no será recibida la fecha límite de aplicación depende de cada universidad 
+
+3 los candidatos seleccionados deberán presentar a la oficina comercial de taipéi en colombia una copia de su carta de admisión a la universidad en taiwán antes del 30 de junio de 2021 sin obtener la admisión de la universidad o no presentar los documentos dentro del período establecido resultará descalificada la candidatura a la beca
+
+4 luego de ser seleccionado como beneficiario de la beca los documentos deben ser legalizados con su traducción oficial en chino o inglés por la embajada u oficina de representación de la república de china taiwán para presentar en la universidad solicitada
+
+5 la beca no se pospone para próximos años
+
+6 la admisión de la universidad no equivale a que el aspirante ya sea beneficiado de la beca sino hasta que llegue el aviso formal de la oficina comercial de taipéi en colombia sobre la aprobación de la beca
+
+7 si hubiese irregularidad en cualquier documento presentado para el proceso de selección se perderá la calidad de candidato y la postulación quedará excluida del proceso
 
 
 
-Financiación
 
 
-Número de becas
-Porcentaje
+
+
+
+
+financiación
+
+
+
+financiación
+
+
+número de becas
+porcentaje
 
 
 3
-70%
+70
 
 
-Gastos que cubre
+gastos que cubre
 
 
-NO INCLUYE: tiquetes aéreos, costos de tutorías/asesorías para tesis, alojamiento ni acceso a internet.
-Matrícula Por semestre, matrícula y costos de créditos académicos máximo hasta 40.000 NTD (aprox. 1.429 USD), la diferencia debe ser cancelada por el beneficiario.
-Estipendio Mensual:  Se otorgará un subsidio mensual para los gastos personales de 20.000 NTD (aprox. 714 USD)
-
-
-
+no incluye tiquetes aéreos costos de tutoríasasesorías para tesis alojamiento ni acceso a internet
+matrícula por semestre matrícula y costos de créditos académicos máximo hasta 40000 ntd aprox 1429 usd la diferencia debe ser cancelada por el beneficiario
+estipendio mensual  se otorgará un subsidio mensual para los gastos personales de 20000 ntd aprox 714 usd
 
 
 
@@ -565,7 +565,10 @@ Estipendio Mensual:  Se otorgará un subsidio mensual para los gastos personales
 
 
 
-Documentos requeridos
+
+
+
+documentos requeridos
 
 
 
@@ -573,63 +576,63 @@ Documentos requeridos
 
 
 
-Documento No.
-Documento
-Cantidad
-Observaciones
+documento no
+documento
+cantidad
+observaciones
 
 
 1
-FORMULARIO GOBIERNO OFERENTE
+formulario gobierno oferente
 1
-El formulario (disponible para descarga en: https://bit.ly/2OfvnJR deberá estar diligenciado en su totalidad.
+el formulario disponible para descarga en httpsbitly2ofvnjr deberá estar diligenciado en su totalidad
 
 
 
 
 2
-ADMISIÓN DEFINITIVA AL CENTRO DOCENTE
+admisión definitiva al centro docente
 1
-Deberán presentar el comprobante de aplicación a la universidad incluyendo el formulario de aplicación, hoja de vida y proyecto de estudio, acuso de recibo de la universidad vía correo electrónico o comprobante de pago. 
+deberán presentar el comprobante de aplicación a la universidad incluyendo el formulario de aplicación hoja de vida y proyecto de estudio acuso de recibo de la universidad vía correo electrónico o comprobante de pago 
 
-            Los   CANDIDATOS SELECCIONADOS  deberán presentar la copia de la carta de admisión de la universidad a la Oficina Comercial de Taipéi en Colombia antes del 30 de junio de 2021. La candidatura será rechazada si no se tiene la carta de admisión o si no se presenta antes del 30 de junio de 2021.
+            los   candidatos seleccionados  deberán presentar la copia de la carta de admisión de la universidad a la oficina comercial de taipéi en colombia antes del 30 de junio de 2021 la candidatura será rechazada si no se tiene la carta de admisión o si no se presenta antes del 30 de junio de 2021
             
 
 
 3
-TÍTULO UNIVERSITARIO
+título universitario
 1
-El título del más alto grado obtenido (pregrado o maestría según el programa a realizar)
-             NOTA: El título de especialización no es válido.
+el título del más alto grado obtenido pregrado o maestría según el programa a realizar
+             nota el título de especialización no es válido
             
 
 
 4
-CERTIFICADO DE NOTAS UNIVERSITARIAS
+certificado de notas universitarias
 1
-El certificado de notas (de pregrado o maestría, según el caso) debe ser con promedio acumulado ponderado de la carrera.   NOTA: NO SE ACEPTAN CERTIFICADOS DESCARGADOS DE INTERNET.
+el certificado de notas de pregrado o maestría según el caso debe ser con promedio acumulado ponderado de la carrera   nota no se aceptan certificados descargados de internet
             
 
 
 5
-CERTIFICADO CONOCIMIENTOS INGLÉS
+certificado conocimientos inglés
 1
-La fecha de los resultados de la prueba de conocimientos de idioma no debe sobrepasar de dos años.
-             NOTA: Únicamente se aceptan resultados de TOEFL IBT, IELTS o CAMBRIDGE).
+la fecha de los resultados de la prueba de conocimientos de idioma no debe sobrepasar de dos años
+             nota únicamente se aceptan resultados de toefl ibt ielts o cambridge
             
 
 
 6
-CARTAS DE RECOMENDACIÓN ACADÉMICA 
+cartas de recomendación académica 
 1
-Las cartas deben ser emitidas por el Rector, profesor o tutor de la institución educativa de la cual proviene el aspirante.
+las cartas deben ser emitidas por el rector profesor o tutor de la institución educativa de la cual proviene el aspirante
             
 
 
 7
-CERTIFICADO DE EXPERIENCIA PROFESIONAL
+certificado de experiencia profesional
 1
-SI APLICA, el certificado debe ser expedido por la entidad o entidades donde haya trabajado profesionalmente, detallando las funciones desarrolladas y las que actualmente desempeña.
+si aplica el certificado debe ser expedido por la entidad o entidades donde haya trabajado profesionalmente detallando las funciones desarrolladas y las que actualmente desempeña
             
 
 
@@ -642,37 +645,37 @@ SI APLICA, el certificado debe ser expedido por la entidad o entidades donde hay
 
 
 
-Criterios de preselección
+criterios de preselección
 
 
 
 
 
-Nombre del criterio
-Peso del criterio
+nombre del criterio
+peso del criterio
 
 
-Nivel Actual de Inglés
+nivel actual de inglés
 20
 
 
-Coherencia entre el perfil del aspirante y el programa a realizar 
+coherencia entre el perfil del aspirante y el programa a realizar 
 25
 
 
-Lugar actual de residencia
+lugar actual de residencia
 15
 
 
-Promedio Académico Pregrado / Posgrado
+promedio académico pregrado  posgrado
 30
 
 
-Experiencia Profesional
+experiencia profesional
 5
 
 
-Sector de desempeño laboral
+sector de desempeño laboral
 5
 
 
@@ -685,25 +688,9 @@ Sector de desempeño laboral
 
 
 
-Objetivos del programa
+objetivos del programa
 
-Formar profesionales a nivel de posgrado: Maestría o Doctorado en Taiwán. La duración de maestría es de 2 años y de doctorado es de 4 años.
-
-
-
-
-
-
-
-Contenido del programa
-
-- Para más información sobre la oferta, así como los formatos requeridos, consulte en la página web de: “Taiwan Scholarship and Huayu Enrichment Scholarship Program”: https://taiwanscholarship.moe.gov.tw/web/pages.aspx?p=7.
-
-
-- Para más información sobre las directrices de la Beca de Taiwán, del Ministerio de Educación, visite: https://taiwanscholarship.moe.gov.tw/web/pages.aspx?p=7.
-
-
-- Para consultar acerca de los programas ofrecidos, visite:  http://www.studyintaiwan.org.
+formar profesionales a nivel de posgrado maestría o doctorado en taiwán la duración de maestría es de 2 años y de doctorado es de 4 años
 
 
 
@@ -711,49 +698,65 @@ Contenido del programa
 
 
 
+contenido del programa
 
-Tener en cuenta (Observaciones)
+ para más información sobre la oferta así como los formatos requeridos consulte en la página web de “taiwan scholarship and huayu enrichment scholarship program” httpstaiwanscholarshipmoegovtwwebpagesaspxp7
 
 
-El ICETEX no tiene intermediarios ni cobra por los trámites de los servicios que el instituto ofrece, ni por adjudicación de créditos ni becas.
-Su solicitud será excluida del proceso si no se cargan los documentos requeridos al momento de realizar la postulación, a más tardar en la fecha límite de postulación señalada en esta convocatoria.
-Los candidatos a quienes se les haya concedido una beca a través del ICETEX -presencial o virtual- cuya duración haya sido igual o superior a 3 meses, o que decidan renunciar a la beca por razones no justificadas, deberán esperar dos años, contados a partir de la fecha de finalización del programa, para solicitar de nuevo una beca internacional. 
-Los aspirantes a becas no podrán presentarse a más de un (1) programa simultáneamente. En caso de ser preseleccionado por la Comisión Nacional de Becas, deberá esperar la decisión final por parte del oferente para volver a participar en una nueva convocatoria.
-Toda la información suministrada por los candidatos deberá ser veraz y estará sujeta a verificación de acuerdo con lo estipulado en el Artículo No. 83 de la Constitución Nacional y en los Artículos 286 a 296 del Código Penal Colombiano relacionados con la Falsedad en Documentos; el aspirante deberá cumplir estrictamente con los requisitos exigidos para este programa y deberán cargar la documentación como soporte de su aplicación, en la fecha límite relacionada en esta convocatoria. Igualmente, si se encuentra alguna incoherencia o inconsistencia entre los requisitos exigidos en la convocatoria, los datos registrados en el formulario virtual y la documentación aportada como soporte a esta solicitud quedará excluida del proceso y no habrá derecho a reclamo.
-La documentación solicitada por el ICETEX tiene el propósito de cumplir con los requisitos exigidos por el oferente.
-Sí usted ha sido favorecido con una beca del programa de Desarrollo Profesional de la OEA en los últimos doce (12) meses, o si usted actualmente tiene una beca de estudios académicos, NO ES ELEGIBLE PARA APLICAR A OTRA BECA del programa de Desarrollo Profesional de la OEA. Igualmente, cabe señalar que TODAS LAS BECAS OTORGADAS ESTAN CONDICIONADAS A LA CONTINUA DISPONIBILIDAD DE FONDOS DEL PROGRAMA DE BECAS DE LA OEA. Se advierte a los estudiantes que, en el caso de que el programa de becas pierda financiamiento, la Secretaria General de la OEA se verá obligada a suspender el pago a los becarios y/o instituciones educativas. La SG/OEA no garantiza la disponibilidad permanente de fondos y todos los becarios deben ser conscientes de que la financiación de la beca puede culminar en cualquier momento, independientemente de la cantidad proyectada o la duración de la beca.
-Para los programas presenciales o virtuales que otorgan exención de matrícula, los porcentajes se adjudicarán con base en el puntaje final de preselección obtenido por cada estudiante de acuerdo con los parámetros y los criterios de preselección señalados en esta convocatoria.
-Los beneficiarios del crédito educativo o de fondos en administración que se encuentren en mora, no podrán participar en un programa de beca internacional.
-En algunos países los títulos de maestría otorgados a los estudiantes nacionales y extranjeros son de dos tipos: Título Propio: Dirigido a profesionales de diferentes disciplinas en especial las relacionadas con las ciencias administrativas y económicas, entre otras, y cuyo interés sea el de generar empleo a través de la constitución de una empresa o negocio o el de prestar sus servicios profesionales a empresas del sector privado donde no se le exija la convalidación por parte del Ministerio de Educación Nacional del título obtenido, pueden optar a este tipo de programas. Título Oficial: Dirigido a profesionales de diferentes disciplinas en especial las relacionadas con las ciencias administrativas y económicas, entre otras, y cuyo interés sea el de desempeñarse en el sector público, ascender en sus cargos o en la búsqueda del escalafón de docente o el de continuar con estudios de doctorado. A diferencia del título propio, el oficial es convalidado por parte del Ministerio de Educación Nacional. EL ICETEX NO OTORGARÁ CRÉDITOS PARA ESTUDIOS DE POSGRADO CONDUCENTES A TÍTULOS PROPIOS, LOS CUALES NO SON CONVALIDABLES EN COLOMBIA.
-TODOS LOS CANDIDATOS DEBERÁN APLICAR POR LA PÁGINA WEB, DE LO CONTRARIO NO SERÁN TENIDOS EN CUENTA POR LA COMISIÓN NACIONAL DE BECAS.
-ES POTESTATIVO DEL OFERENTE OTORGAR O NO LA BECA PARA ESTE PROGRAMA A LOS CANDIDATOS PRESELECCIONADOS POR LA COMISIÓN NACIONAL DE BECAS.
-LOS RESULTADOS DE PRESELECCIÓN SE DARÁN A CONOCER OPORTUNAMENTE LUEGO DE LA SESIÓN DE LA COMISIÓN NACIONAL DE BECAS, A TRAVÉS DEL CORREO ELECTRÓNICO REGISTRADO POR EL PARTICIPANTE AL MOMENTO DE REALIZAR EL PROCESO DE APLICACIÓN.
-POR NINGUN MOTIVO, SE RECIBIRÁN SOLICITUDES QUE NO CUMPLAN ESTRICTAMENTE CON LA TOTALIDAD DE LOS REQUISITOS EXIGIDOS EN ESTA CONVOCATORIA.
-NO SE RECIBIRÁN DOCUMENTOS EN FÍSICO EN NINGÚN PUNTO DE ATENCIÓN DEL ICETEX A NIVEL NACIONAL. 
+ para más información sobre las directrices de la beca de taiwán del ministerio de educación visite httpstaiwanscholarshipmoegovtwwebpagesaspxp7
+
+
+ para consultar acerca de los programas ofrecidos visite  httpwwwstudyintaiwanorg
 
 
 
 
 
-Ingresa para postularte
+
+
+
+tener en cuenta observaciones
+
+
+el icetex no tiene intermediarios ni cobra por los trámites de los servicios que el instituto ofrece ni por adjudicación de créditos ni becas
+su solicitud será excluida del proceso si no se cargan los documentos requeridos al momento de realizar la postulación a más tardar en la fecha límite de postulación señalada en esta convocatoria
+los candidatos a quienes se les haya concedido una beca a través del icetex presencial o virtual cuya duración haya sido igual o superior a 3 meses o que decidan renunciar a la beca por razones no justificadas deberán esperar dos años contados a partir de la fecha de finalización del programa para solicitar de nuevo una beca internacional 
+los aspirantes a becas no podrán presentarse a más de un 1 programa simultáneamente en caso de ser preseleccionado por la comisión nacional de becas deberá esperar la decisión final por parte del oferente para volver a participar en una nueva convocatoria
+toda la información suministrada por los candidatos deberá ser veraz y estará sujeta a verificación de acuerdo con lo estipulado en el artículo no 83 de la constitución nacional y en los artículos 286 a 296 del código penal colombiano relacionados con la falsedad en documentos el aspirante deberá cumplir estrictamente con los requisitos exigidos para este programa y deberán cargar la documentación como soporte de su aplicación en la fecha límite relacionada en esta convocatoria igualmente si se encuentra alguna incoherencia o inconsistencia entre los requisitos exigidos en la convocatoria los datos registrados en el formulario virtual y la documentación aportada como soporte a esta solicitud quedará excluida del proceso y no habrá derecho a reclamo
+la documentación solicitada por el icetex tiene el propósito de cumplir con los requisitos exigidos por el oferente
+sí usted ha sido favorecido con una beca del programa de desarrollo profesional de la oea en los últimos doce 12 meses o si usted actualmente tiene una beca de estudios académicos no es elegible para aplicar a otra beca del programa de desarrollo profesional de la oea igualmente cabe señalar que todas las becas otorgadas estan condicionadas a la continua disponibilidad de fondos del programa de becas de la oea se advierte a los estudiantes que en el caso de que el programa de becas pierda financiamiento la secretaria general de la oea se verá obligada a suspender el pago a los becarios yo instituciones educativas la sgoea no garantiza la disponibilidad permanente de fondos y todos los becarios deben ser conscientes de que la financiación de la beca puede culminar en cualquier momento independientemente de la cantidad proyectada o la duración de la beca
+para los programas presenciales o virtuales que otorgan exención de matrícula los porcentajes se adjudicarán con base en el puntaje final de preselección obtenido por cada estudiante de acuerdo con los parámetros y los criterios de preselección señalados en esta convocatoria
+los beneficiarios del crédito educativo o de fondos en administración que se encuentren en mora no podrán participar en un programa de beca internacional
+en algunos países los títulos de maestría otorgados a los estudiantes nacionales y extranjeros son de dos tipos título propio dirigido a profesionales de diferentes disciplinas en especial las relacionadas con las ciencias administrativas y económicas entre otras y cuyo interés sea el de generar empleo a través de la constitución de una empresa o negocio o el de prestar sus servicios profesionales a empresas del sector privado donde no se le exija la convalidación por parte del ministerio de educación nacional del título obtenido pueden optar a este tipo de programas título oficial dirigido a profesionales de diferentes disciplinas en especial las relacionadas con las ciencias administrativas y económicas entre otras y cuyo interés sea el de desempeñarse en el sector público ascender en sus cargos o en la búsqueda del escalafón de docente o el de continuar con estudios de doctorado a diferencia del título propio el oficial es convalidado por parte del ministerio de educación nacional el icetex no otorgará créditos para estudios de posgrado conducentes a títulos propios los cuales no son convalidables en colombia
+todos los candidatos deberán aplicar por la página web de lo contrario no serán tenidos en cuenta por la comisión nacional de becas
+es potestativo del oferente otorgar o no la beca para este programa a los candidatos preseleccionados por la comisión nacional de becas
+los resultados de preselección se darán a conocer oportunamente luego de la sesión de la comisión nacional de becas a través del correo electrónico registrado por el participante al momento de realizar el proceso de aplicación
+por ningun motivo se recibirán solicitudes que no cumplan estrictamente con la totalidad de los requisitos exigidos en esta convocatoria
+no se recibirán documentos en físico en ningún punto de atención del icetex a nivel nacional 
+
+
+
+
+
+ingresa para postularte
  
  
  
 
 
-Becas en el exterior
-Becas vigentes
-Historial de becas ofrecidas 
-Estado solicitud de la beca 
-Reciba información de becas por correo
-Otras becas
+becas en el exterior
+becas vigentes
+historial de becas ofrecidas 
+estado solicitud de la beca 
+reciba información de becas por correo
+otras becas
  
-Programas especiales
-Artistas Jóvenes Talentos
-Plataforma de Alianza Pacífico
-Asistente de idiomas en el exterior
-OEA
-Programas de maestría Universidad Internacional de la Rioja
+programas especiales
+artistas jóvenes talentos
+plataforma de alianza pacífico
+asistente de idiomas en el exterior
+oea
+programas de maestría universidad internacional de la rioja
 
 
 
@@ -832,48 +835,48 @@ Programas de maestría Universidad Internacional de la Rioja
 
 
 
-    Instituto Colombiano de Crédito Educativo y Estudios
-    Técnicos en el Exterior – ICETEX
+    instituto colombiano de crédito educativo y estudios
+    técnicos en el exterior – icetex
     
 
 
 
-Dirección: Carrera. 3 No. 18-32 (Recepción de
-    correspondencia) 
-    Cundinamarca | Bogotá D.C.
+dirección carrera 3 no 1832 recepción de
+    correspondencia 
+    cundinamarca  bogotá dc
     
-    Dependiendo de cada uno de nuestros
-    Centros de Experiencia Presencial
+    dependiendo de cada uno de nuestros
+    centros de experiencia presencial
 
 
 
-Código postal: 110321
+código postal 110321
 
 
 
-Horario: Lunes a viernes de 7:00 a.m. a 7:00 p.m.
+horario lunes a viernes de 700 am a 700 pm
     
-    Sábados de 8:00 a.m. a 6:00 p.m. 
-    Dependiendo de cada uno
+    sábados de 800 am a 600 pm 
+    dependiendo de cada uno
     de nuestros
-    Canales de Atención
+    canales de atención
 
 
 
-Chat: 24 horas
+chat 24 horas
 
 
-Video atención: 6:00 a.m. a 10:00 p.m.
+video atención 600 am a 1000 pm
 
 
-Redes sociales: (Twitter- Facebook) 24 horas
+redes sociales twitter facebook 24 horas
 
 
 
 
 
-Horario de las IES: Lunes a viernes de 8:00 a.m. a
-    5:30 p.m.
+horario de las ies lunes a viernes de 800 am a
+    530 pm
     
 
 
@@ -885,41 +888,41 @@ Horario de las IES: Lunes a viernes de 8:00 a.m. a
 
 
 
-Contacto:
+contacto
 
 
 
-Bogotá: (+57-1) 417-3535
-Nacional (gratuita): (+57-1) 018000-916821 (línea de
-quejas y reclamos). 
-PBX: (+57-1)
-382-1670
+bogotá 571 4173535
+nacional gratuita 571 018000916821 línea de
+quejas y reclamos 
+pbx 571
+3821670
 
 
-Notificaciones judiciales: 
-notificaciones@icetex.gov.co
+notificaciones judiciales 
+notificacionesicetexgovco
 
 
-Sistema de Atención Virtual (SAV)
+sistema de atención virtual sav
 
-Peticiones, quejas, reclamos y denuncias
-
-
-Radicación de Comunicaciones Oficiales
-
-tutramite@icetex.gov.co
+peticiones quejas reclamos y denuncias
 
 
+radicación de comunicaciones oficiales
 
-
+tutramiteicetexgovco
 
 
 
 
 
 
-Política de tratamiento de datos|Red de oficinas|Canales de atención|
-Términos y condiciones del sitio|Mapa del sitio|Funcionarios
+
+
+
+
+política de tratamiento de datosred de oficinascanales de atención
+términos y condiciones del sitiomapa del sitiofuncionarios
 
 
 

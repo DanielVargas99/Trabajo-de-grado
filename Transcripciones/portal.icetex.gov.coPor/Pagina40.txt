@@ -27,7 +27,7 @@
 
 
 
-	Generalidades- Maestría en diferentes áreas en Rusia
+	generalidades maestría en diferentes áreas en rusia
 
 
 
@@ -66,10 +66,10 @@
 
 
 
-X
+x
 
 
-Preinscripción
+preinscripción
 
 
 
@@ -93,10 +93,10 @@ Preinscripción
 
 
                                            
-                                            Tamaño de letra:
+                                            tamaño de letra
                                             
                                             
-                                            Aumentar/Reducir
+                                            aumentarreducir
 
 
 
@@ -107,7 +107,7 @@ Preinscripción
 
 
 
-Buscar
+buscar
 
 
 
@@ -125,217 +125,220 @@ Buscar
 
 
 
- Cerrar / Close   
- Menu  
+ cerrar  close   
+ menu  
 
 
 
 
 
 
-El ICETEX
+el icetex
 
 
-Quiénes Somos
+quiénes somos
 
 
-Estructura organizacional
+estructura organizacional
 
 
-Normatividad
+normatividad
 
 
-Relaciones internacionales - ICETEX
+relaciones internacionales  icetex
 
 
-Relación con Inversionistas
+relación con inversionistas
 
 
-Estadísticas Oficiales - ICETEX
+estadísticas oficiales  icetex
 
 
-Plan Estratégico
+plan estratégico
 
 
-Estados financieros y presupuesto
+estados financieros y presupuesto
 
 
-Sistema integrado gestión
+sistema integrado gestión
 
 
-Mecanismos de control
+mecanismos de control
 
 
-Estructura jurídica
+estructura jurídica
 
 
-Contratación
+contratación
 
 
-Bienes muebles inservibles - ICETEX
+bienes muebles inservibles  icetex
 
 
-Estudios y encuestas - ICETEX
+estudios y encuestas  icetex
 
 
-Gestión Documental
+gestión documental
 
 
-Biblioteca
+biblioteca
 
 
 
 
-Estudiante
+estudiante
 
 
-Becas
+becas
 
 
-Fondos en Administración - ICETEX
+fondos en administración  icetex
 
 
-Créditos Tú Eliges - ICETEX
+créditos tú eliges  icetex
 
 
-Gestión Crédito - ICETEX
+gestión crédito  icetex
 
 
-Estado de Cuenta
+estado de cuenta
 
 
-Pagos
+pagos
 
 
-Simuladores - ICETEX
+simuladores  icetex
 
 
-TAE - ICETEX
+tae  icetex
 
 
-Alianzas
+ies convenio con icetex
 
 
+alianzas
 
 
-Universidades
 
 
-Convenios con el ICETEX - ICETEX
+universidades
 
 
-Modelo de integración - ICETEX
+convenios con el icetex  icetex
 
 
-Proceso de IES
+modelo de integración  icetex
 
 
-Convocatoria - ICETEX
+proceso de ies
 
 
-Internacionalización - ICETEX
+convocatoria  icetex
 
 
-Inscripción Crédito IES
+internacionalización  icetex
 
 
-SAV - Canal IES
+inscripción crédito ies
 
 
+sav  canal ies
 
 
-Fondos y Alianzas
 
 
-¿Qué son las alianzas y los fondos de inversión? - ICETEX
+fondos y alianzas
 
 
-Alianzas
+¿qué son las alianzas y los fondos de inversión  icetex
 
 
-Cooperativas
+alianzas
 
 
-Fondos
+cooperativas
 
 
-Invertir en educación - ICETEX
+fondos
 
 
+invertir en educación  icetex
 
 
-Contratación
 
 
-Procesos de contratación
+contratación
 
 
-Contratos Adjudicados
+procesos de contratación
 
 
-SIRECI - ICETEX
+contratos adjudicados
 
 
-Directorio de proponentes - ICETEX
+sireci  icetex
 
 
-Plan de adquisición o compra - ICETEX
+directorio de proponentes  icetex
 
 
-Hojas de vida en curso - ICETEX
+plan de adquisición o compra  icetex
 
 
-Giros a proveedores - ICETEX
+hojas de vida en curso  icetex
 
 
+giros a proveedores  icetex
 
 
-Relación con Inversionistas
 
 
-Atención y Servicios a la Ciudadanía
+relación con inversionistas
 
 
-Centros de Experiencia Presencial - ICETEX
+atención y servicios a la ciudadanía
 
 
-Preguntas frecuentes - ICETEX
+centros de experiencia presencial  icetex
 
 
-Glosario - ICETEX
+preguntas frecuentes  icetex
 
 
-Listado de trámites y servicios - ICETEX
+glosario  icetex
 
 
-Participa
+listado de trámites y servicios  icetex
 
 
-Encuesta de satisfacción - ICETEX
+participa
 
 
-Defensor del Consumidor Financiero - ICETEX
+encuesta de satisfacción  icetex
 
 
-Información al consumidor financiero
+defensor del consumidor financiero  icetex
 
 
-Cartera cedida CISA- ICETEX
+información al consumidor financiero
 
 
-Ayudas - ICETEX
+cartera cedida cisa icetex
 
 
-Sistema de atención virtual (PQRSD) - ICETEX
+ayudas  icetex
 
 
-Denuncias - ICETEX
+sistema de atención virtual pqrsd  icetex
 
 
-Notificaciones Judiciales - ICETEX
+denuncias  icetex
 
 
-Educación en Seguridad de la Información - ICETEX
+notificaciones judiciales  icetex
+
+
+educación en seguridad de la información  icetex
 
 
 
@@ -367,7 +370,7 @@ x
 
 
 
-Becas Mundo
+becas mundo
 
 
 
@@ -378,7 +381,7 @@ Becas Mundo
 
 
 
-Inicio/ Estudiante/ Becas/ Becas para Estudios en el Exterior - ICETEX/ Becas Vigentes/ Generalidades: Maestría en diferentes áreas en Rusia
+inicio estudiante becas becas para estudios en el exterior  icetex becas vigentes generalidades maestría en diferentes áreas en rusia
 
 
 
@@ -389,36 +392,36 @@ Inicio/ Estudiante/ Becas/ Becas para Estudios en el Exterior - ICETEX/ Becas Vi
 
 
 
-Maestrías en diferentes áreas en Rusia
+maestrías en diferentes áreas en rusia
 
 
 
-Descripción de la convocatoria
-Ofrecer la oportunidad a profesionales colombianos de realizar sus estudios de maestría en universidades de la Federación de Rusia.
+descripción de la convocatoria
+ofrecer la oportunidad a profesionales colombianos de realizar sus estudios de maestría en universidades de la federación de rusia
 
 
-Generalidades de la beca
-Convocatoria de la beca
-
-
-
-
-
-
-Estado y fechas de la convocatoria
-
-
-Estado de la convocatoria:
-CERRADA
+generalidades de la beca
+convocatoria de la beca
 
 
 
 
 
 
-Apertura:
+estado y fechas de la convocatoria
+
+
+estado de la convocatoria
+cerrada
+
+
+
+
+
+
+apertura
 29 de enero del 2021
-Cierre:
+cierre
 4 de marzo del 2021
 
 
@@ -426,7 +429,7 @@ Cierre:
 
 
 
-Comisión Nacional de Becas:
+comisión nacional de becas
 25 de marzo del 2021
 
 
@@ -436,49 +439,49 @@ Comisión Nacional de Becas:
 
 
 
-Tabla de generalidades
+tabla de generalidades
 
 
-País:
-Rusia
-Ciudad:
-Diferentes Ciudades - Rusia
-
-
-
-
-
-
-Área de estudio:
-Diferentes Áreas
+país
+rusia
+ciudad
+diferentes ciudades  rusia
 
 
 
 
 
 
-
-Oferente:
-Gobierno de la Federación de Rusia
-
-
-
-
-
-
-Centro docente:
-Diferentes Centros Docentes
+área de estudio
+diferentes áreas
 
 
 
 
 
 
-Duración del programa:
+
+oferente
+gobierno de la federación de rusia
+
+
+
+
+
+
+centro docente
+diferentes centros docentes
+
+
+
+
+
+
+duración del programa
 2 – 3 años
-Fecha inicio del programa:
+fecha inicio del programa
 1 de septiembre del 2021
-Fecha final del programa:
+fecha final del programa
 1 de septiembre del 2024
 
 
@@ -486,82 +489,18 @@ Fecha final del programa:
 
 
 
-Idioma:
-Ruso
-Tipo de curso:
-Presencial
+idioma
+ruso
+tipo de curso
+presencial
 
 
 
 
 
 
-Título a obtener:
-Título otorgado por la universidad respectiva
-
-
-
-
-
-
-
-
-
-
-Perfil del aspirante
-
-El programa está dirigido a profesionales universitarios que deseen realizar estudios de maestría en diferentes áreas en Rusia. Es de aclarar, que la maestría es considerada en la Federación de Rusia como continuación de los estudios de pregrado.
-
-REQUISITOS: El aspirante debe ser mayor de 23 años y menor de 35 años, tener promedio mínimo de notas de pregrado de 3,7/5.0; contar preferiblemente con experiencia profesional mínima de 1 año en el área de estudios y gozar de buena salud física y mental.
-
-ASPECTOS IMPORTANTES: 
-
-1. Para el proceso con el ICETEX, deberán presentar toda la documentación requerida en esta convocatoria sin traducciones, ni apostillas, ni legalizaciones. Una vez sean notificados como preseleccionados por la Comisión Nacional de Becas, deberán incluir en la plataforma EIR los documentos apostillados, traducidos oficialmente a idioma ruso y legalizados en el consulado de la Embajada de Rusia en Colombia (Proceso a realizar antes del 15 de abril).
-
-2.ÚNICAMENTE LOS CANDIDATOS SELECCIONADOS,  a su llegada a Rusia deberán presentar el pasaporte y la documentación en físico requerida en esta convocatoria apostillados, traducidos oficialmente a idioma ruso y legalizados en el consulado de la embajada de Rusia en Colombia. También deberán presentar los originales de los certificados médicos - general y de VIH/SIDA (con sus debidas traducciones oficiales y legalizados), así como 7 fotografías 4 x 6 cm. 
-
-3. El candidato debe tener recursos financieros para cubrir los gastos de su estancia en Rusia (alimentación, ropa, transporte local) a lo largo de todo el período de estudios (no menos de 300 dólares al mes), y deberá adquirir una póliza de seguro médico (aprox. 300 dólares al año), proveerse de vestimenta para las condiciones climatológicas propias de Rusia, disponer de una suma no inferior a 300 dólares para reembolsar los gastos por concepto del recibimiento en el aeropuerto y posible traslado de Moscú a la ciudad de destino. Al obtener un visado de entrada a Rusia cada aspirante debe familiarizarse, bajo firma, con todas las condiciones, incluyendo las financieras, de su ingreso y residencia en Rusia.
-
-4. Para más información, visite: https://education-in-russia.com/ (Plataforma para el registro electrónico en el sistema de la Agencia Federal "Rossotrudnichestvo"); página web de la Embajada de Rusia en Colombia: https://colombia.mid.ru/becas-del-gobierno-de-rusia. 
-
-5. Para esta convocatoria, los candidatos deberán registrarse sin excepción en la plataforma: https://education-in-russia.com/ hasta el 20 de febrero donde deben adjuntar los documentos requeridos, apostillados, traducidos oficialmente y legalizados (después de recibir la notificación como preseleccionado por la Comisión Nacional de becas). Una vez seleccionados por el Gobierno de Rusia, deberán llevar consigo los documentos solicitados en la plataforma Education in Russia, cumpliendo con los siguientes requisitos: 
-
-5.1. Legalizados ante el Ministerio de Educación Nacional y apostillados ante el Ministerio de Relaciones Exteriores. 
-
-5.2. traducidos oficialmente a idioma ruso y legalizados ante el Consulado de Rusia.
-
-6. La convocatoria está sujeta a cambios dependiendo de la situación de Colombia y Rusia frente al nuevo coronavirus COVID-19.
-
-
-
-
-
-
-
-
-Financiación
-
-
-
-Financiación
-
-
-Número de becas
-Porcentaje
-Observaciones
-
-
-No determinado
-75%
-La beca NO cubre: tiquetes aéreos ni seguro médico.
-
-
-Gastos que cubre
-
-
-Matrícula
-Alojamiento: Los estudiantes serán alojados en residencias estudiantiles con cobros previstos para los estudiantes rusos.
-Estipendio Mensual: Se otorgará un estipendio con prescindencia del progreso académico.
+título a obtener
+título otorgado por la universidad respectiva
 
 
 
@@ -572,20 +511,84 @@ Estipendio Mensual: Se otorgará un estipendio con prescindencia del progreso ac
 
 
 
+perfil del aspirante
 
-Becas en el exterior
-Becas vigentes
-Historial de becas ofrecidas 
-Estado solicitud de la beca 
-Reciba información de becas por correo
-Otras becas
+el programa está dirigido a profesionales universitarios que deseen realizar estudios de maestría en diferentes áreas en rusia es de aclarar que la maestría es considerada en la federación de rusia como continuación de los estudios de pregrado
+
+requisitos el aspirante debe ser mayor de 23 años y menor de 35 años tener promedio mínimo de notas de pregrado de 3750 contar preferiblemente con experiencia profesional mínima de 1 año en el área de estudios y gozar de buena salud física y mental
+
+aspectos importantes 
+
+1 para el proceso con el icetex deberán presentar toda la documentación requerida en esta convocatoria sin traducciones ni apostillas ni legalizaciones una vez sean notificados como preseleccionados por la comisión nacional de becas deberán incluir en la plataforma eir los documentos apostillados traducidos oficialmente a idioma ruso y legalizados en el consulado de la embajada de rusia en colombia proceso a realizar antes del 15 de abril
+
+2únicamente los candidatos seleccionados  a su llegada a rusia deberán presentar el pasaporte y la documentación en físico requerida en esta convocatoria apostillados traducidos oficialmente a idioma ruso y legalizados en el consulado de la embajada de rusia en colombia también deberán presentar los originales de los certificados médicos  general y de vihsida con sus debidas traducciones oficiales y legalizados así como 7 fotografías 4 x 6 cm 
+
+3 el candidato debe tener recursos financieros para cubrir los gastos de su estancia en rusia alimentación ropa transporte local a lo largo de todo el período de estudios no menos de 300 dólares al mes y deberá adquirir una póliza de seguro médico aprox 300 dólares al año proveerse de vestimenta para las condiciones climatológicas propias de rusia disponer de una suma no inferior a 300 dólares para reembolsar los gastos por concepto del recibimiento en el aeropuerto y posible traslado de moscú a la ciudad de destino al obtener un visado de entrada a rusia cada aspirante debe familiarizarse bajo firma con todas las condiciones incluyendo las financieras de su ingreso y residencia en rusia
+
+4 para más información visite httpseducationinrussiacom plataforma para el registro electrónico en el sistema de la agencia federal "rossotrudnichestvo" página web de la embajada de rusia en colombia httpscolombiamidrubecasdelgobiernoderusia 
+
+5 para esta convocatoria los candidatos deberán registrarse sin excepción en la plataforma httpseducationinrussiacom hasta el 20 de febrero donde deben adjuntar los documentos requeridos apostillados traducidos oficialmente y legalizados después de recibir la notificación como preseleccionado por la comisión nacional de becas una vez seleccionados por el gobierno de rusia deberán llevar consigo los documentos solicitados en la plataforma education in russia cumpliendo con los siguientes requisitos 
+
+51 legalizados ante el ministerio de educación nacional y apostillados ante el ministerio de relaciones exteriores 
+
+52 traducidos oficialmente a idioma ruso y legalizados ante el consulado de rusia
+
+6 la convocatoria está sujeta a cambios dependiendo de la situación de colombia y rusia frente al nuevo coronavirus covid19
+
+
+
+
+
+
+
+
+financiación
+
+
+
+financiación
+
+
+número de becas
+porcentaje
+observaciones
+
+
+no determinado
+75
+la beca no cubre tiquetes aéreos ni seguro médico
+
+
+gastos que cubre
+
+
+matrícula
+alojamiento los estudiantes serán alojados en residencias estudiantiles con cobros previstos para los estudiantes rusos
+estipendio mensual se otorgará un estipendio con prescindencia del progreso académico
+
+
+
+
+
+
+
+
+
+
+
+becas en el exterior
+becas vigentes
+historial de becas ofrecidas 
+estado solicitud de la beca 
+reciba información de becas por correo
+otras becas
  
-Programas especiales
-Artistas Jóvenes Talentos
-Plataforma de Alianza Pacífico
-Asistente de idiomas en el exterior
-OEA
-Programas de maestría Universidad Internacional de la Rioja
+programas especiales
+artistas jóvenes talentos
+plataforma de alianza pacífico
+asistente de idiomas en el exterior
+oea
+programas de maestría universidad internacional de la rioja
 
 
 
@@ -664,48 +667,48 @@ Programas de maestría Universidad Internacional de la Rioja
 
 
 
-    Instituto Colombiano de Crédito Educativo y Estudios
-    Técnicos en el Exterior – ICETEX
+    instituto colombiano de crédito educativo y estudios
+    técnicos en el exterior – icetex
     
 
 
 
-Dirección: Carrera. 3 No. 18-32 (Recepción de
-    correspondencia) 
-    Cundinamarca | Bogotá D.C.
+dirección carrera 3 no 1832 recepción de
+    correspondencia 
+    cundinamarca  bogotá dc
     
-    Dependiendo de cada uno de nuestros
-    Centros de Experiencia Presencial
+    dependiendo de cada uno de nuestros
+    centros de experiencia presencial
 
 
 
-Código postal: 110321
+código postal 110321
 
 
 
-Horario: Lunes a viernes de 7:00 a.m. a 7:00 p.m.
+horario lunes a viernes de 700 am a 700 pm
     
-    Sábados de 8:00 a.m. a 6:00 p.m. 
-    Dependiendo de cada uno
+    sábados de 800 am a 600 pm 
+    dependiendo de cada uno
     de nuestros
-    Canales de Atención
+    canales de atención
 
 
 
-Chat: 24 horas
+chat 24 horas
 
 
-Video atención: 6:00 a.m. a 10:00 p.m.
+video atención 600 am a 1000 pm
 
 
-Redes sociales: (Twitter- Facebook) 24 horas
+redes sociales twitter facebook 24 horas
 
 
 
 
 
-Horario de las IES: Lunes a viernes de 8:00 a.m. a
-    5:30 p.m.
+horario de las ies lunes a viernes de 800 am a
+    530 pm
     
 
 
@@ -717,41 +720,41 @@ Horario de las IES: Lunes a viernes de 8:00 a.m. a
 
 
 
-Contacto:
+contacto
 
 
 
-Bogotá: (+57-1) 417-3535
-Nacional (gratuita): (+57-1) 018000-916821 (línea de
-quejas y reclamos). 
-PBX: (+57-1)
-382-1670
+bogotá 571 4173535
+nacional gratuita 571 018000916821 línea de
+quejas y reclamos 
+pbx 571
+3821670
 
 
-Notificaciones judiciales: 
-notificaciones@icetex.gov.co
+notificaciones judiciales 
+notificacionesicetexgovco
 
 
-Sistema de Atención Virtual (SAV)
+sistema de atención virtual sav
 
-Peticiones, quejas, reclamos y denuncias
-
-
-Radicación de Comunicaciones Oficiales
-
-tutramite@icetex.gov.co
+peticiones quejas reclamos y denuncias
 
 
+radicación de comunicaciones oficiales
 
-
+tutramiteicetexgovco
 
 
 
 
 
 
-Política de tratamiento de datos|Red de oficinas|Canales de atención|
-Términos y condiciones del sitio|Mapa del sitio|Funcionarios
+
+
+
+
+política de tratamiento de datosred de oficinascanales de atención
+términos y condiciones del sitiomapa del sitiofuncionarios
 
 
 

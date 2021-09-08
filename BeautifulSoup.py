@@ -24,6 +24,8 @@ def getwebsite(url):
 
 def escribir(filename, text):
     file = open(filename, 'w', encoding="utf-8")  # Abrir en modo "w" Escritura
+    text = text.lower()
+    text = EliminarSimbolos(text)
     file.write(text)
     file.close()
 
@@ -80,5 +82,11 @@ def geturl(filename):
         transcribir(url, contador, directorio)
     file.close()
 
+
+def EliminarSimbolos(text):
+    simbolosparaborrar = "!#$%&'()*+,-./:;<=>?@[\]^_`{|}~"
+    for i in range(len(simbolosparaborrar)):
+        text = text.replace(simbolosparaborrar[i], "")
+    return text
 
 geturl(enlaces)

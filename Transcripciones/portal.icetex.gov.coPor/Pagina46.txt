@@ -27,7 +27,7 @@
 
 
 
-	Programas de Maestría en la Universidad Internacional de la Rioja
+	programas de maestría en la universidad internacional de la rioja
 
 
 
@@ -84,10 +84,10 @@
 
 
                                            
-                                            Tamaño de letra:
+                                            tamaño de letra
                                             
                                             
-                                            Aumentar/Reducir
+                                            aumentarreducir
 
 
 
@@ -98,7 +98,7 @@
 
 
 
-Buscar
+buscar
 
 
 
@@ -116,217 +116,220 @@ Buscar
 
 
 
- Cerrar / Close   
- Menu  
+ cerrar  close   
+ menu  
 
 
 
 
 
 
-El ICETEX
+el icetex
 
 
-Quiénes Somos
+quiénes somos
 
 
-Estructura organizacional
+estructura organizacional
 
 
-Normatividad
+normatividad
 
 
-Relaciones internacionales - ICETEX
+relaciones internacionales  icetex
 
 
-Relación con Inversionistas
+relación con inversionistas
 
 
-Estadísticas Oficiales - ICETEX
+estadísticas oficiales  icetex
 
 
-Plan Estratégico
+plan estratégico
 
 
-Estados financieros y presupuesto
+estados financieros y presupuesto
 
 
-Sistema integrado gestión
+sistema integrado gestión
 
 
-Mecanismos de control
+mecanismos de control
 
 
-Estructura jurídica
+estructura jurídica
 
 
-Contratación
+contratación
 
 
-Bienes muebles inservibles - ICETEX
+bienes muebles inservibles  icetex
 
 
-Estudios y encuestas - ICETEX
+estudios y encuestas  icetex
 
 
-Gestión Documental
+gestión documental
 
 
-Biblioteca
+biblioteca
 
 
 
 
-Estudiante
+estudiante
 
 
-Becas
+becas
 
 
-Fondos en Administración - ICETEX
+fondos en administración  icetex
 
 
-Créditos Tú Eliges - ICETEX
+créditos tú eliges  icetex
 
 
-Gestión Crédito - ICETEX
+gestión crédito  icetex
 
 
-Estado de Cuenta
+estado de cuenta
 
 
-Pagos
+pagos
 
 
-Simuladores - ICETEX
+simuladores  icetex
 
 
-TAE - ICETEX
+tae  icetex
 
 
-Alianzas
+ies convenio con icetex
 
 
+alianzas
 
 
-Universidades
 
 
-Convenios con el ICETEX - ICETEX
+universidades
 
 
-Modelo de integración - ICETEX
+convenios con el icetex  icetex
 
 
-Proceso de IES
+modelo de integración  icetex
 
 
-Convocatoria - ICETEX
+proceso de ies
 
 
-Internacionalización - ICETEX
+convocatoria  icetex
 
 
-Inscripción Crédito IES
+internacionalización  icetex
 
 
-SAV - Canal IES
+inscripción crédito ies
 
 
+sav  canal ies
 
 
-Fondos y Alianzas
 
 
-¿Qué son las alianzas y los fondos de inversión? - ICETEX
+fondos y alianzas
 
 
-Alianzas
+¿qué son las alianzas y los fondos de inversión  icetex
 
 
-Cooperativas
+alianzas
 
 
-Fondos
+cooperativas
 
 
-Invertir en educación - ICETEX
+fondos
 
 
+invertir en educación  icetex
 
 
-Contratación
 
 
-Procesos de contratación
+contratación
 
 
-Contratos Adjudicados
+procesos de contratación
 
 
-SIRECI - ICETEX
+contratos adjudicados
 
 
-Directorio de proponentes - ICETEX
+sireci  icetex
 
 
-Plan de adquisición o compra - ICETEX
+directorio de proponentes  icetex
 
 
-Hojas de vida en curso - ICETEX
+plan de adquisición o compra  icetex
 
 
-Giros a proveedores - ICETEX
+hojas de vida en curso  icetex
 
 
+giros a proveedores  icetex
 
 
-Relación con Inversionistas
 
 
-Atención y Servicios a la Ciudadanía
+relación con inversionistas
 
 
-Centros de Experiencia Presencial - ICETEX
+atención y servicios a la ciudadanía
 
 
-Preguntas frecuentes - ICETEX
+centros de experiencia presencial  icetex
 
 
-Glosario - ICETEX
+preguntas frecuentes  icetex
 
 
-Listado de trámites y servicios - ICETEX
+glosario  icetex
 
 
-Participa
+listado de trámites y servicios  icetex
 
 
-Encuesta de satisfacción - ICETEX
+participa
 
 
-Defensor del Consumidor Financiero - ICETEX
+encuesta de satisfacción  icetex
 
 
-Información al consumidor financiero
+defensor del consumidor financiero  icetex
 
 
-Cartera cedida CISA- ICETEX
+información al consumidor financiero
 
 
-Ayudas - ICETEX
+cartera cedida cisa icetex
 
 
-Sistema de atención virtual (PQRSD) - ICETEX
+ayudas  icetex
 
 
-Denuncias - ICETEX
+sistema de atención virtual pqrsd  icetex
 
 
-Notificaciones Judiciales - ICETEX
+denuncias  icetex
 
 
-Educación en Seguridad de la Información - ICETEX
+notificaciones judiciales  icetex
+
+
+educación en seguridad de la información  icetex
 
 
 
@@ -358,7 +361,7 @@ x
 
 
 
-Becas Mundo
+becas mundo
 
 
 
@@ -369,7 +372,7 @@ Becas Mundo
 
 
 
-Inicio/ Estudiante/ Becas/ Becas para Estudios en el Exterior - ICETEX/ Becas Vigentes/ Programas de Maestría en la Universidad Internacional de la Rioja
+inicio estudiante becas becas para estudios en el exterior  icetex becas vigentes programas de maestría en la universidad internacional de la rioja
 
 
 
@@ -380,33 +383,33 @@ Inicio/ Estudiante/ Becas/ Becas para Estudios en el Exterior - ICETEX/ Becas Vi
 
 
 
-Programas de Maestría en la Universidad Internacional de la Rioja
+programas de maestría en la universidad internacional de la rioja
 
 
 
-Descripción de la convocatoria
-La Universidad Internacional de La Rioja otorgará 36 becas de posgrado a nivel de Maestría a profesionales universitarios en todo el país. El aspirante tendrá la posibilidad de postularse a uno de los 91 programas de maestría oficiales relacionados en esta convocatoria.
-
-
-
-
-
-
-
-Estado y fechas de la convocatoria
-
-
-Estado de la convocatoria:
-ABIERTA
+descripción de la convocatoria
+la universidad internacional de la rioja otorgará 36 becas de posgrado a nivel de maestría a profesionales universitarios en todo el país el aspirante tendrá la posibilidad de postularse a uno de los 91 programas de maestría oficiales relacionados en esta convocatoria
 
 
 
 
 
 
-Apertura:
+
+estado y fechas de la convocatoria
+
+
+estado de la convocatoria
+abierta
+
+
+
+
+
+
+apertura
 2 de junio de 2021
-Cierre:
+cierre
 9 de septiembre 2021
 
 
@@ -414,7 +417,7 @@ Cierre:
 
 
 
-Comisión Nacional de Becas:
+comisión nacional de becas
 7 de octubre 2021
 
 
@@ -424,20 +427,11 @@ Comisión Nacional de Becas:
 
 
 
-Tabla de generalidades
+tabla de generalidades
 
 
-País:
-España
-
-
-
-
-
-
-
-Área de estudio:
-Diferentes Áreas
+país
+españa
 
 
 
@@ -445,19 +439,28 @@ Diferentes Áreas
 
 
 
-Centro docente:
-Plataforma de Educación a Distancia - UNIR
+área de estudio
+diferentes áreas
 
 
 
 
 
 
-Duración del programa:
+
+centro docente
+plataforma de educación a distancia  unir
+
+
+
+
+
+
+duración del programa
 1 año
-Fecha inicio del programa:
+fecha inicio del programa
 25 de octubre 2021
-Fecha final del programa:
+fecha final del programa
 25 de octubre 2022
 
 
@@ -465,18 +468,18 @@ Fecha final del programa:
 
 
 
-Idioma:
-Español
-Tipo de curso:
-Virtual / Online
+idioma
+español
+tipo de curso
+virtual  online
 
 
 
 
 
 
-Título a obtener:
-Título Oficial
+título a obtener
+título oficial
 
 
 
@@ -487,80 +490,80 @@ Título Oficial
 
 
 
-Perfil del aspirante
+perfil del aspirante
 
-El programa está dirigido a profesionales universitarios en áreas afines a los programas relacionados en esta convocatoria, que cuenten con experiencia profesional en el área del programa o que se desempeñen en entidades públicas o privadas en temas directamente relacionados con el programa a realizar. El aspirante debe contar con la admisión definitiva al programa.  
+el programa está dirigido a profesionales universitarios en áreas afines a los programas relacionados en esta convocatoria que cuenten con experiencia profesional en el área del programa o que se desempeñen en entidades públicas o privadas en temas directamente relacionados con el programa a realizar el aspirante debe contar con la admisión definitiva al programa  
 
-REQUISITOS: El aspirante debe ser mayor de 23 años y menor de 65 años, contar con un promedio mínimo de notas de pregrado de 4,0/5,0 (NO SE ACEPTAN CERTIFICADOS DE NOTAS DE ESPECIALIZACIONES); tener mínimo 2 años de experiencia profesional (ES DECIR, LUEGO DE HABER OBTENIDO EL TÍTULO UNIVERSITARIO) en el área del programa a realizar y gozar de buena salud física y mental.
-
-
+requisitos el aspirante debe ser mayor de 23 años y menor de 65 años contar con un promedio mínimo de notas de pregrado de 4050 no se aceptan certificados de notas de especializaciones tener mínimo 2 años de experiencia profesional es decir luego de haber obtenido el título universitario en el área del programa a realizar y gozar de buena salud física y mental
 
 
 
-Financiación
+
+
+financiación
 
 
 
-Financiación
+financiación
 
 
-Número de becas
-Porcentaje
-Observaciones
-
-
-3
-100%
-
-Se otorgarán 3 becas del 100% de exención de matrícula ÚNICAMENTE para los siguientes programas: 
-            1. MU en Didáctica de la Lengua en Educación Infantil y Primaria 
-            2. MU en Didáctica de la Lengua y la Literatura en Educación Secundaria 
-            3. MU en Didáctica de las Matemáticas en Educación Infantil y Primaria 
-            4. MU en Didáctica de las Matemáticas en Educación Secundaria 
-            5. MU en Tecnología Educativa y competencias Digitales. 
-            6. MU en Dirección y Administración de Empresas (MBA) 
-            7. MU en Dirección de Recursos Humanos
-
+número de becas
+porcentaje
+observaciones
 
 
 3
-80%
+100
 
-Se otorgarán 3 becas del 80% de exención de matrícula. Si el candidato seleccionado suspende o desaprueba el curso y desea volver a realizarlo, debe asumir los costos de inscripción.
+se otorgarán 3 becas del 100 de exención de matrícula únicamente para los siguientes programas 
+            1 mu en didáctica de la lengua en educación infantil y primaria 
+            2 mu en didáctica de la lengua y la literatura en educación secundaria 
+            3 mu en didáctica de las matemáticas en educación infantil y primaria 
+            4 mu en didáctica de las matemáticas en educación secundaria 
+            5 mu en tecnología educativa y competencias digitales 
+            6 mu en dirección y administración de empresas mba 
+            7 mu en dirección de recursos humanos
+
+
+
+3
+80
+
+se otorgarán 3 becas del 80 de exención de matrícula si el candidato seleccionado suspende o desaprueba el curso y desea volver a realizarlo debe asumir los costos de inscripción
             
-            - Las becas del 80% se otorgarán ÚNICAMENTE para los siguientes programas:  
-            1. MU en Didáctica de la Lengua en Educación Infantil y Primaria  
-            2. MU en Didáctica de la Lengua y la Literatura en Educación Secundaria  
-            3. MU en Didáctica de las Matemáticas en Educación Infantil y Primaria  
-            4. MU en Didáctica de las Matemáticas en Educación Secundaria  
-            5. MU en Tecnología Educativa y competencias Digitales.  
-            6. MU en Dirección y Administración de Empresas (MBA)  
-            7. MU en Dirección de Recursos Humanos 
-            8. MU Dirección de la Gestión Pública 
-            9. MU Derecho de la Empresa en Colombia  
+             las becas del 80 se otorgarán únicamente para los siguientes programas  
+            1 mu en didáctica de la lengua en educación infantil y primaria  
+            2 mu en didáctica de la lengua y la literatura en educación secundaria  
+            3 mu en didáctica de las matemáticas en educación infantil y primaria  
+            4 mu en didáctica de las matemáticas en educación secundaria  
+            5 mu en tecnología educativa y competencias digitales  
+            6 mu en dirección y administración de empresas mba  
+            7 mu en dirección de recursos humanos 
+            8 mu dirección de la gestión pública 
+            9 mu derecho de la empresa en colombia  
 
 
 
 30
-50%
-Se otorgarán 30 exenciones del 50% del costo total de matrícula para los programas relacionados en esta convocatoria. Si el candidato seleccionado suspende o desaprueba el curso y desea volver a realizarlo, debe asumir los costes de inscripción.
+50
+se otorgarán 30 exenciones del 50 del costo total de matrícula para los programas relacionados en esta convocatoria si el candidato seleccionado suspende o desaprueba el curso y desea volver a realizarlo debe asumir los costes de inscripción
             
 
 
 
-Rubros que cubre el programa
+rubros que cubre el programa
 
 
 
 
 
-MATRÍCULA - Se otorgarán becas del 100%, 80% y 50% de exención de matrícula únicamente. 
+matrícula  se otorgarán becas del 100 80 y 50 de exención de matrícula únicamente 
 
-NOTAS: 
-            1. El porcentaje de exención de matrícula se adjudicará con base en el puntaje final de preselección obtenido por cada estudiante de acuerdo con los parámetros señalados en esta convocatoria y según el programa a realizar.
-            2. La Universidad Internacional de la Rioja recibirá 250 (euros) por el proceso de reserva de plaza, el cual hace parte del valor la matrícula. Es decir, este valor será descontado del valor total de la matrícula. En caso de que el aspirante no resulte favorecido con la beca o renuncie a la misma, UNIR otorgará un descuento de hasta el 25% del valor de la matrícula; de tal manera que el aspirante pueda continuar con los estudios de maestría. Este monto del proceso de inscripción será reembolsable hasta 10 días hábiles posterior a la notificación de no selección por parte de UNIR 
-            3. Los descuentos adicionales que UNIR tenga en ese momento no serán en ningún caso acumulables a las becas ICETEX.  
-            4. Del total de becas que se repartan entre los candidatos no se otorgará más de 5 becas por titulación. Así, se pretende distribuir entre las diferentes áreas de conocimiento y titulaciones de la Universidad.
+notas 
+            1 el porcentaje de exención de matrícula se adjudicará con base en el puntaje final de preselección obtenido por cada estudiante de acuerdo con los parámetros señalados en esta convocatoria y según el programa a realizar
+            2 la universidad internacional de la rioja recibirá 250 euros por el proceso de reserva de plaza el cual hace parte del valor la matrícula es decir este valor será descontado del valor total de la matrícula en caso de que el aspirante no resulte favorecido con la beca o renuncie a la misma unir otorgará un descuento de hasta el 25 del valor de la matrícula de tal manera que el aspirante pueda continuar con los estudios de maestría este monto del proceso de inscripción será reembolsable hasta 10 días hábiles posterior a la notificación de no selección por parte de unir 
+            3 los descuentos adicionales que unir tenga en ese momento no serán en ningún caso acumulables a las becas icetex  
+            4 del total de becas que se repartan entre los candidatos no se otorgará más de 5 becas por titulación así se pretende distribuir entre las diferentes áreas de conocimiento y titulaciones de la universidad
             
 
 
@@ -571,50 +574,50 @@ NOTAS:
 
 
 
-Documentos requeridos
+documentos requeridos
 
 
 
 
 
-Documento No.
-Documento
-Cantidad
-Observaciones
+documento no
+documento
+cantidad
+observaciones
 
 
 1
-CARTA DE ADMISIÓN DEFINITIVA AL CENTRO DOCENTE
+carta de admisión definitiva al centro docente
 1
-Será responsabilidad del aspirante tramitar su admisión a la universidad. Deberá ajustarse a las políticas de esta en todo lo relacionado con el proceso de inscripción y admisión al programa.
-            NOTA: Deberá guardar una copia del documento que emite UNIR (que indica el programa al cual ha sido ADMITIDO), para cargarlo en la plataforma de postulación de ICETEX. Las candidaturas que NO presenten la carta de admisión serán excluidas del proceso.
+será responsabilidad del aspirante tramitar su admisión a la universidad deberá ajustarse a las políticas de esta en todo lo relacionado con el proceso de inscripción y admisión al programa
+            nota deberá guardar una copia del documento que emite unir que indica el programa al cual ha sido admitido para cargarlo en la plataforma de postulación de icetex las candidaturas que no presenten la carta de admisión serán excluidas del proceso
             
 
 
 2
-TÍTULO UNIVERSITARIO DE PREGRADO
+título universitario de pregrado
 1
  
 
 
 3
-CERTIFICADO DE NOTAS DE PREGRADO
+certificado de notas de pregrado
 1
-El certificado de notas de pregrado debe ser con promedio acumulado ponderado de la carrera. 
-NOTA: LOS CERTIFICADOS DIGITALES DEBERÁN SER EXPEDIDOS POR LA UNIVERSIDAD, OTRO TIPO DE CERTIFICACIONES NO SON VÁLIDAS.
+el certificado de notas de pregrado debe ser con promedio acumulado ponderado de la carrera 
+nota los certificados digitales deberán ser expedidos por la universidad otro tipo de certificaciones no son válidas
             
 
 
 4
-CERTIFICADO DE EXPERIENCIA PROFESIONAL
+certificado de experiencia profesional
 1
-El certificado debe ser expedido por la entidad o entidades donde haya trabajado profesionalmente, detallando las funciones desarrolladas y las que actualmente desempeña.
+el certificado debe ser expedido por la entidad o entidades donde haya trabajado profesionalmente detallando las funciones desarrolladas y las que actualmente desempeña
 
 
 5
-DOCUMENTO DE IDENTIDAD
+documento de identidad
 1
-EN CASO DE SER SELECCIONADO, deberán presentar a la universidad la fotocopia del pasaporte vigente, requisito indispensable para la identificación internacional, al momento de la expedición del título.
+en caso de ser seleccionado deberán presentar a la universidad la fotocopia del pasaporte vigente requisito indispensable para la identificación internacional al momento de la expedición del título
 
 
 
@@ -622,97 +625,97 @@ EN CASO DE SER SELECCIONADO, deberán presentar a la universidad la fotocopia de
 
 
 
-Criterios de preselección
+criterios de preselección
 
 
 
 
 
-Nombre del criterio
-Peso del criterio
+nombre del criterio
+peso del criterio
 
 
-Promedio Académico Pregrado
-35%
+promedio académico pregrado
+35
 
 
-Sector de desempeño laboral
-20%
+sector de desempeño laboral
+20
 
 
-Lugar actual de residencia
-15%
+lugar actual de residencia
+15
 
 
-Coherencia entre el perfil del aspirante y el programa a realizar
-20%
+coherencia entre el perfil del aspirante y el programa a realizar
+20
 
 
-Experiencia Profesional
-10%
-
-
-
-
-
-
-
-Objetivos del programa
-
-
-Brindar a los participantes la oportunidad de realizar estudios de Maestrías en los campos señalados con exención de matrícula en la Universidad Internacional de La Rioja.
-
-
-
-
-Contenido del programa
-
-El aspirante se podrá postular a uno de los 91 títulos oficiales que ofrece UNIR en la línea de Maestrías toda vez que cumpla con los requisitos de admisión que requiere el programa.
-Descargue aquí el listado de programas 
-
-NOTA 1: Se agregan algunos programas por solicitud del oferente a la convocatoria. Es importante recalcar que la convalidación de los mismos es competencia del Ministerio de Educación. 
-NOTA 2: Para más información acerca de los programas, visite: https://colombia.unir.net/estudia-con-nosotros/becas-universitarias/icetex/ o vía correo electrónico: infocolombia@unir.net 
-
-
-
-Tener en cuenta (Observaciones)
-
-
-El ICETEX no tiene intermediarios ni cobra por los trámites de los servicios que el instituto ofrece, ni por adjudicación de créditos ni becas.
-Su solicitud será excluida del proceso si no se cargan los documentos requeridos al momento de realizar la postulación, a más tardar en la fecha límite de postulación señalada en esta convocatoria.
-Los candidatos a quienes se les haya concedido una beca a través del ICETEX -presencial o virtual- cuya duración haya sido igual o superior a 3 meses, o que decidan renunciar a la beca por razones no justificadas, deberán esperar dos años, contados a partir de la fecha de finalización del programa, para solicitar de nuevo una beca internacional. 
-Los aspirantes a becas no podrán presentarse a más de un (1) programa simultáneamente. En caso de ser preseleccionado por la Comisión Nacional de Becas, deberá esperar la decisión final por parte del oferente para volver a participar en una nueva convocatoria.
-Toda la información suministrada por los candidatos deberá ser veraz y estará sujeta a verificación de acuerdo con lo estipulado en el Artículo No. 83 de la Constitución Nacional y en los Artículos 286 a 296 del Código Penal Colombiano relacionados con la Falsedad en Documentos; el aspirante deberá cumplir estrictamente con los requisitos exigidos para este programa y deberán cargar la documentación como soporte de su aplicación, en la fecha límite relacionada en esta convocatoria. Igualmente, si se encuentra alguna incoherencia o inconsistencia entre los requisitos exigidos en la convocatoria, los datos registrados en el formulario virtual y la documentación aportada como soporte a esta solicitud quedará excluida del proceso y no habrá derecho a reclamo.
-La documentación solicitada por el ICETEX tiene el propósito de cumplir con los requisitos exigidos por el oferente.
-Sí usted ha sido favorecido con una beca del programa de Desarrollo Profesional de la OEA en los últimos doce (12) meses, o si usted actualmente tiene una beca de estudios académicos, NO ES ELEGIBLE PARA APLICAR A OTRA BECA del programa de Desarrollo Profesional de la OEA. Igualmente, cabe señalar que TODAS LAS BECAS OTORGADAS ESTAN CONDICIONADAS A LA CONTINUA DISPONIBILIDAD DE FONDOS DEL PROGRAMA DE BECAS DE LA OEA. Se advierte a los estudiantes que, en el caso de que el programa de becas pierda financiamiento, la Secretaria General de la OEA se verá obligada a suspender el pago a los becarios y/o instituciones educativas. La SG/OEA no garantiza la disponibilidad permanente de fondos y todos los becarios deben ser conscientes de que la financiación de la beca puede culminar en cualquier momento, independientemente de la cantidad proyectada o la duración de la beca.
-Para los programas presenciales o virtuales que otorgan exención de matrícula, los porcentajes se adjudicarán con base en el puntaje final de preselección obtenido por cada estudiante de acuerdo con los parámetros y los criterios de preselección señalados en esta convocatoria.
-Los beneficiarios del crédito educativo o de fondos en administración que se encuentren en mora, no podrán participar en un programa de beca internacional.
-En algunos países los títulos de maestría otorgados a los estudiantes nacionales y extranjeros son de dos tipos: Título Propio: Dirigido a profesionales de diferentes disciplinas en especial las relacionadas con las ciencias administrativas y económicas, entre otras, y cuyo interés sea el de generar empleo a través de la constitución de una empresa o negocio o el de prestar sus servicios profesionales a empresas del sector privado donde no se le exija la convalidación por parte del Ministerio de Educación Nacional del título obtenido, pueden optar a este tipo de programas. Título Oficial: Dirigido a profesionales de diferentes disciplinas en especial las relacionadas con las ciencias administrativas y económicas, entre otras, y cuyo interés sea el de desempeñarse en el sector público, ascender en sus cargos o en la búsqueda del escalafón de docente o el de continuar con estudios de doctorado. A diferencia del título propio, el oficial es convalidado por parte del Ministerio de Educación Nacional. EL ICETEX NO OTORGARÁ CRÉDITOS PARA ESTUDIOS DE POSGRADO CONDUCENTES A TÍTULOS PROPIOS, LOS CUALES NO SON CONVALIDABLES EN COLOMBIA.
-TODOS LOS CANDIDATOS DEBERÁN APLICAR POR LA PÁGINA WEB, DE LO CONTRARIO NO SERÁN TENIDOS EN CUENTA POR LA COMISIÓN NACIONAL DE BECAS.
-ES POTESTATIVO DEL OFERENTE OTORGAR O NO LA BECA PARA ESTE PROGRAMA A LOS CANDIDATOS PRESELECCIONADOS POR LA COMISIÓN NACIONAL DE BECAS.
-LOS RESULTADOS DE PRESELECCIÓN SE DARÁN A CONOCER OPORTUNAMENTE LUEGO DE LA SESIÓN DE LA COMISIÓN NACIONAL DE BECAS, A TRAVÉS DEL CORREO ELECTRÓNICO REGISTRADO POR EL PARTICIPANTE AL MOMENTO DE REALIZAR EL PROCESO DE APLICACIÓN.
-POR NINGÚN MOTIVO, SE RECIBIRÁN SOLICITUDES QUE NO CUMPLAN ESTRICTAMENTE CON LA TOTALIDAD DE LOS REQUISITOS EXIGIDOS EN ESTA CONVOCATORIA.
+experiencia profesional
+10
 
 
 
 
 
-Ingresa para postularte
 
 
-Becas en el exterior
-Becas vigentes
-Historial de becas ofrecidas 
-Estado solicitud de la beca 
-Reciba información de becas por correo
-Otras becas
+objetivos del programa
+
+
+brindar a los participantes la oportunidad de realizar estudios de maestrías en los campos señalados con exención de matrícula en la universidad internacional de la rioja
+
+
+
+
+contenido del programa
+
+el aspirante se podrá postular a uno de los 91 títulos oficiales que ofrece unir en la línea de maestrías toda vez que cumpla con los requisitos de admisión que requiere el programa
+descargue aquí el listado de programas 
+
+nota 1 se agregan algunos programas por solicitud del oferente a la convocatoria es importante recalcar que la convalidación de los mismos es competencia del ministerio de educación 
+nota 2 para más información acerca de los programas visite httpscolombiaunirnetestudiaconnosotrosbecasuniversitariasicetex o vía correo electrónico infocolombiaunirnet 
+
+
+
+tener en cuenta observaciones
+
+
+el icetex no tiene intermediarios ni cobra por los trámites de los servicios que el instituto ofrece ni por adjudicación de créditos ni becas
+su solicitud será excluida del proceso si no se cargan los documentos requeridos al momento de realizar la postulación a más tardar en la fecha límite de postulación señalada en esta convocatoria
+los candidatos a quienes se les haya concedido una beca a través del icetex presencial o virtual cuya duración haya sido igual o superior a 3 meses o que decidan renunciar a la beca por razones no justificadas deberán esperar dos años contados a partir de la fecha de finalización del programa para solicitar de nuevo una beca internacional 
+los aspirantes a becas no podrán presentarse a más de un 1 programa simultáneamente en caso de ser preseleccionado por la comisión nacional de becas deberá esperar la decisión final por parte del oferente para volver a participar en una nueva convocatoria
+toda la información suministrada por los candidatos deberá ser veraz y estará sujeta a verificación de acuerdo con lo estipulado en el artículo no 83 de la constitución nacional y en los artículos 286 a 296 del código penal colombiano relacionados con la falsedad en documentos el aspirante deberá cumplir estrictamente con los requisitos exigidos para este programa y deberán cargar la documentación como soporte de su aplicación en la fecha límite relacionada en esta convocatoria igualmente si se encuentra alguna incoherencia o inconsistencia entre los requisitos exigidos en la convocatoria los datos registrados en el formulario virtual y la documentación aportada como soporte a esta solicitud quedará excluida del proceso y no habrá derecho a reclamo
+la documentación solicitada por el icetex tiene el propósito de cumplir con los requisitos exigidos por el oferente
+sí usted ha sido favorecido con una beca del programa de desarrollo profesional de la oea en los últimos doce 12 meses o si usted actualmente tiene una beca de estudios académicos no es elegible para aplicar a otra beca del programa de desarrollo profesional de la oea igualmente cabe señalar que todas las becas otorgadas estan condicionadas a la continua disponibilidad de fondos del programa de becas de la oea se advierte a los estudiantes que en el caso de que el programa de becas pierda financiamiento la secretaria general de la oea se verá obligada a suspender el pago a los becarios yo instituciones educativas la sgoea no garantiza la disponibilidad permanente de fondos y todos los becarios deben ser conscientes de que la financiación de la beca puede culminar en cualquier momento independientemente de la cantidad proyectada o la duración de la beca
+para los programas presenciales o virtuales que otorgan exención de matrícula los porcentajes se adjudicarán con base en el puntaje final de preselección obtenido por cada estudiante de acuerdo con los parámetros y los criterios de preselección señalados en esta convocatoria
+los beneficiarios del crédito educativo o de fondos en administración que se encuentren en mora no podrán participar en un programa de beca internacional
+en algunos países los títulos de maestría otorgados a los estudiantes nacionales y extranjeros son de dos tipos título propio dirigido a profesionales de diferentes disciplinas en especial las relacionadas con las ciencias administrativas y económicas entre otras y cuyo interés sea el de generar empleo a través de la constitución de una empresa o negocio o el de prestar sus servicios profesionales a empresas del sector privado donde no se le exija la convalidación por parte del ministerio de educación nacional del título obtenido pueden optar a este tipo de programas título oficial dirigido a profesionales de diferentes disciplinas en especial las relacionadas con las ciencias administrativas y económicas entre otras y cuyo interés sea el de desempeñarse en el sector público ascender en sus cargos o en la búsqueda del escalafón de docente o el de continuar con estudios de doctorado a diferencia del título propio el oficial es convalidado por parte del ministerio de educación nacional el icetex no otorgará créditos para estudios de posgrado conducentes a títulos propios los cuales no son convalidables en colombia
+todos los candidatos deberán aplicar por la página web de lo contrario no serán tenidos en cuenta por la comisión nacional de becas
+es potestativo del oferente otorgar o no la beca para este programa a los candidatos preseleccionados por la comisión nacional de becas
+los resultados de preselección se darán a conocer oportunamente luego de la sesión de la comisión nacional de becas a través del correo electrónico registrado por el participante al momento de realizar el proceso de aplicación
+por ningún motivo se recibirán solicitudes que no cumplan estrictamente con la totalidad de los requisitos exigidos en esta convocatoria
+
+
+
+
+
+ingresa para postularte
+
+
+becas en el exterior
+becas vigentes
+historial de becas ofrecidas 
+estado solicitud de la beca 
+reciba información de becas por correo
+otras becas
  
-Programas especiales
-Artistas Jóvenes Talentos
-Plataforma de Alianza Pacífico
-Asistente de idiomas en el exterior
-OEA
-Programas de maestría Universidad Internacional de la Rioja
+programas especiales
+artistas jóvenes talentos
+plataforma de alianza pacífico
+asistente de idiomas en el exterior
+oea
+programas de maestría universidad internacional de la rioja
 
 
 
@@ -791,48 +794,48 @@ Programas de maestría Universidad Internacional de la Rioja
 
 
 
-    Instituto Colombiano de Crédito Educativo y Estudios
-    Técnicos en el Exterior – ICETEX
+    instituto colombiano de crédito educativo y estudios
+    técnicos en el exterior – icetex
     
 
 
 
-Dirección: Carrera. 3 No. 18-32 (Recepción de
-    correspondencia) 
-    Cundinamarca | Bogotá D.C.
+dirección carrera 3 no 1832 recepción de
+    correspondencia 
+    cundinamarca  bogotá dc
     
-    Dependiendo de cada uno de nuestros
-    Centros de Experiencia Presencial
+    dependiendo de cada uno de nuestros
+    centros de experiencia presencial
 
 
 
-Código postal: 110321
+código postal 110321
 
 
 
-Horario: Lunes a viernes de 7:00 a.m. a 7:00 p.m.
+horario lunes a viernes de 700 am a 700 pm
     
-    Sábados de 8:00 a.m. a 6:00 p.m. 
-    Dependiendo de cada uno
+    sábados de 800 am a 600 pm 
+    dependiendo de cada uno
     de nuestros
-    Canales de Atención
+    canales de atención
 
 
 
-Chat: 24 horas
+chat 24 horas
 
 
-Video atención: 6:00 a.m. a 10:00 p.m.
+video atención 600 am a 1000 pm
 
 
-Redes sociales: (Twitter- Facebook) 24 horas
+redes sociales twitter facebook 24 horas
 
 
 
 
 
-Horario de las IES: Lunes a viernes de 8:00 a.m. a
-    5:30 p.m.
+horario de las ies lunes a viernes de 800 am a
+    530 pm
     
 
 
@@ -844,41 +847,42 @@ Horario de las IES: Lunes a viernes de 8:00 a.m. a
 
 
 
-Contacto:
+contacto
 
 
 
-Bogotá: (+57-1) 417-3535
-Nacional (gratuita): (+57-1) 018000-916821 (línea de
-quejas y reclamos). 
-PBX: (+57-1)
-382-1670
+bogotá 571 4173535
+nacional gratuita 571 018000916821 línea de
+quejas y reclamos 
+pbx 571
+3821670
 
 
-Notificaciones judiciales: 
-notificaciones@icetex.gov.co
+notificaciones judiciales 
+notificacionesicetexgovco
 
 
-Sistema de Atención Virtual (SAV)
+sistema de atención virtual sav
 
-Peticiones, quejas, reclamos y denuncias
-
-
-Radicación de Comunicaciones Oficiales
-
-tutramite@icetex.gov.co
+peticiones quejas reclamos y denuncias
 
 
+radicación de comunicaciones oficiales
 
-
+tutramiteicetexgovco
 
 
 
 
 
 
-Política de tratamiento de datos|Red de oficinas|Canales de atención|
-Términos y condiciones del sitio|Mapa del sitio|Funcionarios
+
+
+
+
+política de tratamiento de datosred de oficinascanales de atención
+términos y condiciones del sitiomapa del sitiofuncionarios
+
 
 
 

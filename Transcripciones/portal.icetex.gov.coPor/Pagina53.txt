@@ -27,7 +27,7 @@
 
 
 
-	Generalidades- Maestrías en diferentes áreas
+	generalidades maestrías en diferentes áreas
 
 
 
@@ -66,10 +66,10 @@
 
 
 
-X
+x
 
 
-Preinscripción
+preinscripción
 
 
 
@@ -93,10 +93,10 @@ Preinscripción
 
 
                                            
-                                            Tamaño de letra:
+                                            tamaño de letra
                                             
                                             
-                                            Aumentar/Reducir
+                                            aumentarreducir
 
 
 
@@ -107,7 +107,7 @@ Preinscripción
 
 
 
-Buscar
+buscar
 
 
 
@@ -125,217 +125,220 @@ Buscar
 
 
 
- Cerrar / Close   
- Menu  
+ cerrar  close   
+ menu  
 
 
 
 
 
 
-El ICETEX
+el icetex
 
 
-Quiénes Somos
+quiénes somos
 
 
-Estructura organizacional
+estructura organizacional
 
 
-Normatividad
+normatividad
 
 
-Relaciones internacionales - ICETEX
+relaciones internacionales  icetex
 
 
-Relación con Inversionistas
+relación con inversionistas
 
 
-Estadísticas Oficiales - ICETEX
+estadísticas oficiales  icetex
 
 
-Plan Estratégico
+plan estratégico
 
 
-Estados financieros y presupuesto
+estados financieros y presupuesto
 
 
-Sistema integrado gestión
+sistema integrado gestión
 
 
-Mecanismos de control
+mecanismos de control
 
 
-Estructura jurídica
+estructura jurídica
 
 
-Contratación
+contratación
 
 
-Bienes muebles inservibles - ICETEX
+bienes muebles inservibles  icetex
 
 
-Estudios y encuestas - ICETEX
+estudios y encuestas  icetex
 
 
-Gestión Documental
+gestión documental
 
 
-Biblioteca
+biblioteca
 
 
 
 
-Estudiante
+estudiante
 
 
-Becas
+becas
 
 
-Fondos en Administración - ICETEX
+fondos en administración  icetex
 
 
-Créditos Tú Eliges - ICETEX
+créditos tú eliges  icetex
 
 
-Gestión Crédito - ICETEX
+gestión crédito  icetex
 
 
-Estado de Cuenta
+estado de cuenta
 
 
-Pagos
+pagos
 
 
-Simuladores - ICETEX
+simuladores  icetex
 
 
-TAE - ICETEX
+tae  icetex
 
 
-Alianzas
+ies convenio con icetex
 
 
+alianzas
 
 
-Universidades
 
 
-Convenios con el ICETEX - ICETEX
+universidades
 
 
-Modelo de integración - ICETEX
+convenios con el icetex  icetex
 
 
-Proceso de IES
+modelo de integración  icetex
 
 
-Convocatoria - ICETEX
+proceso de ies
 
 
-Internacionalización - ICETEX
+convocatoria  icetex
 
 
-Inscripción Crédito IES
+internacionalización  icetex
 
 
-SAV - Canal IES
+inscripción crédito ies
 
 
+sav  canal ies
 
 
-Fondos y Alianzas
 
 
-¿Qué son las alianzas y los fondos de inversión? - ICETEX
+fondos y alianzas
 
 
-Alianzas
+¿qué son las alianzas y los fondos de inversión  icetex
 
 
-Cooperativas
+alianzas
 
 
-Fondos
+cooperativas
 
 
-Invertir en educación - ICETEX
+fondos
 
 
+invertir en educación  icetex
 
 
-Contratación
 
 
-Procesos de contratación
+contratación
 
 
-Contratos Adjudicados
+procesos de contratación
 
 
-SIRECI - ICETEX
+contratos adjudicados
 
 
-Directorio de proponentes - ICETEX
+sireci  icetex
 
 
-Plan de adquisición o compra - ICETEX
+directorio de proponentes  icetex
 
 
-Hojas de vida en curso - ICETEX
+plan de adquisición o compra  icetex
 
 
-Giros a proveedores - ICETEX
+hojas de vida en curso  icetex
 
 
+giros a proveedores  icetex
 
 
-Relación con Inversionistas
 
 
-Atención y Servicios a la Ciudadanía
+relación con inversionistas
 
 
-Centros de Experiencia Presencial - ICETEX
+atención y servicios a la ciudadanía
 
 
-Preguntas frecuentes - ICETEX
+centros de experiencia presencial  icetex
 
 
-Glosario - ICETEX
+preguntas frecuentes  icetex
 
 
-Listado de trámites y servicios - ICETEX
+glosario  icetex
 
 
-Participa
+listado de trámites y servicios  icetex
 
 
-Encuesta de satisfacción - ICETEX
+participa
 
 
-Defensor del Consumidor Financiero - ICETEX
+encuesta de satisfacción  icetex
 
 
-Información al consumidor financiero
+defensor del consumidor financiero  icetex
 
 
-Cartera cedida CISA- ICETEX
+información al consumidor financiero
 
 
-Ayudas - ICETEX
+cartera cedida cisa icetex
 
 
-Sistema de atención virtual (PQRSD) - ICETEX
+ayudas  icetex
 
 
-Denuncias - ICETEX
+sistema de atención virtual pqrsd  icetex
 
 
-Notificaciones Judiciales - ICETEX
+denuncias  icetex
 
 
-Educación en Seguridad de la Información - ICETEX
+notificaciones judiciales  icetex
+
+
+educación en seguridad de la información  icetex
 
 
 
@@ -367,7 +370,7 @@ x
 
 
 
-Becas Mundo
+becas mundo
 
 
 
@@ -378,7 +381,7 @@ Becas Mundo
 
 
 
-Inicio/ Estudiante/ Becas/ Becas para Estudios en el Exterior - ICETEX/ Becas Vigentes/ Generalidades: Maestrías en diferentes áreas
+inicio estudiante becas becas para estudios en el exterior  icetex becas vigentes generalidades maestrías en diferentes áreas
 
 
 
@@ -389,36 +392,36 @@ Inicio/ Estudiante/ Becas/ Becas para Estudios en el Exterior - ICETEX/ Becas Vi
 
 
 
-Maestrías en diferentes áreas
+maestrías en diferentes áreas
 
 
 
-Descripción de la convocatoria
-Brindar a los participantes la oportunidad de realizar estudios de Maestría en diferentes áreas en Atlantis University.
+descripción de la convocatoria
+brindar a los participantes la oportunidad de realizar estudios de maestría en diferentes áreas en atlantis university
 
 
-Generalidades
-Convocatoria
-
-
-
-
-
-
-Estado y fechas de la convocatoria
-
-
-Estado de la convocatoria:
-CERRADA
+generalidades
+convocatoria
 
 
 
 
 
 
-Apertura:
+estado y fechas de la convocatoria
+
+
+estado de la convocatoria
+cerrada
+
+
+
+
+
+
+apertura
 30 de diciembre del 2020
-Cierre:
+cierre
 8 de febrero del 2021
 
 
@@ -426,7 +429,7 @@ Cierre:
 
 
 
-Comisión Nacional de Becas:
+comisión nacional de becas
 4 de marzo del 2021
 
 
@@ -436,20 +439,11 @@ Comisión Nacional de Becas:
 
 
 
-Tabla de generalidades
+tabla de generalidades
 
 
-País:
-Estados Unidos
-
-
-
-
-
-
-
-Área de estudio:
-Diferentes áreas
+país
+estados unidos
 
 
 
@@ -457,27 +451,36 @@ Diferentes áreas
 
 
 
-Oferente:
-Atlantis University
+área de estudio
+diferentes áreas
 
 
 
 
 
 
-Centro docente:
-Atlantis University
+
+oferente
+atlantis university
 
 
 
 
 
 
-Duración del programa:
+centro docente
+atlantis university
+
+
+
+
+
+
+duración del programa
 20 – 24 meses
-Fecha inicio del programa:
+fecha inicio del programa
 8 de marzo del 2021
-Fecha final del programa:
+fecha final del programa
 8 de marzo del 2023
 
 
@@ -485,36 +488,18 @@ Fecha final del programa:
 
 
 
-Idioma:
-Español
-Tipo de curso:
-Virtual
+idioma
+español
+tipo de curso
+virtual
 
 
 
 
 
 
-Título a obtener:
-Título Oficial
-
-
-
-
-
-
-
-
-
-
-Perfil del aspirante
-
-El programa está dirigido a profesionales universitarios en áreas afines a los programas relacionados en esta convocatoria, que preferiblemente cuenten con experiencia profesional en el área del programa o que se desempeñen en entidades públicas o privadas en temas directamente relacionados con el programa a realizar. El aspirante debe contar con la admisión definitiva al programa. 
-
-REQUISITOS: El aspirante debe ser mayor de 23 años y menor de 65 años, contar con un promedio mínimo de notas de pregrado de 4,0/5,0 (NO SE ACEPTAN CERTIFICADOS DE NOTAS DE ESPECIALIZACIONES) preferiblemente tener mínimo 1 año de experiencia profesional (ES DECIR, LUEGO DE HABER OBTENIDO EL TÍTULO UNIVERSITARIO) en el área del programa a realizar y gozar de buena salud física y mental.
-
-NOTA: El aspirante deberá completar una entrevista de admisión, diligenciar los formatos de inscripción de Atlantis University, proporcionar copia del título (diploma) universitario y certificado de notas (originales) de la universidad de origen.
-Los documentos (diploma y certificado de notas) deben ser traducidos al inglés y evaluados por un servicio de evaluación educativa que acredite que el título y los créditos obtenidos son equivalentes a un grado/créditos obtenidos en una institución acreditada de educación superior en Colombia (Consulte la información en la página web del Ministerio de Educación Nacional; http://bit.ly/3gXLhma). Este requisito puede ser cumplido después del proceso de selección, pero antes del inicio del programa. Los candidatos seleccionados que no tengan sus documentos originales, traducidos y evaluados, no podrán ser elegibles para recibir un título de Atlantis University. Los gastos de traducción y evaluación de credenciales deberán ser asumidos por el aspirante.
+título a obtener
+título oficial
 
 
 
@@ -523,21 +508,39 @@ Los documentos (diploma y certificado de notas) deben ser traducidos al inglés 
 
 
 
-Financiación
+
+
+perfil del aspirante
+
+el programa está dirigido a profesionales universitarios en áreas afines a los programas relacionados en esta convocatoria que preferiblemente cuenten con experiencia profesional en el área del programa o que se desempeñen en entidades públicas o privadas en temas directamente relacionados con el programa a realizar el aspirante debe contar con la admisión definitiva al programa 
+
+requisitos el aspirante debe ser mayor de 23 años y menor de 65 años contar con un promedio mínimo de notas de pregrado de 4050 no se aceptan certificados de notas de especializaciones preferiblemente tener mínimo 1 año de experiencia profesional es decir luego de haber obtenido el título universitario en el área del programa a realizar y gozar de buena salud física y mental
+
+nota el aspirante deberá completar una entrevista de admisión diligenciar los formatos de inscripción de atlantis university proporcionar copia del título diploma universitario y certificado de notas originales de la universidad de origen
+los documentos diploma y certificado de notas deben ser traducidos al inglés y evaluados por un servicio de evaluación educativa que acredite que el título y los créditos obtenidos son equivalentes a un gradocréditos obtenidos en una institución acreditada de educación superior en colombia consulte la información en la página web del ministerio de educación nacional httpbitly3gxlhma este requisito puede ser cumplido después del proceso de selección pero antes del inicio del programa los candidatos seleccionados que no tengan sus documentos originales traducidos y evaluados no podrán ser elegibles para recibir un título de atlantis university los gastos de traducción y evaluación de credenciales deberán ser asumidos por el aspirante
 
 
 
 
 
-Financiación
 
 
-Número de becas / Porcentaje
-3 / 100%
-Gastos que cubre:
-MATRÍCULA: Atlantis University otorgará el 100% del costo de matrícula. 
 
-NOTA: Otros costos deberán ser asumidos por el estudiante e incluyen: libros, costo de retomar cursos en caso de reprobar, aranceles de grado, estipendios, etc.
+financiación
+
+
+
+
+
+financiación
+
+
+número de becas  porcentaje
+3  100
+gastos que cubre
+matrícula atlantis university otorgará el 100 del costo de matrícula 
+
+nota otros costos deberán ser asumidos por el estudiante e incluyen libros costo de retomar cursos en caso de reprobar aranceles de grado estipendios etc
             
 
 
@@ -550,19 +553,19 @@ NOTA: Otros costos deberán ser asumidos por el estudiante e incluyen: libros, c
 
 
 
-Becas en el exterior
-Becas vigentes
-Historial de becas ofrecidas 
-Estado solicitud de la beca 
-Reciba información de becas por correo
-Otras becas
+becas en el exterior
+becas vigentes
+historial de becas ofrecidas 
+estado solicitud de la beca 
+reciba información de becas por correo
+otras becas
  
-Programas especiales
-Artistas Jóvenes Talentos
-Plataforma de Alianza Pacífico
-Asistente de idiomas en el exterior
-OEA
-Convenio con la Fundación Carolina
+programas especiales
+artistas jóvenes talentos
+plataforma de alianza pacífico
+asistente de idiomas en el exterior
+oea
+convenio con la fundación carolina
 
 
 
@@ -641,48 +644,48 @@ Convenio con la Fundación Carolina
 
 
 
-    Instituto Colombiano de Crédito Educativo y Estudios
-    Técnicos en el Exterior – ICETEX
+    instituto colombiano de crédito educativo y estudios
+    técnicos en el exterior – icetex
     
 
 
 
-Dirección: Carrera. 3 No. 18-32 (Recepción de
-    correspondencia) 
-    Cundinamarca | Bogotá D.C.
+dirección carrera 3 no 1832 recepción de
+    correspondencia 
+    cundinamarca  bogotá dc
     
-    Dependiendo de cada uno de nuestros
-    Centros de Experiencia Presencial
+    dependiendo de cada uno de nuestros
+    centros de experiencia presencial
 
 
 
-Código postal: 110321
+código postal 110321
 
 
 
-Horario: Lunes a viernes de 7:00 a.m. a 7:00 p.m.
+horario lunes a viernes de 700 am a 700 pm
     
-    Sábados de 8:00 a.m. a 6:00 p.m. 
-    Dependiendo de cada uno
+    sábados de 800 am a 600 pm 
+    dependiendo de cada uno
     de nuestros
-    Canales de Atención
+    canales de atención
 
 
 
-Chat: 24 horas
+chat 24 horas
 
 
-Video atención: 6:00 a.m. a 10:00 p.m.
+video atención 600 am a 1000 pm
 
 
-Redes sociales: (Twitter- Facebook) 24 horas
+redes sociales twitter facebook 24 horas
 
 
 
 
 
-Horario de las IES: Lunes a viernes de 8:00 a.m. a
-    5:30 p.m.
+horario de las ies lunes a viernes de 800 am a
+    530 pm
     
 
 
@@ -694,41 +697,42 @@ Horario de las IES: Lunes a viernes de 8:00 a.m. a
 
 
 
-Contacto:
+contacto
 
 
 
-Bogotá: (+57-1) 417-3535
-Nacional (gratuita): (+57-1) 018000-916821 (línea de
-quejas y reclamos). 
-PBX: (+57-1)
-382-1670
+bogotá 571 4173535
+nacional gratuita 571 018000916821 línea de
+quejas y reclamos 
+pbx 571
+3821670
 
 
-Notificaciones judiciales: 
-notificaciones@icetex.gov.co
+notificaciones judiciales 
+notificacionesicetexgovco
 
 
-Sistema de Atención Virtual (SAV)
+sistema de atención virtual sav
 
-Peticiones, quejas, reclamos y denuncias
-
-
-Radicación de Comunicaciones Oficiales
-
-tutramite@icetex.gov.co
+peticiones quejas reclamos y denuncias
 
 
+radicación de comunicaciones oficiales
 
-
+tutramiteicetexgovco
 
 
 
 
 
 
-Política de tratamiento de datos|Red de oficinas|Canales de atención|
-Términos y condiciones del sitio|Mapa del sitio|Funcionarios
+
+
+
+
+política de tratamiento de datosred de oficinascanales de atención
+términos y condiciones del sitiomapa del sitiofuncionarios
+
 
 
 

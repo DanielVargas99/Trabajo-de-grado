@@ -2,7 +2,7 @@
 
 
 
-Konrad-Adenauer-Stiftung - detail
+konradadenauerstiftung  detail
 
 
 
@@ -148,11 +148,9 @@ Konrad-Adenauer-Stiftung - detail
 
  
 
-Navegación
+navegación
 
-Saltar al contenido
-
-
+saltar al contenido
 
 
 
@@ -170,16 +168,18 @@ Saltar al contenido
 
 
 
-                        Deutsch
+
+
+                        deutsch
                     
 
-                        English
+                        english
                     
 
-                        Español
+                        español
                     
 
-                        Français
+                        français
                     
 
 
@@ -230,10 +230,10 @@ Saltar al contenido
 
 
 
-Carrera
-Empleados
-Beca
-Archivo - Base de datos
+carrera
+empleados
+beca
+archivo  base de datos
 
 
 
@@ -254,13 +254,13 @@ Archivo - Base de datos
 
 
 		
-				Buscar temas
+				buscar temas
 			
 
 
 
 
-Buscar
+buscar
 
 
 
@@ -290,7 +290,7 @@ menú
 
 
 
-Búsqueda
+búsqueda
 
 
 
@@ -307,13 +307,13 @@ Búsqueda
 
 
 		
-				Buscar temas
+				buscar temas
 			
 
 
 
 
-Buscar
+buscar
 
 
 
@@ -328,7 +328,7 @@ Buscar
 
 
 
-Navegación
+navegación
 
 
 
@@ -340,16 +340,16 @@ Navegación
 
 
 
-                        Deutsch
+                        deutsch
                     
 
-                        English
+                        english
                     
 
-                        Español
+                        español
                     
 
-                        Français
+                        français
                     
 
 
@@ -361,7 +361,7 @@ Navegación
 
 
 
-Menú principal
+menú principal
 
 
 
@@ -373,7 +373,7 @@ Menú principal
 
 
 
-                        Inicio
+                        inicio
 
                             
 
@@ -381,26 +381,7 @@ Menú principal
 
 
 
-                        Temas
-
-
-                            
-
-
-
-
-
-
-
-                        Temas principales
-
-
-                    
-
-
-
-
-                        Publicaciones
+                        temas
 
 
                             
@@ -411,7 +392,7 @@ Menú principal
 
 
 
-                        Actividades
+                        temas principales
 
 
                     
@@ -419,15 +400,7 @@ Menú principal
 
 
 
-                        En todo el mundo
-
-
-                    
-
-
-
-
-                        Prensa
+                        publicaciones
 
 
                             
@@ -438,7 +411,23 @@ Menú principal
 
 
 
-                        Acerca de nosotros
+                        actividades
+
+
+                    
+
+
+
+
+                        en todo el mundo
+
+
+                    
+
+
+
+
+                        prensa
 
 
                             
@@ -448,47 +437,58 @@ Menú principal
 
 
 
-                    Acceder
+
+                        acerca de nosotros
+
+
+                            
+
+
+
+
+
+
+                    acceder
                     
 
 
 
 
-Mapa del sitio
+mapa del sitio
 
 
 
 
 
-Carrera
+carrera
 
 
-Empleados
+empleados
 
 
-Beca
+beca
 
 
-Archivo - Base de datos
-
-
-
-
-
-
-Pie de imprenta
-
-
-Protección de datos
-
-
-Condiciones de uso
+archivo  base de datos
 
 
 
 
 
-Visítenos también
+
+pie de imprenta
+
+
+protección de datos
+
+
+condiciones de uso
+
+
+
+
+
+visítenos también
 
 
 
@@ -543,14 +543,14 @@ Visítenos también
 
 
 
-                    Inicio
+                    inicio
                 
 
 
 
 
 
-Vista General
+vista general
 
 
 
@@ -558,41 +558,41 @@ Vista General
 
 
 
-Mapa del sitio
+mapa del sitio
 
 
 
 
 
-Carrera
+carrera
 
 
-Empleados
+empleados
 
 
-Beca
+beca
 
 
-Archivo - Base de datos
-
-
-
-
-
-
-Pie de imprenta
-
-
-Protección de datos
-
-
-Condiciones de uso
+archivo  base de datos
 
 
 
 
 
-Visítenos también
+
+pie de imprenta
+
+
+protección de datos
+
+
+condiciones de uso
+
+
+
+
+
+visítenos también
 
 
 
@@ -647,14 +647,14 @@ Visítenos también
 
 
 
-                    Temas
+                    temas
                 
 
 
 
 
 
-Vista General
+vista general
 
 
 
@@ -663,77 +663,77 @@ Vista General
 
 
 
-Política Europea e Internacional
+política europea e internacional
 
 
 
 
-Educación, Ciencia, Medios de comunicación, Cultura
+educación ciencia medios de comunicación cultura
 
 
 
 
-Economía social de mercado
+economía social de mercado
 
 
 
 
-Política, Partidos, Sociedad, Justicia, Religión
+política partidos sociedad justicia religión
 
 
 
 
-Política energética, climática y ambiental
+política energética climática y ambiental
 
 
 
 
-Historia Contemporánea
+historia contemporánea
 
 
 
 
-Archivo de temas
-
-
-
-
-
-Mapa del sitio
+archivo de temas
 
 
 
 
 
-Carrera
-
-
-Empleados
-
-
-Beca
-
-
-Archivo - Base de datos
+mapa del sitio
 
 
 
 
 
-
-Pie de imprenta
-
-
-Protección de datos
+carrera
 
 
-Condiciones de uso
+empleados
+
+
+beca
+
+
+archivo  base de datos
 
 
 
 
 
-Visítenos también
+
+pie de imprenta
+
+
+protección de datos
+
+
+condiciones de uso
+
+
+
+
+
+visítenos también
 
 
 
@@ -788,14 +788,14 @@ Visítenos también
 
 
 
-                    Temas principales
+                    temas principales
                 
 
 
 
 
 
-Vista General
+vista general
 
 
 
@@ -803,41 +803,41 @@ Vista General
 
 
 
-Mapa del sitio
+mapa del sitio
 
 
 
 
 
-Carrera
+carrera
 
 
-Empleados
+empleados
 
 
-Beca
+beca
 
 
-Archivo - Base de datos
-
-
-
-
-
-
-Pie de imprenta
-
-
-Protección de datos
-
-
-Condiciones de uso
+archivo  base de datos
 
 
 
 
 
-Visítenos también
+
+pie de imprenta
+
+
+protección de datos
+
+
+condiciones de uso
+
+
+
+
+
+visítenos también
 
 
 
@@ -892,14 +892,14 @@ Visítenos también
 
 
 
-                    Publicaciones
+                    publicaciones
                 
 
 
 
 
 
-Vista General
+vista general
 
 
 
@@ -908,37 +908,37 @@ Vista General
 
 
 
-Analysen und Argumente
+analysen und argumente
 
 
 
 
-Auslandsinformationen
+auslandsinformationen
 
 
 
 
-Die Politische Meinung
+die politische meinung
 
 
 
 
-Forschungen und Quellen zur Zeitgeschichte
+forschungen und quellen zur zeitgeschichte
 
 
 
 
-Handreichungen zur Politischen Bildung
+handreichungen zur politischen bildung
 
 
 
 
-Historisch-Politische Mitteilungen
+historischpolitische mitteilungen
 
 
 
 
-Interviews
+interviews
 
 
 
@@ -948,72 +948,72 @@ kurzum
 
 
 
-Monitor
+monitor
 
 
 
 
-Reportajes internacionales
+reportajes internacionales
 
 
 
 
-Think Tank Report
+think tank report
 
 
 
 
-Notas de acontecimientos
+notas de acontecimientos
 
 
 
 
-Zeitgeschichte AKTUELL
+zeitgeschichte aktuell
 
 
 
 
-Abgeschlossene Reihen
-
-
-
-
-
-Mapa del sitio
+abgeschlossene reihen
 
 
 
 
 
-Carrera
-
-
-Empleados
-
-
-Beca
-
-
-Archivo - Base de datos
+mapa del sitio
 
 
 
 
 
-
-Pie de imprenta
-
-
-Protección de datos
+carrera
 
 
-Condiciones de uso
+empleados
+
+
+beca
+
+
+archivo  base de datos
 
 
 
 
 
-Visítenos también
+
+pie de imprenta
+
+
+protección de datos
+
+
+condiciones de uso
+
+
+
+
+
+visítenos también
 
 
 
@@ -1068,14 +1068,14 @@ Visítenos también
 
 
 
-                    Actividades
+                    actividades
                 
 
 
 
 
 
-Vista General
+vista general
 
 
 
@@ -1083,41 +1083,41 @@ Vista General
 
 
 
-Mapa del sitio
+mapa del sitio
 
 
 
 
 
-Carrera
+carrera
 
 
-Empleados
+empleados
 
 
-Beca
+beca
 
 
-Archivo - Base de datos
-
-
-
-
-
-
-Pie de imprenta
-
-
-Protección de datos
-
-
-Condiciones de uso
+archivo  base de datos
 
 
 
 
 
-Visítenos también
+
+pie de imprenta
+
+
+protección de datos
+
+
+condiciones de uso
+
+
+
+
+
+visítenos también
 
 
 
@@ -1172,14 +1172,14 @@ Visítenos también
 
 
 
-                    En todo el mundo
+                    en todo el mundo
                 
 
 
 
 
 
-Vista General
+vista general
 
 
 
@@ -1187,41 +1187,41 @@ Vista General
 
 
 
-Mapa del sitio
+mapa del sitio
 
 
 
 
 
-Carrera
+carrera
 
 
-Empleados
+empleados
 
 
-Beca
+beca
 
 
-Archivo - Base de datos
-
-
-
-
-
-
-Pie de imprenta
-
-
-Protección de datos
-
-
-Condiciones de uso
+archivo  base de datos
 
 
 
 
 
-Visítenos también
+
+pie de imprenta
+
+
+protección de datos
+
+
+condiciones de uso
+
+
+
+
+
+visítenos también
 
 
 
@@ -1276,14 +1276,14 @@ Visítenos también
 
 
 
-                    Prensa
+                    prensa
                 
 
 
 
 
 
-Vista General
+vista general
 
 
 
@@ -1292,47 +1292,47 @@ Vista General
 
 
 
-Comunicados de prensa
+comunicados de prensa
 
 
 
 
 
-Mapa del sitio
+mapa del sitio
 
 
 
 
 
-Carrera
+carrera
 
 
-Empleados
+empleados
 
 
-Beca
+beca
 
 
-Archivo - Base de datos
-
-
-
-
-
-
-Pie de imprenta
-
-
-Protección de datos
-
-
-Condiciones de uso
+archivo  base de datos
 
 
 
 
 
-Visítenos también
+
+pie de imprenta
+
+
+protección de datos
+
+
+condiciones de uso
+
+
+
+
+
+visítenos también
 
 
 
@@ -1387,14 +1387,14 @@ Visítenos también
 
 
 
-                    Acerca de nosotros
+                    acerca de nosotros
                 
 
 
 
 
 
-Vista General
+vista general
 
 
 
@@ -1403,117 +1403,117 @@ Vista General
 
 
 
-Departamentos
+departamentos
 
 
 
 
-Financiación
+financiación
 
 
 
 
-Círculo de amigos
+círculo de amigos
 
 
 
 
-Historia
+historia
 
 
 
 
-Jahresberichte
+jahresberichte
 
 
 
 
-KAS-Fellowship
+kasfellowship
 
 
 
 
-Modelo
+modelo
 
 
 
 
-Personas y Organigramas
+personas y organigramas
 
 
 
 
-Premios
+premios
 
 
 
 
-Estatutos
+estatutos
 
 
 
 
-Servicio
+servicio
 
 
 
 
-Vacantes
+vacantes
 
 
 
 
-Contacto
+contacto
 
 
 
 
-¡Apóyenos!
+¡apóyenos
 
 
 
 
-Revisión del rendimiento
+revisión del rendimiento
 
 
 
 
 
-Mapa del sitio
+mapa del sitio
 
 
 
 
 
-Carrera
+carrera
 
 
-Empleados
+empleados
 
 
-Beca
+beca
 
 
-Archivo - Base de datos
+archivo  base de datos
 
 
 
 
 
 
-Pie de imprenta
+pie de imprenta
 
 
-Protección de datos
+protección de datos
 
 
-Condiciones de uso
+condiciones de uso
 
 
 
 
 
-Visítenos también
+visítenos también
 
 
 
@@ -1565,19 +1565,19 @@ Visítenos también
 
 
 
-Página de inicio
+página de inicio
 
 
-Publicaciones
+publicaciones
 
 
-Abgeschlossene Reihen
+abgeschlossene reihen
 
 
-KAS International
+kas international
 
 
-Becas para estudios de Máster o Doctorado en Alemania
+becas para estudios de máster o doctorado en alemania
 
 
 
@@ -1610,26 +1610,26 @@ detail
 
 
 
-KAS Internacional
+kas internacional
 
 
 
 
 
 
-                    Becas para estudios de Máster o Doctorado en Alemania
+                    becas para estudios de máster o doctorado en alemania
                 
 
 de
-                    Yadira Elizabeth Gratacós Reyes
+                    yadira elizabeth gratacós reyes
                 
 
-                    Convocatoria - Programa de Becas Internacionales - 28 marzo 2021
+                    convocatoria  programa de becas internacionales  28 marzo 2021
                 
 
-                    Las bases para la aplicación son:
+                    las bases para la aplicación son
 
-Estudiantes y doctorandos comprometidos social o políticamente de todas las disciplinas que no tengan más de 30 años y que tengan un conocimiento probado del alemán en el nivel B2 del Marco de Referencia Europeo.
+estudiantes y doctorandos comprometidos social o políticamente de todas las disciplinas que no tengan más de 30 años y que tengan un conocimiento probado del alemán en el nivel b2 del marco de referencia europeo
                 
 
 esta publicación está disponible en otros idiomas
@@ -1652,7 +1652,7 @@ abrir pdf
 
 
 
-            Obtener información sobre pedidos
+            obtener información sobre pedidos
         
 
 
@@ -1677,7 +1677,7 @@ abrir pdf
 
 
 
-This portlet should not exist anymore
+this portlet should not exist anymore
 
 
 
@@ -1701,46 +1701,46 @@ This portlet should not exist anymore
 
 
 
-La Fundación Konrad Adenauer ofrece becas completas para financiar estudios de máster, doctorado o estadía de investigación (de al menos tres semestres de duración) en una universidad alemana.
-Los candidatos deben ser estudiantes o doctorandos de todas las especialidades1 comprometidos social o políticamente, menores de 30 años y con probados conocimientos de alemán (equivalentes al nivel B2 del Marco Europeo de Referencia). Requisitos para la obtención de las becas son un excelente expediente académico y afinidad con los valores democráticos, el pluralismo y los derechos humanos.
+la fundación konrad adenauer ofrece becas completas para financiar estudios de máster doctorado o estadía de investigación de al menos tres semestres de duración en una universidad alemana
+los candidatos deben ser estudiantes o doctorandos de todas las especialidades1 comprometidos social o políticamente menores de 30 años y con probados conocimientos de alemán equivalentes al nivel b2 del marco europeo de referencia requisitos para la obtención de las becas son un excelente expediente académico y afinidad con los valores democráticos el pluralismo y los derechos humanos
  
-Ofrecemos
+ofrecemos
  
-Además del apoyo financiero, nuestros becarios se benefician en particular de
-- acceso a una red internacional de más de 14.000 becarios y ex becarios de la Fundación Konrad-Adenauer,
-- un extenso programa de seminarios que acompañe sus estudios y la oportunidad de organizar seminarios y eventos de forma independiente
-- apoyo personal durante los estudios y la planificación de la carrera por los asesores de la Oficina de Apoyo a los Extranjeros y nuestros confiables profesores de las universidades.
+además del apoyo financiero nuestros becarios se benefician en particular de
+ acceso a una red internacional de más de 14000 becarios y ex becarios de la fundación konradadenauer
+ un extenso programa de seminarios que acompañe sus estudios y la oportunidad de organizar seminarios y eventos de forma independiente
+ apoyo personal durante los estudios y la planificación de la carrera por los asesores de la oficina de apoyo a los extranjeros y nuestros confiables profesores de las universidades
  
-Contacto
+contacto
  
-Por favor, envíe su solicitud antes del 28 de marzo de 2021 a stipendien.lateinamerika@kas.de
-Para obtener más información sobre el proceso de solicitud, consulte aquí:
-https://www.kas.de/de/web/begabtenfoerderung-und-kultur/auslaendische-studierende
+por favor envíe su solicitud antes del 28 de marzo de 2021 a stipendienlateinamerikakasde
+para obtener más información sobre el proceso de solicitud consulte aquí
+httpswwwkasdedewebbegabtenfoerderungundkulturauslaendischestudierende
  
-Para aplicar a la beca debe seguir las siguientes indicaciones:
+para aplicar a la beca debe seguir las siguientes indicaciones
  
-Formularios de solicitud 
+formularios de solicitud 
  
-Becas de maestría
+becas de maestría
 
-Los siguientes documentos deben ser adjuntados al formulario de solicitud completado y firmado:
-- Carta de motivación (máx. 1,5 páginas),
-- Currículum vitae en forma de tabla en alemán,
-- Copias de los certificados de la universidad con una lista de notas y certificados de logros, así como traducciones al alemán de estos documentos,
-- Una carta de recomendación de un profesor universitario que evalúa las calificaciones profesionales del solicitante,
-- Un dictamen pericial que evalúa la idoneidad personal del solicitante (este dictamen pericial no debe ser preparado por el emisor del dictamen del profesor universitario, sino por otra persona),
-- Prueba de trabajo voluntario,
-- Prueba de conocimientos de alemán en el nivel B2 (al menos el nivel B1 de alemán en el momento de la solicitud).
+los siguientes documentos deben ser adjuntados al formulario de solicitud completado y firmado
+ carta de motivación máx 15 páginas
+ currículum vitae en forma de tabla en alemán
+ copias de los certificados de la universidad con una lista de notas y certificados de logros así como traducciones al alemán de estos documentos
+ una carta de recomendación de un profesor universitario que evalúa las calificaciones profesionales del solicitante
+ un dictamen pericial que evalúa la idoneidad personal del solicitante este dictamen pericial no debe ser preparado por el emisor del dictamen del profesor universitario sino por otra persona
+ prueba de trabajo voluntario
+ prueba de conocimientos de alemán en el nivel b2 al menos el nivel b1 de alemán en el momento de la solicitud
  
-Beca de doctorado
+beca de doctorado
 
-Al solicitar una beca de doctorado, también se deben presentar los siguientes documentos:
-- una exposición detallada de los motivos del proyecto de tesis (esbozo del problema, detalles del procedimiento metodológico previsto, plan de trabajo y calendario) en alemán o inglés,
-- Un dictamen pericial de un profesor universitario que evalúa el proyecto de tesis, las calificaciones científicas del solicitante y su idoneidad personal (si el solicitante ya ha sido aceptado como supervisor, este dictamen pericial debe ser preparado por el supervisor del doctorado/doctorado),
-- Opinión experta de otro profesor universitario que evalúa las calificaciones científicas del solicitante (la evaluación de la personalidad requerida anteriormente no se aplica a los solicitantes de una beca de doctorado),
-- Certificado de la facultad o departamento sobre la admisión libre de condiciones para estudios de doctorado (si ya está disponible).
+al solicitar una beca de doctorado también se deben presentar los siguientes documentos
+ una exposición detallada de los motivos del proyecto de tesis esbozo del problema detalles del procedimiento metodológico previsto plan de trabajo y calendario en alemán o inglés
+ un dictamen pericial de un profesor universitario que evalúa el proyecto de tesis las calificaciones científicas del solicitante y su idoneidad personal si el solicitante ya ha sido aceptado como supervisor este dictamen pericial debe ser preparado por el supervisor del doctoradodoctorado
+ opinión experta de otro profesor universitario que evalúa las calificaciones científicas del solicitante la evaluación de la personalidad requerida anteriormente no se aplica a los solicitantes de una beca de doctorado
+ certificado de la facultad o departamento sobre la admisión libre de condiciones para estudios de doctorado si ya está disponible
  
-Otros detalles en los enlaces y adjuntos
+otros detalles en los enlaces y adjuntos
 
 
 
@@ -1753,7 +1753,7 @@ Otros detalles en los enlaces y adjuntos
 
 
 
-						Imprimir
+						imprimir
 					
 
 
@@ -1763,7 +1763,7 @@ Otros detalles en los enlaces y adjuntos
 
 
 
-						Enviar por correo electrónico
+						enviar por correo electrónico
 					
 
 
@@ -1775,7 +1775,7 @@ Otros detalles en los enlaces y adjuntos
 
 
 
-						Compartir
+						compartir
 					
 
 
@@ -1783,7 +1783,7 @@ Otros detalles en los enlaces y adjuntos
 
 
 
-Compartir
+compartir
 
 
 
@@ -1838,10 +1838,10 @@ Compartir
 
 
 
-                Bewerbungsbogen.pdf
+                bewerbungsbogenpdf
             
 
-Enlace de archivo
+enlace de archivo
 
 
 
@@ -1851,25 +1851,15 @@ Enlace de archivo
 
 
 
-YouTube
+youtube
 
-Más sobre el tema
-
-
-
-Página Web
-
-Más sobre el tema
+más sobre el tema
 
 
 
+página web
 
-
-
-
-
-
-
+más sobre el tema
 
 
 
@@ -1908,32 +1898,42 @@ Más sobre el tema
 
 
 
-                Temas
+
+
+
+
+
+
+
+
+
+
+                temas
         
 
 
 
 
 
-Educación, Ciencia, Medios
+educación ciencia medios
 
 
 
 
 
-Cooperación al desarrollo
+cooperación al desarrollo
 
 
 
 
 
-Educación
+educación
 
 
 
 
 
-Arte y cultura
+arte y cultura
 
 
 
@@ -1961,9 +1961,9 @@ Arte y cultura
 
 
 
-Sobre esta serie
+sobre esta serie
 
-Esta serie ofrece información oportuna sobre acontecimientos y desarrollos importantes de nuestro trabajo y pretende mostrar el amplio espectro de nuestras actividades.
+esta serie ofrece información oportuna sobre acontecimientos y desarrollos importantes de nuestro trabajo y pretende mostrar el amplio espectro de nuestras actividades
 
 
 
@@ -1994,27 +1994,27 @@ Esta serie ofrece información oportuna sobre acontecimientos y desarrollos impo
 
 
 
-Agenda 2030: Schaffen wir das?
+zedeprojekt in honduras wohlstand für alle oder bloß versicherung für korrupte
 
 
 
 
-Kluger Verzicht auf einen faulen Kompromiss
+die rolle brasiliens in der internationalen entwicklungszusammenarbeit
 
 
 
 
-Die Schule von morgen gestalten - ein Diskussionspapier zum Digitalen Lernen
+die strategischen beziehungen der usa und vietnams
 
 
 
 
-Pragmatische Giganten
+agenda 2030 schaffen wir das
 
 
 
 
-Impfstoffdiplomatie in Südostasien
+kluger verzicht auf einen faulen kompromiss
 
 
 
@@ -2045,7 +2045,7 @@ Impfstoffdiplomatie in Südostasien
 
 
 
-						Imprimir
+						imprimir
 					
 
 
@@ -2055,19 +2055,7 @@ Impfstoffdiplomatie in Südostasien
 
 
 
-						Enviar por correo electrónico
-					
-
-
-
-
-
-
-
-
-
-
-						Compartir
+						enviar por correo electrónico
 					
 
 
@@ -2078,7 +2066,19 @@ Impfstoffdiplomatie in Südostasien
 
 
 
-								Ve arriba
+
+						compartir
+					
+
+
+
+
+
+
+
+
+
+								ve arriba
 							
 
 
@@ -2087,7 +2087,7 @@ Impfstoffdiplomatie in Südostasien
 
 
 
-Compartir
+compartir
 
 
 
@@ -2124,12 +2124,12 @@ Compartir
 
 
 
-Newsletter
+newsletter
 
-                Viermal im Jahr das Wichtigste der Konrad-Adenauer-Stiftung auf einen Blick.
+                viermal im jahr das wichtigste der konradadenauerstiftung auf einen blick
             
 
-Jetzt abonnieren
+jetzt abonnieren
 
 
 
@@ -2154,16 +2154,16 @@ Jetzt abonnieren
 
 
 
-Nuestra orden
+nuestra orden
 
 
 
 
 
 
-La Fundación Konrad Adenauer se compromete a nivel nacional e internacional a fomentar los principios de Paz, Libertad y Justicia a través de la educación cívica y formación política. Promovemos y preservamos la democracia liberal, la economía social de mercado y el desarrollo y la consolidación de un consenso de valores.
+la fundación konrad adenauer se compromete a nivel nacional e internacional a fomentar los principios de paz libertad y justicia a través de la educación cívica y formación política promovemos y preservamos la democracia liberal la economía social de mercado y el desarrollo y la consolidación de un consenso de valores
 
-Nuestra orden
+nuestra orden
 
 
 
@@ -2172,14 +2172,14 @@ Nuestra orden
 
 
 
-Contacto
+contacto
 
 
 
 
 
 
-Todas las opciones de contacto de un vistazo
+todas las opciones de contacto de un vistazo
 
 
 
@@ -2224,7 +2224,7 @@ Todas las opciones de contacto de un vistazo
 
 
 
-Otras ofertas de la fundación
+otras ofertas de la fundación
 
 
 
@@ -2233,25 +2233,25 @@ Otras ofertas de la fundación
 
 
 
-                            Portal Online del CampusKonrad Adenauer
+                            portal online del campuskonrad adenauer
                             
 
 
 
 
-                            Portal de becarios VIBESA
+                            portal de becarios vibesa
                             
 
 
 
 
-                            Base de datos de KAS alumni en kasconnect.de
+                            base de datos de kas alumni en kasconnectde
                             
 
 
 
 
-                            Sala de lectura digital
+                            sala de lectura digital
                             
 
 
@@ -2271,21 +2271,21 @@ Otras ofertas de la fundación
 
 
 
-Pie de imprenta
+pie de imprenta
 
 
-Protección de datos
+protección de datos
 
 
-Condiciones de uso
+condiciones de uso
 
 
-Mapa del sitio
+mapa del sitio
 
 
 
 
-© Konrad-Adenauer-Stiftung e.V. 2021
+© konradadenauerstiftung ev 2021
 
 
 

@@ -8,7 +8,7 @@
 
 
 
-Becas de doctorado INPhINIT Incoming - Fundación ”la Caixa”
+becas de doctorado inphinit incoming  fundación ”la caixa”
 
 
 
@@ -90,7 +90,7 @@ Becas de doctorado INPhINIT Incoming - Fundación ”la Caixa”
 
 
 
-MENU 
+menu 
 
 
 
@@ -100,8 +100,8 @@ MENU
 
 
 
-Portugal
-Sala de prensa
+portugal
+sala de prensa
 
 
 
@@ -111,7 +111,7 @@ Sala de prensa
 
 
 
-            		ES
+            		es
             		
 
 
@@ -119,13 +119,11 @@ Sala de prensa
 
 
 
-ESPAÑOL 
+español 
 
-CATALÀ 
+català 
 
-ENGLISH 
-
-
+english 
 
 
 
@@ -137,52 +135,52 @@ ENGLISH
 
 
 
-Convocatorias
 
 
-Centros Fundación
+convocatorias
+
+
+centros fundación
 
 
 
 
 
 
-CAIXAFORUM BARCELONA
+caixaforum barcelona
 
 
-CAIXAFORUM GIRONA
+caixaforum girona
 
 
-CAIXAFORUM LLEIDA
+caixaforum lleida
 
 
-CAIXAFORUM MADRID
+caixaforum madrid
 
 
-CAIXAFORUM PALMA
+caixaforum palma
 
 
-CAIXAFORUM SEVILLA
+caixaforum sevilla
 
 
-CAIXAFORUM TARRAGONA
+caixaforum tarragona
 
 
-CAIXAFORUM ZARAGOZA
+caixaforum zaragoza
 
 
-COSMOCAIXA BARCELONA
+cosmocaixa barcelona
 
 
-PALAU MACAYA
+palau macaya
 
 
-JARDINES DE CAP ROIG
+jardines de cap roig
 
 
-EXPOSICIONES ITINERANTES
-
-
+exposiciones itinerantes
 
 
 
@@ -198,7 +196,9 @@ EXPOSICIONES ITINERANTES
 
 
 
-							Programas sociales				
+
+
+							programas sociales				
 							
 
 
@@ -208,37 +208,37 @@ EXPOSICIONES ITINERANTES
 
 
 
-Pobreza
+pobreza
 
 
 
 
-																	En un vistazo
+																	en un vistazo
 																
 
 
 
-																	Pobreza Infantil
+																	pobreza infantil
 																
 
 
 
-																	EspacioCaixa
+																	espaciocaixa
 																
 
 
 
-																	Observatorio CaixaProinfancia
+																	observatorio caixaproinfancia
 																
 
 
 
-																	Lucha contra la pobreza infantil y la exclusión social
+																	lucha contra la pobreza infantil y la exclusión social
 																
 
 
 
-																	Recursos digitales
+																	recursos digitales
 																
 
 
@@ -247,62 +247,37 @@ Pobreza
 
 
 
-Personas mayores
+personas mayores
 
 
 
 
-																	En un vistazo
+																	en un vistazo
 																
 
 
 
-																	Salud y Bienestar
+																	formación
 																
 
 
 
-																	Informática y Comunicación
+																	atención soledad
 																
 
 
 
-																	Participación social y voluntariado
+																	centros
 																
 
 
 
-																	Desarrollo personal y ciclo vital
+																	convocatorias
 																
 
 
 
-																	EspacioCaixa y otros centros
-																
-
-
-
-																	Siempre acompañados
-																
-
-
-
-																	Cuidar como nos gustaría ser cuidados
-																
-
-
-
-																	Convocatoria
-																
-
-
-
-																	Recursos digitales
-																
-
-
-
-																	Cinefórum Virtual
+																	recursos digitales
 																
 
 
@@ -313,91 +288,42 @@ Personas mayores
 
 
 
-Empleo
+empleo
 
 
 
 
-																	En un vistazo
+																	en un vistazo
 																
 
 
 
-																	Incorpora
+																	incorpora
 																
 
 
 
-																	Reincorpora
+																	reincorpora
 																
 
 
 
-																	Salud Mental
+																	salud mental
 																
 
 
 
-																	Fondo Social Europeo
+																	fondo social europeo
 																
 
 
 
-																	Inserción sociolaboral
+																	inserción sociolaboral
 																
 
 
 
-																	Recursos digitales
-																
-
-
-
-
-
-
-
-Cooperación Internacional
-
-
-
-
-																	Empleo
-																
-
-
-
-																	Educación
-																
-
-
-
-																	Emergencias y ayuda humanitaria
-																
-
-
-
-																	Salud global
-																
-
-
-
-																	Alianzas estratégicas
-																
-
-
-
-																	CooperantesCaixa
-																
-
-
-
-																	Convocatoria
-																
-
-
-
-																	Más información
+																	recursos digitales
 																
 
 
@@ -406,58 +332,47 @@ Cooperación Internacional
 
 
 
-
-
-Convocatorias sociales
+cooperación internacional
 
 
 
 
-																	En un vistazo
+																	empleo
 																
 
 
 
-																	Convocatorias generales
+																	educación
 																
 
 
 
-																	Convocatorias territoriales
+																	emergencias y ayuda humanitaria
 																
 
 
 
-																	Premios Fundación "la Caixa" a la Innovación Social
+																	salud global
 																
 
 
 
-
-
-
-
-Fundación de la Esperanza
-
-
-
-
-																	Qué hacemos
+																	alianzas estratégicas
 																
 
 
 
-																	Programas
+																	cooperantescaixa
 																
 
 
 
-																	Casa de Recés
+																	convocatoria
 																
 
 
 
-																	Información
+																	más información
 																
 
 
@@ -468,36 +383,27 @@ Fundación de la Esperanza
 
 
 
-Salud
+convocatorias sociales
 
 
 
 
-																	Atención integral a personas con enfermedades avanzadas
+																	en un vistazo
 																
 
 
 
-																	Hospitalización Infantil
+																	convocatorias generales
 																
 
 
 
-
-
-
-
-El Observatorio Social
-
-
-
-
-																	Qué hacemos
+																	convocatorias territoriales
 																
 
 
 
-																	Convocatoria de Investigación Social
+																	premios fundación "la caixa" a la innovación social
 																
 
 
@@ -506,8 +412,77 @@ El Observatorio Social
 
 
 
+fundación de la esperanza
 
-							Cultura y ciencia				
+
+
+
+																	qué hacemos
+																
+
+
+
+																	programas
+																
+
+
+
+																	casa de recés
+																
+
+
+
+																	información
+																
+
+
+
+
+
+
+
+
+
+salud
+
+
+
+
+																	atención integral a personas con enfermedades avanzadas
+																
+
+
+
+																	hospitalización infantil
+																
+
+
+
+
+
+
+
+el observatorio social
+
+
+
+
+																	qué hacemos
+																
+
+
+
+																	convocatoria de investigación social
+																
+
+
+
+
+
+
+
+
+							cultura y ciencia				
 							
 
 
@@ -517,71 +492,52 @@ El Observatorio Social
 
 
 
-Centros culturales y de divulgación científica
+centros culturales y de divulgación científica
 
 
 
 
-																	CAIXAFORUM Barcelona
+																	caixaforum barcelona
 																
 
 
 
-																	CAIXAFORUM Girona
+																	caixaforum girona
 																
 
 
 
-																	CAIXAFORUM Lleida
+																	caixaforum lleida
 																
 
 
 
-																	CAIXAFORUM Madrid
+																	caixaforum madrid
 																
 
 
 
-																	CAIXAFORUM Palma
+																	caixaforum palma
 																
 
 
 
-																	CAIXAFORUM Tarragona
+																	caixaforum tarragona
 																
 
 
 
-																	CAIXAFORUM Sevilla
+																	caixaforum sevilla
 																
 
 
 
-																	CAIXAFORUM Zaragoza
+																	caixaforum zaragoza
 																
 
 
 
-																	CosmoCaixa
-																
-
-
-
-
-
-
-
-Contenidos digitales
-
-
-
-
-																	Ágora Digital Cultura
-																
-
-
-
-																	Ágora Digital Ciencia
+																	cosmocaixa
 																
 
 
@@ -590,43 +546,17 @@ Contenidos digitales
 
 
 
-
-
-Exposiciones Itinerantes
+contenidos digitales
 
 
 
 
-																	En un vistazo
+																	ágora digital cultura
 																
 
 
 
-																	Mapa de las exposiciones
-																
-
-
-
-																	Exposiciones por mes
-																
-
-
-
-
-
-
-
-Convocatorias culturales
-
-
-
-
-																	Art for Change ”la Caixa”
-																
-
-
-
-																	Apoyo a la Creación
+																	ágora digital ciencia
 																
 
 
@@ -637,31 +567,22 @@ Convocatorias culturales
 
 
 
-Colección de Arte Contemporáneo
+exposiciones itinerantes
 
 
 
 
-
-
-
-
-Ciencia y Medio Ambiente
-
-
-
-
-																	Espacios saludables
+																	en un vistazo
 																
 
 
 
-																	Cambio climático
+																	mapa de las exposiciones
 																
 
 
 
-																	Divulgación para la sostenibilidad
+																	exposiciones por mes
 																
 
 
@@ -670,68 +591,17 @@ Ciencia y Medio Ambiente
 
 
 
-
-
-Música
+convocatorias culturales
 
 
 
 
-																	En un vistazo
+																	art for change ”la caixa”
 																
 
 
 
-																	Conciertos participativos
-																
-
-
-
-																	Conciertos Participativos 2021
-																
-
-
-
-																	#YoCanto
-																
-
-
-
-																	Symphony. Un viaje virtual al corazón de la música
-																
-
-
-
-																	Retransmisiones anteriores
-																
-
-
-
-																	Conciertos escolares
-																
-
-
-
-																	Música en CaixaForum
-																
-
-
-
-
-
-
-
-Alianzas con instituciones
-
-
-
-
-																	Alianzas Culturales
-																
-
-
-
-																	Planetarios
+																	apoyo a la creación
 																
 
 
@@ -741,7 +611,112 @@ Alianzas con instituciones
 
 
 
-							Educación y becas				
+
+colección de arte contemporáneo
+
+
+
+
+
+
+
+
+ciencia y medio ambiente
+
+
+
+
+																	espacios saludables
+																
+
+
+
+																	cambio climático
+																
+
+
+
+																	divulgación para la sostenibilidad
+																
+
+
+
+
+
+
+
+
+
+música
+
+
+
+
+																	en un vistazo
+																
+
+
+
+																	conciertos participativos
+																
+
+
+
+																	conciertos participativos 2021
+																
+
+
+
+																	yocanto
+																
+
+
+
+																	symphony un viaje virtual al corazón de la música
+																
+
+
+
+																	retransmisiones anteriores
+																
+
+
+
+																	conciertos escolares
+																
+
+
+
+																	música en caixaforum
+																
+
+
+
+
+
+
+
+alianzas con instituciones
+
+
+
+
+																	alianzas culturales
+																
+
+
+
+																	planetarios
+																
+
+
+
+
+
+
+
+
+							educación y becas				
 							
 
 
@@ -751,88 +726,37 @@ Alianzas con instituciones
 
 
 
-EduCaixa
+educaixa
 
 
 
 
-																	Qué hacemos
+																	qué hacemos
 																
 
 
 
-																	Programas
+																	programas
 																
 
 
 
-																	Formación
+																	formación
 																
 
 
 
-																	Evidencias
+																	evidencias
 																
 
 
 
-																	Actividades
+																	actividades
 																
 
 
 
-																	Recursos
-																
-
-
-
-
-
-
-
-
-
-Becas de la Fundación ”la Caixa”
-
-
-
-
-																	Información general
-																
-
-
-
-																	Programas de becas
-																
-
-
-
-																	Becas de Grado
-																
-
-
-
-																	Posgrado en el extranjero
-																
-
-
-
-																	Doctorado INPhINIT
-																
-
-
-
-																	Posdoctorado Junior Leader
-																
-
-
-
-																	Evaluación de solicitudes
-																
-
-
-
-																	Becarios de la Fundación ”la Caixa”
+																	recursos
 																
 
 
@@ -843,53 +767,47 @@ Becas de la Fundación ”la Caixa”
 
 
 
-Otras becas
+becas de la fundación ”la caixa”
 
 
 
 
-																	En un vistazo
+																	información general
 																
 
 
 
-																	Becas posdoctorales Weizmann Institute Fundación ”la Caixa”
+																	programas de becas
 																
 
 
 
-																	Becas posdoctorales Fundación ”la Caixa” - MIT Aging Brain Initiative
+																	becas de grado
 																
 
 
 
-																	Periodismo
+																	posgrado en el extranjero
 																
 
 
 
-																	Colegios del Mundo Unido
+																	doctorado inphinit
 																
 
 
 
-
-
-
-
-
-
-ProFuturo
-
-
-
-
-																	Educación Digital en entornos vulnerables
+																	posdoctorado junior leader
 																
 
 
 
-																	Programa formativo Docentes Digitales
+																	evaluación de solicitudes
+																
+
+
+
+																	becarios de la fundación ”la caixa”
 																
 
 
@@ -899,7 +817,64 @@ ProFuturo
 
 
 
-							Investigación y salud				
+
+otras becas
+
+
+
+
+																	en un vistazo
+																
+
+
+
+																	becas posdoctorales weizmann institute fundación ”la caixa”
+																
+
+
+
+																	becas posdoctorales fundación ”la caixa”  mit aging brain initiative
+																
+
+
+
+																	periodismo
+																
+
+
+
+																	colegios del mundo unido
+																
+
+
+
+
+
+
+
+
+
+profuturo
+
+
+
+
+																	educación digital en entornos vulnerables
+																
+
+
+
+																	programa formativo docentes digitales
+																
+
+
+
+
+
+
+
+
+							investigación y salud				
 							
 
 
@@ -909,103 +884,57 @@ ProFuturo
 
 
 
-CaixaResearch
+caixaresearch
 
 
 
 
-																	En un vistazo
+																	en un vistazo
 																
 
 
 
-																	CaixaResearch Institute, un proyecto de futuro
+																	caixaresearch institute un proyecto de futuro
 																
 
 
 
-																	Enfermedades infecciosas
+																	enfermedades infecciosas
 																
 
 
 
-																	Oncología
+																	oncología
 																
 
 
 
-																	Enfermedades Cardiovasculares
+																	enfermedades cardiovasculares
 																
 
 
 
-																	Neurociencias
+																	neurociencias
 																
 
 
 
-																	Ciencias médicas
+																	ciencias médicas
 																
 
 
 
-																	Proyectos europeos
+																	proyectos europeos
 																
 
 
 
-																	Políticas de investigación y buenas prácticas
+																	políticas de investigación y buenas prácticas
 																
 
 
 
-																	Convocatorias CaixaResearch
-																
-
-
-
-
-
-
-
-
-
-Convocatorias CaixaResearch de Investigación e Innovación
-
-
-
-
-																	Información de las convocatorias
-																
-
-
-
-																	Convocatoria CaixaResearch de Investigación en Salud
-																
-
-
-
-																	Convocatoria CaixaResearch de Movilidad - Medicina Global e Investigación en salud
-																
-
-
-
-																	Convocatoria CaixaResearch Validate
-																
-
-
-
-																	Convocatoria CaixaResearch Consolidate
-																
-
-
-
-																	Convocatoria CaixaResearch Covid-19
-																
-
-
-
-																	Convocatorias finalizadas
+																	convocatorias caixaresearch
 																
 
 
@@ -1016,22 +945,73 @@ Convocatorias CaixaResearch de Investigación e Innovación
 
 
 
-Resultados CaixaResearch
+convocatorias caixaresearch de investigación e innovación
 
 
 
 
-																	Para estar informado
+																	información de las convocatorias
 																
 
 
 
-																	DEBATES CaixaResearch
+																	convocatoria caixaresearch de investigación en salud
 																
 
 
 
-																	Resultados destacados
+																	convocatoria caixaresearch de movilidad  medicina global e investigación en salud
+																
+
+
+
+																	convocatoria caixaresearch validate
+																
+
+
+
+																	convocatoria caixaresearch consolidate
+																
+
+
+
+																	convocatoria caixaresearch covid19
+																
+
+
+
+																	convocatorias finalizadas
+																
+
+
+
+
+
+
+
+
+
+resultados caixaresearch
+
+
+
+
+																	para estar informado
+																
+
+
+
+																	debates caixaresearch
+																
+
+
+
+																	conferencia caixaresearch
+																
+
+
+
+																	resultados destacados
 																
 
 
@@ -1043,7 +1023,7 @@ Resultados CaixaResearch
 
 
 
-							Quiénes somos				
+							quiénes somos				
 							
 
 
@@ -1053,53 +1033,27 @@ Resultados CaixaResearch
 
 
 
-Quiénes somos
+quiénes somos
 
 
 
 
-																	Francesc Moragas
+																	francesc moragas
 																
 
 
 
-																	Nuestros inicios
+																	nuestros inicios
 																
 
 
 
-																	Nuestra esencia
+																	nuestra esencia
 																
 
 
 
-																	Misión, visión y valores
-																
-
-
-
-
-
-
-
-
-
-Información corporativa
-
-
-
-
-																	Gobierno corporativo
-																
-
-
-
-																	Informe anual
-																
-
-
-
-																	Otra información de interés
+																	misión visión y valores
 																
 
 
@@ -1110,22 +1064,48 @@ Información corporativa
 
 
 
-Información económica-financiera
+información corporativa
 
 
 
 
-																	Informe financiero anual
+																	gobierno corporativo
 																
 
 
 
-																	Plan de actuación
+																	informe anual
 																
 
 
 
-																	Subvenciones y ayudas públicas
+																	otra información de interés
+																
+
+
+
+
+
+
+
+
+
+información económicafinanciera
+
+
+
+
+																	informe financiero anual
+																
+
+
+
+																	plan de actuación
+																
+
+
+
+																	subvenciones y ayudas públicas
 																
 
 
@@ -1158,16 +1138,16 @@ Información económica-financiera
 
 
 
-Educación y becas
+educación y becas
 
 
-Becas de la Fundación ”la Caixa”
+becas de la fundación ”la caixa”
 
 
-Doctorado INPhINIT
+doctorado inphinit
 
 
-Incoming
+incoming
 
 
 
@@ -1182,7 +1162,7 @@ Incoming
 
 
 
-Becas de doctorado INPhINIT Incoming
+becas de doctorado inphinit incoming
 
 
 
@@ -1204,44 +1184,44 @@ Becas de doctorado INPhINIT Incoming
 
 
 
-Información general
+información general
 
 
 
 
-Programas de becas
+programas de becas
 
 
 
 
-Becas de Grado
+becas de grado
 
 
 
 
 
 
-Convocatoria
+convocatoria
 
 
 
 
-¿Qué ofrecemos?
+¿qué ofrecemos
 
 
 
 
-Evaluación de solicitudes
+evaluación de solicitudes
 
 
 
 
-FAQs
+faqs
 
 
 
 
-Materiales de difusión
+materiales de difusión
 
 
 
@@ -1250,24 +1230,24 @@ Materiales de difusión
 
 
 
-Posgrado en el extranjero
+posgrado en el extranjero
 
 
 
 
 
 
-Descripción del programa
+descripción del programa
 
 
 
 
-FAQs
+faqs
 
 
 
 
-Materiales de difusión
+materiales de difusión
 
 
 
@@ -1276,44 +1256,44 @@ Materiales de difusión
 
 
 
-Doctorado INPhINIT
+doctorado inphinit
 
 
 
 
 
 
-Descripción del programa
+descripción del programa
 
 
 
 
-Incoming
+incoming
 
 
 
 
-Retaining
+retaining
 
 
 
 
-Proceso de selección
+proceso de selección
 
 
 
 
-Sobre nosotros
+sobre nosotros
 
 
 
 
-FAQs
+faqs
 
 
 
 
-Materiales de difusión
+materiales de difusión
 
 
 
@@ -1322,44 +1302,44 @@ Materiales de difusión
 
 
 
-Posdoctorado Junior Leader
+posdoctorado junior leader
 
 
 
 
 
 
-Descripción del programa
+descripción del programa
 
 
 
 
-Incoming
+incoming
 
 
 
 
-Retaining
+retaining
 
 
 
 
-Proceso de selección
+proceso de selección
 
 
 
 
-Sobre nosotros
+sobre nosotros
 
 
 
 
-FAQs
+faqs
 
 
 
 
-Materiales de difusión
+materiales de difusión
 
 
 
@@ -1368,24 +1348,24 @@ Materiales de difusión
 
 
 
-Evaluación de solicitudes
+evaluación de solicitudes
 
 
 
 
-Becarios de la Fundación ”la Caixa”
+becarios de la fundación ”la caixa”
 
 
 
 
 
 
-Qué hacemos
+qué hacemos
 
 
 
 
-Ciclo de conferencias
+ciclo de conferencias
 
 
 
@@ -1420,12 +1400,12 @@ Ciclo de conferencias
 
 
 
-La oportunidad que buscas
+la oportunidad que buscas
 
 
 
 
-  ¡Comparte!
+  ¡comparte
 
 
 
@@ -1433,7 +1413,7 @@ La oportunidad que buscas
 
 
 
-Tweet
+tweet
 
 
 
@@ -1480,9 +1460,9 @@ Tweet
 
 
 
-Incoming
-Cómo presentar una candidatura
-Centros de investigación
+incoming
+cómo presentar una candidatura
+centros de investigación
 
 
 
@@ -1491,7 +1471,7 @@ Centros de investigación
 
 
 
-Incoming
+incoming
 
 
 
@@ -1507,7 +1487,7 @@ Incoming
 
 
 
-    35 becas de doctorado para jóvenes investigadores de todas las nacionalidades, para la realización de estudios de doctorado en los centros españoles acreditados con los distintivos Severo Ochoa o María de Maeztu, Institutos de Investigación Sanitaria Carlos III o unidades portuguesas calificadas como “excelentes” o “excepcionales” por la Fundação para a Ciência e a Tecnologia. Esta modalidad se centra exclusivamente en las disciplinas STEM: ciencias de la vida y la salud, ciencias experimentales, física, química y matemáticas.
+    35 becas de doctorado para jóvenes investigadores de todas las nacionalidades para la realización de estudios de doctorado en los centros españoles acreditados con los distintivos severo ochoa o maría de maeztu institutos de investigación sanitaria carlos iii o unidades portuguesas calificadas como “excelentes” o “excepcionales” por la fundação para a ciência e a tecnologia esta modalidad se centra exclusivamente en las disciplinas stem ciencias de la vida y la salud ciencias experimentales física química y matemáticas
 
 
 
@@ -1530,52 +1510,52 @@ Incoming
 
 
 
-CALENDARIO
+calendario
 
 
-No podrán presentarse solicitudes ni documentación complementaria fuera de los plazos establecidos en las bases de la convocatoria.
-CONVOCATORIA CERRADA
+no podrán presentarse solicitudes ni documentación complementaria fuera de los plazos establecidos en las bases de la convocatoria
+convocatoria cerrada
 4 de febrero de 2021
-Cierre de la convocatoria.
+cierre de la convocatoria
 18 de febrero de 2021
-Fecha límite para presentar el certificado de idioma.
+fecha límite para presentar el certificado de idioma
 22 de abril de 2021
-Comunicación del resultado de la preselección y convocatoria a entrevistas.
-25, 26 y 27 de mayo de 2021
-Entrevistas presenciales en Barcelona.
+comunicación del resultado de la preselección y convocatoria a entrevistas
+25 26 y 27 de mayo de 2021
+entrevistas presenciales en barcelona
 7 de junio de 2021
-Comunicación del resultado final.
-Del 7 al 30 de junio de 2021
-Acuerdo centro-becario.
+comunicación del resultado final
+del 7 al 30 de junio de 2021
+acuerdo centrobecario
 
 
 
 
 
-REQUISITOS DE LA CONVOCATORIA
+requisitos de la convocatoria
 
 
-Para poder ser admitidos, los candidatos deben cumplir con los siguientes requisitos:
+para poder ser admitidos los candidatos deben cumplir con los siguientes requisitos
 
 
-Experiencia: En la fecha de cierre de la convocatoria los candidatos deben encontrarse en los primeros cuatro años (experiencia de investigación equivalente a tiempo completo) de su carrera investigadora y no haber obtenido un título de doctorado con anterioridad o estar en condiciones de solicitarlo.
+experiencia en la fecha de cierre de la convocatoria los candidatos deben encontrarse en los primeros cuatro años experiencia de investigación equivalente a tiempo completo de su carrera investigadora y no haber obtenido un título de doctorado con anterioridad o estar en condiciones de solicitarlo
 
 
-Expediente académico: En el momento de la contratación, los candidatos deben cumplir con una de las siguientes opciones:
-- Haber finalizado los estudios que conducen a la obtención de un título universitario oficial español (o de otro país del Espacio Europeo de Educación Superior) de 300 créditos ECTS, de los cuales al menos 60 créditos deben corresponder a un nivel de máster.
-- Haber completado un grado en una universidad no adaptada al Espacio Europeo de Educación Superior que dé acceso a los estudios de doctorado. La verificación del nivel de estudios equivalente a los anteriormente mencionados la realizará la universidad cuando se inicie el procedimiento de admisión.
+expediente académico en el momento de la contratación los candidatos deben cumplir con una de las siguientes opciones
+ haber finalizado los estudios que conducen a la obtención de un título universitario oficial español o de otro país del espacio europeo de educación superior de 300 créditos ects de los cuales al menos 60 créditos deben corresponder a un nivel de máster
+ haber completado un grado en una universidad no adaptada al espacio europeo de educación superior que dé acceso a los estudios de doctorado la verificación del nivel de estudios equivalente a los anteriormente mencionados la realizará la universidad cuando se inicie el procedimiento de admisión
 
 
-Movilidad:
-	Para candidatos que aplican a centros o universides españolas: Los candidatos no pueden haber residido ni haber llevado a cabo su actividad principal (trabajo, estudios, etc.) en España durante más de doce meses en los tres años inmediatamente anteriores a la fecha de cierre de la convocatoria.
-Para candidatos que aplican a unidades portuguesas: Los candidatos no pueden haber residido ni haber llevado a cabo su actividad principal (trabajo, estudios, etc.) en Portugal durante más de doce meses en los tres años inmediatamente anteriores a la fecha de cierre de la convocatoria.
-Las estancias cortas, como las vacaciones, realizadas en un país diferente al de residencia habitual (donde se ha llevado a cabo la actividad principal), se considerarán períodos transcurridos en el país de residencia habitual.
+movilidad
+	para candidatos que aplican a centros o universides españolas los candidatos no pueden haber residido ni haber llevado a cabo su actividad principal trabajo estudios etc en españa durante más de doce meses en los tres años inmediatamente anteriores a la fecha de cierre de la convocatoria
+para candidatos que aplican a unidades portuguesas los candidatos no pueden haber residido ni haber llevado a cabo su actividad principal trabajo estudios etc en portugal durante más de doce meses en los tres años inmediatamente anteriores a la fecha de cierre de la convocatoria
+las estancias cortas como las vacaciones realizadas en un país diferente al de residencia habitual donde se ha llevado a cabo la actividad principal se considerarán períodos transcurridos en el país de residencia habitual
 
 
-Nivel de inglés: Los candidatos deben tener un nivel demostrable de inglés (B2 o superior).
+nivel de inglés los candidatos deben tener un nivel demostrable de inglés b2 o superior
 
 
-Candidatura completa: Solo los candidatos cuya candidatura presentada cumpla con todos los requisitos de la convocatoria podrán ser admitidos.
+candidatura completa solo los candidatos cuya candidatura presentada cumpla con todos los requisitos de la convocatoria podrán ser admitidos
 
 
 
@@ -1593,7 +1573,7 @@ Candidatura completa: Solo los candidatos cuya candidatura presentada cumpla con
 
 
 
-Cómo presentar una candidatura
+cómo presentar una candidatura
 
 
 
@@ -1612,33 +1592,33 @@ Cómo presentar una candidatura
 
 
 
-PROCEDIMIENTO DE SOLICITUD
+procedimiento de solicitud
 
 
-Si estás interesado en solicitar una beca de Doctorado INPhINIT Incoming, haz clic en el enlace que encontrarás a continuación para crear una cuenta personal y rellena el formulario de solicitud en línea.
-Web de solicitudes de becas de la Fundación ”la Caixa”
-La convocatoria se abre el día de su publicación y finaliza el día 4 de febrero de 2021, a las 14 h (hora Central Europea - CET).
+si estás interesado en solicitar una beca de doctorado inphinit incoming haz clic en el enlace que encontrarás a continuación para crear una cuenta personal y rellena el formulario de solicitud en línea
+web de solicitudes de becas de la fundación ”la caixa”
+la convocatoria se abre el día de su publicación y finaliza el día 4 de febrero de 2021 a las 14 h hora central europea  cet
 
 
 
 
 
-BÚSQUEDA DE POSICIONES DE DOCTORADO OFERTADAS
+búsqueda de posiciones de doctorado ofertadas
 
 
-Los becarios de Doctorado INPhINIT serán acogidos por los mejores centros y unidades de investigación en España y Portugal.
-Consulta la oferta de posiciones predoctorales publicadas por los centros de investigación que participan en la convocatoria 2021. Para proyectos multidisciplinares, puedes realizar una búsqueda por texto libre:
-BUSCA UNA POSICIÓN
+los becarios de doctorado inphinit serán acogidos por los mejores centros y unidades de investigación en españa y portugal
+consulta la oferta de posiciones predoctorales publicadas por los centros de investigación que participan en la convocatoria 2021 para proyectos multidisciplinares puedes realizar una búsqueda por texto libre
+busca una posición
 
 
 
 
 
-CONTACTO
+contacto
 
 
-Suscríbete para recibir un aviso cuando se abra la próxima convocatoria
-Para cualquier sugerencia o consulta, por favor, dirígete a: becas@fundacionlacaixa.org
+suscríbete para recibir un aviso cuando se abra la próxima convocatoria
+para cualquier sugerencia o consulta por favor dirígete a becasfundacionlacaixaorg
 
 
 
@@ -1654,7 +1634,7 @@ Para cualquier sugerencia o consulta, por favor, dirígete a: becas@fundacionla
 
 
 
-Centros de investigación
+centros de investigación
 
 
 
@@ -1673,37 +1653,37 @@ Centros de investigación
 
 
 
-CENTROS DE INVESTIGACIÓN
+centros de investigación
 
 
-Los becarios INPhINIT - Incoming deberán realizar su proyecto de investigación en uno de los centros de investigación españoles que han obtenido la acreditación de excelencia Severo Ochoa o María de Maeztu del Ministerio de Economía, Industria y Competitividad, Institutos de Investigación Sanitaria Carlos III o unidades portuguesas de I+D calificadas como “excelentes” por la Fundação para a Ciência e a Tecnologia. Se trata, por lo tanto, de centros y unidades que destacan por su impacto y liderazgo científico a nivel internacional y que colaboran activamente con su entorno social y empresarial.
-Los programas de investigación llevados a cabo en estos centros son de primer nivel, altamente competitivos, y se encuentran entre los mejores del mundo en sus respectivas áreas científicas. Estos centros actúan como organizaciones de acogida en el marco del programa de Doctorado INPhINIT Incoming y todos ellos cuentan con unas características esenciales para el desarrollo y consolidación de la carrera investigadora:
+los becarios inphinit  incoming deberán realizar su proyecto de investigación en uno de los centros de investigación españoles que han obtenido la acreditación de excelencia severo ochoa o maría de maeztu del ministerio de economía industria y competitividad institutos de investigación sanitaria carlos iii o unidades portuguesas de id calificadas como “excelentes” por la fundação para a ciência e a tecnologia se trata por lo tanto de centros y unidades que destacan por su impacto y liderazgo científico a nivel internacional y que colaboran activamente con su entorno social y empresarial
+los programas de investigación llevados a cabo en estos centros son de primer nivel altamente competitivos y se encuentran entre los mejores del mundo en sus respectivas áreas científicas estos centros actúan como organizaciones de acogida en el marco del programa de doctorado inphinit incoming y todos ellos cuentan con unas características esenciales para el desarrollo y consolidación de la carrera investigadora
 
 
-Cuentan con protocolos éticos de conformidad con las disposiciones de la Comisión Europea.
+cuentan con protocolos éticos de conformidad con las disposiciones de la comisión europea
 
 
-Disponen de oficinas de gestión de la investigación, expertas en el asesoramiento en procesos de solicitud en convocatorias competitivas y en la gestión de proyectos de investigación.
+disponen de oficinas de gestión de la investigación expertas en el asesoramiento en procesos de solicitud en convocatorias competitivas y en la gestión de proyectos de investigación
 
 
-Disponen de oficinas de transferencia de resultados de la investigación, para asegurar la difusión y valorización de los avances científicos y tecnológicos generados.
+disponen de oficinas de transferencia de resultados de la investigación para asegurar la difusión y valorización de los avances científicos y tecnológicos generados
 
 
-Ofrecen actividades complementarias para los investigadores, como por ejemplo:
+ofrecen actividades complementarias para los investigadores como por ejemplo
 
 
 
 
-Oportunidades de estancias de investigación/movilidad.
+oportunidades de estancias de investigaciónmovilidad
 
 
-Actividades intersectoriales e interdisciplinarias mediante acuerdos existentes con centros de investigación, empresas y universidades nacionales e internacionales.
+actividades intersectoriales e interdisciplinarias mediante acuerdos existentes con centros de investigación empresas y universidades nacionales e internacionales
 
 
-Formaciones específicas en habilidades interpersonales y competencias técnicas.
+formaciones específicas en habilidades interpersonales y competencias técnicas
 
 
-Actividades de participación pública.
+actividades de participación pública
 
 
 
@@ -1711,12 +1691,12 @@ Actividades de participación pública.
 
 
 
-CERTIFICADOS DE EXCELENCIA
+certificados de excelencia
 
 
-El Ministerio de Economía y Competitividad español otorga los certificados "Severo Ochoa" y "María de Maeztu" a los centros y unidades de investigación de excelencia, respectivamente, en cualquier campo de la ciencia. Se trata de la máxima distinción en el ámbito nacional para las entidades que promueven la excelencia en investigación. Estos certificados de excelencia se conceden por medio de un concurso anual a un número reducido de entidades durante unos años limitados, y una vez transcurrido este periodo las entidades deben volver a someterse a un proceso de selección competitivo para renovarlos.
-La mayor parte de la investigación científica portuguesa se lleva a cabo en las Unidades de I + D y laboratorios Asociados, que financia y evalúa la FCT. Existen actualmente 307 Unidades de I + D acreditadas donde trabajan cerca de 22.000 investigadores.
-La investigación realizada en estas instituciones abarca todos los ámbitos científicos, desde las ciencias de la vida y de la salud a las ciencias sociales y humanas, pasando por las ingenierías, las ciencias exactas, las ciencias naturales y el medio ambiente. Las instituciones son evaluadas regularmente por la FCT.
+el ministerio de economía y competitividad español otorga los certificados "severo ochoa" y "maría de maeztu" a los centros y unidades de investigación de excelencia respectivamente en cualquier campo de la ciencia se trata de la máxima distinción en el ámbito nacional para las entidades que promueven la excelencia en investigación estos certificados de excelencia se conceden por medio de un concurso anual a un número reducido de entidades durante unos años limitados y una vez transcurrido este periodo las entidades deben volver a someterse a un proceso de selección competitivo para renovarlos
+la mayor parte de la investigación científica portuguesa se lleva a cabo en las unidades de i  d y laboratorios asociados que financia y evalúa la fct existen actualmente 307 unidades de i  d acreditadas donde trabajan cerca de 22000 investigadores
+la investigación realizada en estas instituciones abarca todos los ámbitos científicos desde las ciencias de la vida y de la salud a las ciencias sociales y humanas pasando por las ingenierías las ciencias exactas las ciencias naturales y el medio ambiente las instituciones son evaluadas regularmente por la fct
 
 
 
@@ -1754,7 +1734,7 @@ La investigación realizada en estas instituciones abarca todos los ámbitos cie
 
 
 
-Documentación de interés
+documentación de interés
 
 
 
@@ -1765,14 +1745,14 @@ Documentación de interés
 
 
 
-Bases del programa - Doctorado INPhINIT Incoming
-Toda la información que necesitas para conocer los detalles de esta beca, el proceso de solicitud y el de selección.
-(disponible solo en inglés)
+bases del programa  doctorado inphinit incoming
+toda la información que necesitas para conocer los detalles de esta beca el proceso de solicitud y el de selección
+disponible solo en inglés
 
 
 
 
-										DESCARGAR PDF BASES DEL PROGRAMA
+										descargar pdf bases del programa
 										
 
 
@@ -1788,13 +1768,13 @@ Toda la información que necesitas para conocer los detalles de esta beca, el pr
 
 
 
-Boletín Oficial del Estado
-Apertura de la convocatoria de becas de la Fundación ”la Caixa” en el BOE.
+boletín oficial del estado
+apertura de la convocatoria de becas de la fundación ”la caixa” en el boe
 
 
 
 
-										DESCARGAR PDF BOLETÍN OFICIAL DEL ESTADO
+										descargar pdf boletín oficial del estado
 										
 
 
@@ -1810,13 +1790,13 @@ Apertura de la convocatoria de becas de la Fundación ”la Caixa” en el BO
 
 
 
-Becarios y becarias 2021
+becarios y becarias 2021
 
 
 
 
 
-										DESCARGAR PDF BECARIOS Y BECARIAS 2021
+										descargar pdf becarios y becarias 2021
 										
 
 
@@ -1843,81 +1823,81 @@ Becarios y becarias 2021
 
 
 
-WEBS DESTACADAS
-WEBS DESTACADAS
+webs destacadas
+webs destacadas
 
 
-CAIXAFORUM
+caixaforum
 
 
-COSMOCAIXA
+cosmocaixa
 
 
-EDUCAIXA
+educaixa
 
 
-INCORPORA DE LA FUNDACIÓN ”LA CAIXA”
+incorpora de la fundación ”la caixa”
 
 
-MICRODONATIVOS
+microdonativos
 
 
-VER  TODAS
+ver  todas
 
 
 
 
-ÁMBITOS DE ACTUACIÓN
-ÁMBITOS DE ACTUACIÓN
+ámbitos de actuación
+ámbitos de actuación
 
-Programas sociales
-Cultura y ciencia
-Educación y becas
-Investigación y salud
-Quiénes somos
+programas sociales
+cultura y ciencia
+educación y becas
+investigación y salud
+quiénes somos
 
 
 
-ENLACES DE INTERÉS
-ENLACES DE INTERÉS
+enlaces de interés
+enlaces de interés
 
-Portal Convocatorias
-Becas de la Fundación ”la Caixa”
-El Observatorio Social
-Colección de Arte Contemporáneo
-Exposiciones itinerantes
+portal convocatorias
+becas de la fundación ”la caixa”
+el observatorio social
+colección de arte contemporáneo
+exposiciones itinerantes
 
 
 
-AYUDA AL USUARIO
-AYUDA AL USUARIO
+ayuda al usuario
+ayuda al usuario
 
-POLÍTICA DE COOKIES
-Configuración de las Cookies
+política de cookies
+configuración de las cookies
 
-Accesibilidad
-Atención al usuario
-Cómo navegar
-Aviso legal y privacidad
-Mapa web
+accesibilidad
+atención al usuario
+cómo navegar
+aviso legal y privacidad
+mapa web
 
 
 
-SOBRE LA FUNDACIÓN ”LA CAIXA”
-SOBRE LA FUNDACIÓN ”LA CAIXA”
+sobre la fundación ”la caixa”
+sobre la fundación ”la caixa”
 
-Quiénes somos
-Trabaja con nosotros
-Presencia en el territorio
-Publicaciones
-Redes Sociales
-Sala de prensa
-Reconocimientos
+quiénes somos
+trabaja con nosotros
+presencia en el territorio
+publicaciones
+redes sociales
+sala de prensa
+reconocimientos
 
 
 
 
-© Fundación Bancaria Caixa d'Estalvis i Pensions de Barcelona, ”la Caixa”. Todos los derechos reservados.
+© fundación bancaria caixa destalvis i pensions de barcelona ”la caixa” todos los derechos reservados
 
 
 
@@ -1928,165 +1908,165 @@ Reconocimientos
 
 
 
-Programas sociales
+programas sociales
 
 
 
 
 
-Atrás
+atrás
 
 
 
 
-Programas sociales
+programas sociales
 
 
 
 
 
-Pobreza
+pobreza
 
 
 
 
 
 
-Atrás
+atrás
 
 
 
 
-Pobreza
+pobreza
 
 
 
 
-En un vistazo
+en un vistazo
 
 
 
 
 
-Pobreza Infantil
+pobreza infantil
 
 
 
 
 
-Pobreza Infantil
+pobreza infantil
 
 
 
 
-Qué hacemos >
+qué hacemos 
 
 
 
 
-Dónde estamos >
+dónde estamos 
 
 
 
 
-La vuelta al cole >
+la vuelta al cole 
 
 
 
 
-Publicaciones >
+publicaciones 
 
 
 
 
-Observatorio por la pobreza infantil >
+observatorio por la pobreza infantil 
 
 
 
 
-Materiales de difusión >
+materiales de difusión 
 
 
 
 
-Trazando el futuro >
+trazando el futuro 
 
 
 
 
-Campamentos de verano >
+campamentos de verano 
 
 
 
 
 
 
-EspacioCaixa
+espaciocaixa
 
 
 
 
 
-EspacioCaixa
+espaciocaixa
 
 
 
 
-Qué hacemos >
+qué hacemos 
 
 
 
 
-Tienes talento >
+tienes talento 
 
 
 
 
 
 
-Observatorio CaixaProinfancia
+observatorio caixaproinfancia
 
 
 
 
 
-Observatorio CaixaProinfancia
+observatorio caixaproinfancia
 
 
 
 
-Presentación >
+presentación 
 
 
 
 
-Áreas del Observatorio >
+áreas del observatorio 
 
 
 
 
-Territorios >
+territorios 
 
 
 
 
-Investigación y publicaciones >
+investigación y publicaciones 
 
 
 
 
-Enlaces >
+enlaces 
 
 
 
 
 
-Lucha contra la pobreza infantil y la exclusión social
+lucha contra la pobreza infantil y la exclusión social
 
 
 
 
-Recursos digitales
+recursos digitales
 
 
 
@@ -2094,77 +2074,77 @@ Recursos digitales
 
 
 
-Empleo
+empleo
 
 
 
 
 
 
-Atrás
+atrás
 
 
 
 
-Empleo
+empleo
 
 
 
 
-En un vistazo
+en un vistazo
 
 
 
 
-Incorpora
+incorpora
 
 
 
 
-Reincorpora
+reincorpora
 
 
 
 
-Salud Mental
+salud mental
 
 
 
 
 
-Fondo Social Europeo
+fondo social europeo
 
 
 
 
 
-Fondo Social Europeo
+fondo social europeo
 
 
 
 
-FSE >
+fse 
 
 
 
 
-Empleo Joven >
+empleo joven 
 
 
 
 
-Más Empleo >
+más empleo 
 
 
 
 
 
-Inserción sociolaboral
+inserción sociolaboral
 
 
 
 
-Recursos digitales
+recursos digitales
 
 
 
@@ -2172,207 +2152,207 @@ Recursos digitales
 
 
 
-Convocatorias sociales
+convocatorias sociales
 
 
 
 
 
 
-Atrás
+atrás
 
 
 
 
-Convocatorias sociales
+convocatorias sociales
 
 
 
 
-En un vistazo
+en un vistazo
 
 
 
 
 
-Convocatorias generales
+convocatorias generales
 
 
 
 
 
-Convocatorias generales
+convocatorias generales
 
 
 
 
-Promoción de la autonomía personal y atención al envejecimiento, a la discapacidad y a la enfermedad >
+promoción de la autonomía personal y atención al envejecimiento a la discapacidad y a la enfermedad 
 
 
 
 
-Lucha contra la pobreza infantil y la exclusión social >
+lucha contra la pobreza infantil y la exclusión social 
 
 
 
 
-Acción social en el ámbito rural >
+acción social en el ámbito rural 
 
 
 
 
-Inserción sociolaboral >
+inserción sociolaboral 
 
 
 
 
-Cooperación Internacional >
+cooperación internacional 
 
 
 
 
-Viviendas para la inclusión social >
+viviendas para la inclusión social 
 
 
 
 
-Interculturalidad y acción social >
+interculturalidad y acción social 
 
 
 
 
 
 
-Convocatorias territoriales
+convocatorias territoriales
 
 
 
 
 
-Convocatorias territoriales
+convocatorias territoriales
 
 
 
 
-Convocatoria Andalucía >
+convocatoria andalucía 
 
 
 
 
-Convocatoria Canarias >
+convocatoria canarias 
 
 
 
 
 
 
-Premios Fundación "la Caixa" a la Innovación Social
+premios fundación "la caixa" a la innovación social
 
 
 
 
 
-Premios Fundación "la Caixa" a la Innovación Social
+premios fundación "la caixa" a la innovación social
 
 
 
 
-Andactan Bareos-Juntos crecemos. Desarrollo integral de menores en riesgo o situación de exclusión social >
+andactan bareosjuntos crecemos desarrollo integral de menores en riesgo o situación de exclusión social 
 
 
 
 
-Atención integral a mujeres víctimas de la trata de seres humanos con fines de explotación >
+atención integral a mujeres víctimas de la trata de seres humanos con fines de explotación 
 
 
 
 
-Atención a víctimas con discapacidad intelectual >
+atención a víctimas con discapacidad intelectual 
 
 
 
 
-Empleando: Entrevecinos >
+empleando entrevecinos 
 
 
 
 
-Follow me >
+follow me 
 
 
 
 
-Programa de mejora de los niveles de integración laboral de personas desempleadas en riesgo de exclusión social mayores de 45 años >
+programa de mejora de los niveles de integración laboral de personas desempleadas en riesgo de exclusión social mayores de 45 años 
 
 
 
 
-Imaginarte >
+imaginarte 
 
 
 
 
-Red residencial de apoyo a personas sin hogar >
+red residencial de apoyo a personas sin hogar 
 
 
 
 
-Residencia maternal temporal: ayudando a madres a ser autónomas >
+residencia maternal temporal ayudando a madres a ser autónomas 
 
 
 
 
-Ventanas de enfrente: interculturalidad y superación de conflictos en la escuela >
+ventanas de enfrente interculturalidad y superación de conflictos en la escuela 
 
 
 
 
-Goratu: formación 2.0 liderado por personas con discapacidad intelectual >
+goratu formación 20 liderado por personas con discapacidad intelectual 
 
 
 
 
-Proyecto de vida independiente y de voluntariado comunitario de ATADES Huesca >
+proyecto de vida independiente y de voluntariado comunitario de atades huesca 
 
 
 
 
-La estrella azul >
+la estrella azul 
 
 
 
 
-Red de salud mental colectiva: herramientas y dispositivos para un modelo participativo en la promoción de la autonomía >
+red de salud mental colectiva herramientas y dispositivos para un modelo participativo en la promoción de la autonomía 
 
 
 
 
-FUHEM alimentando otros modelos: comedores escolares ecológicos >
+fuhem alimentando otros modelos comedores escolares ecológicos 
 
 
 
 
-Mujeres africanas en l‘horta: una apuesta por la interculturalidad en l‘horta de Valencia >
+mujeres africanas en l‘horta una apuesta por la interculturalidad en l‘horta de valencia 
 
 
 
 
-Programa de prevención de la violencia filio-parental en adolescentes >
+programa de prevención de la violencia filioparental en adolescentes 
 
 
 
 
-Atención psicológica, social y jurídica a víctimas de abuso sexual en la infancia en situación de riesgo de exclusión social >
+atención psicológica social y jurídica a víctimas de abuso sexual en la infancia en situación de riesgo de exclusión social 
 
 
 
 
-Caminando juntas: programa de inserción sociolaboral para mujeres migrantes desde una perspectiva de género >
+caminando juntas programa de inserción sociolaboral para mujeres migrantes desde una perspectiva de género 
 
 
 
 
-Programa de microcréditos al autoempleo para la inserción sociolaboral de mujeres inmigrantes en situación vulnerable >
+programa de microcréditos al autoempleo para la inserción sociolaboral de mujeres inmigrantes en situación vulnerable 
 
 
 
@@ -2381,89 +2361,89 @@ Programa de microcréditos al autoempleo para la inserción sociolaboral de muje
 
 
 
-Salud
+salud
 
 
 
 
 
 
-Atrás
+atrás
 
 
 
 
-Salud
+salud
 
 
 
 
 
-Atención integral a personas con enfermedades avanzadas
+atención integral a personas con enfermedades avanzadas
 
 
 
 
 
-Atención integral a personas con enfermedades avanzadas
+atención integral a personas con enfermedades avanzadas
 
 
 
 
-En un vistazo >
+en un vistazo 
 
 
 
 
-Equipos de atención psicosocial >
+equipos de atención psicosocial 
 
 
 
 
-Líneas de Actuación >
+líneas de actuación 
 
 
 
 
-Dónde actuamos >
+dónde actuamos 
 
 
 
 
-Voluntariado >
+voluntariado 
 
 
 
 
-Escuela de Cuidadores >
+escuela de cuidadores 
 
 
 
 
-Publicaciones >
+publicaciones 
 
 
 
 
-Recursos digitales >
+recursos digitales 
 
 
 
 
 
 
-Hospitalización Infantil
+hospitalización infantil
 
 
 
 
 
-Hospitalización Infantil
+hospitalización infantil
 
 
 
 
-CiberCaixa Hospitalarias >
+cibercaixa hospitalarias 
 
 
 
@@ -2472,1216 +2452,1214 @@ CiberCaixa Hospitalarias >
 
 
 
-Personas mayores
+personas mayores
 
 
 
 
 
 
-Atrás
+atrás
 
 
 
 
-Personas mayores
+personas mayores
 
 
 
 
-En un vistazo
+en un vistazo
 
 
 
 
 
-Salud y Bienestar
+formación
 
 
 
 
 
-Salud y Bienestar
+formación
 
 
 
 
-Qué hacemos >
+qué hacemos 
 
 
 
 
-- Dolor + Vida >
+talleres presenciales 
 
 
 
 
-Actívate >
+talleres online 
 
 
 
 
-Despertar con una sonrisa >
+talleres de autoformación 
 
 
 
 
-Entrena >
 
 
+atención soledad
 
 
-Ejercit@ tu mente >
 
 
 
+atención soledad
 
-Alimenta tu bienestar >
 
 
 
+qué hacemos 
 
-¡En forma! >
 
 
 
+siempre acompañados 
 
 
 
-Informática y Comunicación
 
 
 
+centros
 
 
-Informática y Comunicación
 
 
 
+centros
 
-Qué hacemos >
 
 
 
+qué hacemos 
 
-Iníciate a la informática >
 
 
 
+espacio fundación ”la caixa” girona 
 
-Crea y diseña documentos de texto >
 
 
 
+espacio fundación ”la caixa” madrid 
 
-Retoque fotográfico y presentaciones digitales >
 
 
 
+espacio fundación ”la caixa” murcia 
 
-Conéctate a la red >
 
 
 
+directorio de centros 
 
-Incorpora Internet a tu día a día >
 
 
 
 
+convocatorias
 
 
-Participación social y voluntariado
 
 
 
+recursos digitales
 
 
-Participación social y voluntariado
 
 
 
+recursos digitales
 
-Qué hacemos >
 
 
 
+qué hacemos 
 
-Acciones locales >
 
 
 
+cinefórum virtual 
 
-Formación básica para los proyectos de voluntariado >
 
 
 
+concurso de relatos 
 
-Grandes lectores >
 
 
 
+jornadas y coloquios 
 
-Concurso de relatos >
 
 
 
+covid19 
 
 
 
-Desarrollo personal y ciclo vital
 
 
 
 
 
-Desarrollo personal y ciclo vital
+cooperación internacional
 
 
 
 
-Qué hacemos >
 
 
+atrás
 
 
-Vivir como yo quiero >
 
 
+cooperación internacional
 
 
-Vivir en positivo >
 
 
 
+empleo
 
-Vivir es descubrirme >
 
 
 
 
+empleo
 
 
-EspacioCaixa y otros centros
 
 
+work 4 progress 
 
 
 
-EspacioCaixa y otros centros
 
+work 4 progress países 
 
 
 
-Qué hacemos >
 
+work 4 progress think tank 
 
 
 
-EspacioCaixa Girona >
 
+challenge w4p 
 
 
 
-EspacioCaixa Madrid >
 
+aula virtual  módulo i escucha 
 
 
 
-EspacioCaixa Murcia >
 
+aula virtual  módulo ii cocreación 
 
 
 
-Directorio de centros >
 
+aula virtual  módulo iii prototipado y escalado 
 
 
 
 
-Siempre acompañados
+aula virtual  módulo iv evaluación y comunicación 
 
 
 
 
-Cuidar como nos gustaría ser cuidados
 
 
+educación
 
 
 
-Convocatoria
 
 
+educación
 
 
 
-Convocatoria
 
+profuturo 
 
 
 
-Promoción de la autonomía personal y atención al envejecimiento, a la discapacidad y a la enfermedad >
 
 
 
+emergencias y ayuda humanitaria
 
 
-Recursos digitales
 
 
 
+emergencias y ayuda humanitaria
 
-Cinefórum Virtual
 
 
 
+mom de innovación contra la malnutrición infantil 
 
 
 
 
-Cooperación Internacional
+programa de inversión de impacto humanitario para rehabilitación física 
 
 
 
 
+programa de becas para estudiantes sirios 
 
 
-Atrás
 
 
 
 
-Cooperación Internacional
+salud global
 
 
 
 
 
-Empleo
+salud global
 
 
 
 
+en un vistazo 
 
-Empleo
 
 
 
+vacunación infantil 
 
-Work 4 Progress >
 
 
 
+programa de lucha contra la malaria  icaria 
 
-Work 4 Progress Países >
 
 
 
+isglobal 
 
-Work 4 Progress Think Tank >
 
 
 
+alianza contra la neumonía  proyecto arida 
 
-Challenge W4P >
 
 
 
+iii edición del curso en gestión de ciencia 
 
-Aula virtual - Módulo I: Escucha >
 
 
 
 
-Aula virtual - Módulo II: Co-creación >
 
+alianzas estratégicas
 
 
 
-Aula virtual - Módulo III: Prototipado y escalado >
 
 
+alianzas estratégicas
 
 
-Aula virtual - Módulo IV: Evaluación y comunicación >
 
 
+en un vistazo 
 
 
 
 
-Educación
+juntos 
 
 
 
 
 
-Educación
+cooperantescaixa
 
 
 
 
-ProFuturo >
+convocatoria
 
 
 
 
 
+más información
 
-Emergencias y ayuda humanitaria
 
 
 
 
+más información
 
-Emergencias y ayuda humanitaria
 
 
 
+donativos 
 
-MOM de innovación contra la malnutrición infantil >
 
 
 
 
-Programa de Inversión de Impacto Humanitario para Rehabilitación Física >
 
 
 
+fundación de la esperanza
 
-Programa de becas para estudiantes sirios >
 
 
 
 
 
+atrás
 
-Salud global
 
 
 
+fundación de la esperanza
 
 
-Salud global
 
 
+qué hacemos
 
 
-En un vistazo >
 
 
+programas
 
 
-Vacunación Infantil >
 
 
+casa de recés
 
 
-Programa de lucha contra la malaria - ICARIA >
 
 
+información
 
 
-ISGlobal >
 
 
 
 
-Alianza contra la Neumonía - Proyecto ARIDA >
 
+el observatorio social
 
 
 
-III Edición del Curso en Gestión de Ciencia >
 
 
 
+atrás
 
 
 
-Alianzas estratégicas
 
+el observatorio social
 
 
 
 
-Alianzas estratégicas
+qué hacemos
 
 
 
 
-En un vistazo >
 
+convocatoria de investigación social
 
 
 
-JUNTOS! >
 
 
+convocatoria de investigación social
 
 
 
-CooperantesCaixa
 
+descripción del programa 
 
 
 
-Convocatoria
 
+resultados de las convocatorias 
 
 
 
 
-Más información
 
 
 
+palau macaya
 
 
-Más información
 
 
 
+interculturalidad y cohesión social
 
-Donativos >
 
 
 
 
 
+atrás
 
 
 
-Fundación de la Esperanza
 
+interculturalidad y cohesión social
 
 
 
 
+en un vistazo
 
-Atrás
 
 
 
 
-Fundación de la Esperanza
+proyecto de intervención comunitaria intercultural
 
 
 
 
-Qué hacemos
 
+proyecto de intervención comunitaria intercultural
 
 
 
-Programas
 
+qué hacemos 
 
 
 
-Casa de Recés
 
+zonas de actuación 
 
 
 
-Información
 
+claves del proyecto 
 
 
 
 
+encuesta sobre convivencia 
 
 
-El Observatorio Social
 
 
 
+interculturalidad y acción social
 
 
 
-Atrás
 
 
 
 
-El Observatorio Social
 
 
+cultura y ciencia
 
 
-Qué hacemos
 
 
 
+atrás
 
 
-Convocatoria de Investigación Social
 
 
+cultura y ciencia
 
 
 
-Convocatoria de Investigación Social
 
 
+centros culturales y de divulgación científica
 
 
-Descripción del programa >
 
 
 
 
-Resultados de las convocatorias >
+atrás
 
 
 
 
+centros culturales y de divulgación científica
 
 
 
-Palau Macaya
 
+caixaforum barcelona
 
 
 
 
-Interculturalidad y cohesión social
+caixaforum girona
 
 
 
 
+caixaforum lleida
 
 
-Atrás
 
 
+caixaforum madrid
 
 
-Interculturalidad y cohesión social
 
 
+caixaforum palma
 
 
-En un vistazo
 
 
+caixaforum tarragona
 
 
 
-Proyecto de Intervención Comunitaria Intercultural
 
+caixaforum sevilla
 
 
 
 
-Proyecto de Intervención Comunitaria Intercultural
+caixaforum zaragoza
 
 
 
 
-Qué hacemos >
 
+cosmocaixa
 
 
 
-Zonas de Actuación >
 
 
+cosmocaixa
 
 
-Claves del proyecto >
 
 
+qué hacemos 
 
 
-Encuesta sobre convivencia >
 
 
+el museo 
 
 
 
-Interculturalidad y acción social
 
+accesibilidad 
 
 
 
 
+información 
 
 
 
 
-Cultura y ciencia
+política ambiental 
 
 
 
 
+datos generales de cosmocaixa 
 
-Atrás
 
 
 
+archivo digital 
 
-Cultura y ciencia
 
 
 
 
 
-Centros culturales y de divulgación científica
 
 
+exposiciones itinerantes
 
 
 
 
-Atrás
 
 
+atrás
 
 
-Centros culturales y de divulgación científica
 
 
+exposiciones itinerantes
 
 
-CAIXAFORUM Barcelona
 
 
+en un vistazo
 
 
-CAIXAFORUM Girona
 
 
+mapa de las exposiciones
 
 
-CAIXAFORUM Lleida
 
 
+exposiciones por mes
 
 
-CAIXAFORUM Madrid
 
 
 
 
-CAIXAFORUM Palma
+colección de arte contemporáneo
 
 
 
 
-CAIXAFORUM Tarragona
 
+música
 
 
 
-CAIXAFORUM Sevilla
 
 
 
+atrás
 
-CAIXAFORUM Zaragoza
 
 
 
+música
 
 
-CosmoCaixa
 
 
+en un vistazo
 
 
 
-CosmoCaixa
 
+conciertos participativos
 
 
 
-Qué hacemos >
 
+conciertos participativos 2021
 
 
 
-El Museo >
 
 
+yocanto
 
 
-Accesibilidad >
 
 
 
+yocanto
 
-Información >
 
 
 
+yocanto viva la vida 
 
-Política Ambiental >
 
 
 
+yocanto aleluya 
 
-Datos Generales de CosmoCaixa >
 
 
 
+yocanto bohemian rhapsody 
 
-Archivo digital >
 
 
 
 
+symphony un viaje virtual al corazón de la música
 
 
 
 
-Exposiciones Itinerantes
 
+retransmisiones anteriores
 
 
 
 
 
-Atrás
+retransmisiones anteriores
 
 
 
 
-Exposiciones Itinerantes
+en un vistazo 
 
 
 
 
-En un vistazo
+el mesías de händel 2015 
 
 
 
 
-Mapa de las exposiciones
+el mesías de händel 2011 
 
 
 
 
-Exposiciones por mes
+grandes coros de ópera 2011 
 
 
 
 
+el mesías de händel 2010 familiar barcelona 
 
 
-Colección de Arte Contemporáneo
 
 
+el mesías de händel 2010 barcelona 
 
 
 
-Música
 
+el mesías de händel 2010 madrid 
 
 
 
 
+requiem de mozart  2010 
 
-Atrás
 
 
 
+el mesías de händel parte i 2009 
 
-Música
 
 
 
+el mesías de händel parte ii 2009 
 
-En un vistazo
 
 
 
+carmina burana 2009 
 
-Conciertos participativos
 
 
 
 
-Conciertos Participativos 2021
+conciertos escolares
 
 
 
 
 
-#YoCanto
+música en caixaforum
 
 
 
 
 
-#YoCanto
+música en caixaforum
 
 
 
 
-#YoCanto Viva la Vida >
+qué hacemos 
 
 
 
 
-#YoCanto Aleluya >
+convocatoria microconciertos en caixaforum 
 
 
 
 
-#YoCanto Bohemian Rhapsody >
 
 
 
 
+contenidos digitales
 
-Symphony. Un viaje virtual al corazón de la música
 
 
 
 
 
-Retransmisiones anteriores
+atrás
 
 
 
 
+contenidos digitales
 
-Retransmisiones anteriores
 
 
 
+ágora digital cultura
 
-En un vistazo >
 
 
 
+ágora digital ciencia
 
-El Mesías de Händel 2015 >
 
 
 
 
-El Mesías de Händel 2011 >
 
 
+convocatorias culturales
 
 
-Grandes Coros de Ópera 2011 >
 
 
 
 
-El Mesías de Händel 2010 (Familiar Barcelona) >
+atrás
 
 
 
 
-El Mesías de Händel 2010 (Barcelona) >
+convocatorias culturales
 
 
 
 
-El Mesías de Händel 2010 (Madrid) >
 
+art for change ”la caixa”
 
 
 
-Requiem de Mozart  2010 >
 
 
+art for change ”la caixa”
 
 
-El Mesías de Händel Parte I 2009 >
 
 
+descripción del programa 
 
 
-El Mesías de Händel Parte II 2009 >
 
 
+convocatoria 
 
 
-Carmina Burana 2009 >
 
 
+proyectos seleccionados 
 
 
 
-Conciertos escolares
 
+otros proyectos 
 
 
 
 
-Música en CaixaForum
+exchange forum 
 
 
 
 
+coproducción 
 
-Música en CaixaForum
 
 
 
 
-Qué hacemos >
 
+apoyo a la creación
 
 
 
-Convocatoria Microconciertos en CaixaForum >
 
 
+apoyo a la creación
 
 
 
 
+convocatoria de comisariado 
 
 
-Contenidos digitales
 
 
+convocatoria de producción 
 
 
 
 
-Atrás
 
 
 
 
-Contenidos digitales
+ciencia y medio ambiente
 
 
 
 
-Ágora Digital Cultura
 
 
+atrás
 
 
-Ágora Digital Ciencia
 
 
+ciencia y medio ambiente
 
 
 
 
 
-Convocatorias culturales
+espacios saludables
 
 
 
 
 
+espacios saludables
 
-Atrás
 
 
 
+proyectos para espacios saludables 
 
-Convocatorias culturales
 
 
 
 
 
-Art for Change ”la Caixa”
+cambio climático
 
 
 
 
 
-Art for Change ”la Caixa”
+cambio climático
 
 
 
 
-Descripción del programa >
+fundación empresa y clima 
 
 
 
 
-Convocatoria >
+informes y colaboraciones 
 
 
 
 
-Proyectos seleccionados >
 
 
+divulgación para la sostenibilidad
 
 
-Otros proyectos >
 
 
 
+divulgación para la sostenibilidad
 
-Exchange Forum >
 
 
 
+laboratorio de ecoinnovación 
 
-Coproducción >
 
 
 
+el mar a fondo 
 
 
 
-Apoyo a la Creación
 
 
 
 
 
-Apoyo a la Creación
+alianzas con instituciones
 
 
 
 
-Convocatoria de Comisariado >
 
 
+atrás
 
 
-Convocatoria de Producción >
 
 
+alianzas con instituciones
 
 
 
 
+alianzas culturales
 
 
-Ciencia y Medio Ambiente
 
 
 
+planetarios
 
 
 
-Atrás
 
 
+planetarios
 
 
-Ciencia y Medio Ambiente
 
 
+planetario de madrid 
 
 
 
-Espacios saludables
 
+planetario de pamplona 
 
 
 
 
-Espacios saludables
 
 
 
 
-Proyectos para espacios saludables >
 
 
+educación y becas
 
 
 
 
-Cambio climático
 
+atrás
 
 
 
 
-Cambio climático
+educación y becas
 
 
 
 
-Fundación Empresa y Clima >
 
+educaixa
 
 
 
-Informes y colaboraciones >
 
 
 
+atrás
 
 
 
-Divulgación para la sostenibilidad
 
+educaixa
 
 
 
 
-Divulgación para la sostenibilidad
+qué hacemos
 
 
 
 
-Laboratorio de Ecoinnovación >
+programas
 
 
 
 
-El Mar a Fondo >
 
+formación
 
 
 
 
 
+formación
 
 
-Alianzas con instituciones
 
 
+qué hacemos 
 
 
 
 
-Atrás
+programa de liderazgo para el aprendizaje 
 
 
 
 
-Alianzas con instituciones
 
 
+evidencias
 
 
-Alianzas Culturales
 
 
 
+evidencias
 
 
-Planetarios
 
 
+qué hacemos 
 
 
 
-Planetarios
 
+evaluación de programas educativos 
 
 
 
-Planetario de Madrid >
 
 
+actividades
 
 
-Planetario de Pamplona >
 
 
+recursos
 
 
 
@@ -3689,923 +3667,923 @@ Planetario de Pamplona >
 
 
 
+becas de la fundación ”la caixa”
 
-Educación y becas
 
 
 
 
 
-Atrás
+atrás
 
 
 
 
-Educación y becas
+becas de la fundación ”la caixa”
 
 
 
 
+información general
 
-EduCaixa
 
 
 
+programas de becas
 
 
 
-Atrás
 
 
+becas de grado
 
 
-EduCaixa
 
 
 
+becas de grado
 
-Qué hacemos
 
 
 
+convocatoria 
 
-Programas
 
 
 
+¿qué ofrecemos 
 
 
-Formación
 
 
+evaluación de solicitudes 
 
 
 
-Formación
 
+faqs 
 
 
 
-Qué hacemos >
 
+materiales de difusión 
 
 
 
-Programa de Liderazgo para el Aprendizaje >
 
 
 
+posgrado en el extranjero
 
 
 
-Evidencias
 
 
+posgrado en el extranjero
 
 
 
-Evidencias
 
+descripción del programa 
 
 
 
-Qué hacemos >
 
+faqs 
 
 
 
-Evaluación de programas educativos >
 
+materiales de difusión 
 
 
 
 
-Actividades
 
 
+doctorado inphinit
 
 
-Recursos
 
 
 
+doctorado inphinit
 
 
 
 
-Becas de la Fundación ”la Caixa”
+descripción del programa 
 
 
 
 
+incoming 
 
 
-Atrás
 
 
+retaining 
 
 
-Becas de la Fundación ”la Caixa”
 
 
+proceso de selección 
 
 
-Información general
 
 
+sobre nosotros 
 
 
-Programas de becas
 
 
+faqs 
 
 
 
-Becas de Grado
 
+materiales de difusión 
 
 
 
 
-Becas de Grado
 
 
+posdoctorado junior leader
 
 
-Convocatoria >
 
 
 
+posdoctorado junior leader
 
-¿Qué ofrecemos? >
 
 
 
+descripción del programa 
 
-Evaluación de solicitudes >
 
 
 
+incoming 
 
-FAQs >
 
 
 
+retaining 
 
-Materiales de difusión >
 
 
 
+proceso de selección 
 
 
 
-Posgrado en el extranjero
 
+sobre nosotros 
 
 
 
 
-Posgrado en el extranjero
+faqs 
 
 
 
 
-Descripción del programa >
+materiales de difusión 
 
 
 
 
-FAQs >
 
+evaluación de solicitudes
 
 
 
-Materiales de difusión >
 
 
+becarios de la fundación ”la caixa”
 
 
 
 
-Doctorado INPhINIT
 
+becarios de la fundación ”la caixa”
 
 
 
 
-Doctorado INPhINIT
+qué hacemos 
 
 
 
 
-Descripción del programa >
+ciclo de conferencias 
 
 
 
 
-Incoming >
 
 
 
 
-Retaining >
+otras becas
 
 
 
 
-Proceso de selección >
 
 
+atrás
 
 
-Sobre nosotros >
 
 
+otras becas
 
 
-FAQs >
 
 
+en un vistazo
 
 
-Materiales de difusión >
 
 
+becas posdoctorales weizmann institute fundación ”la caixa”
 
 
 
 
-Posdoctorado Junior Leader
+becas posdoctorales fundación ”la caixa”  mit aging brain initiative
 
 
 
 
+periodismo
 
-Posdoctorado Junior Leader
 
 
 
+colegios del mundo unido
 
-Descripción del programa >
 
 
 
 
-Incoming >
 
 
+profuturo
 
 
-Retaining >
 
 
 
 
-Proceso de selección >
+atrás
 
 
 
 
-Sobre nosotros >
+profuturo
 
 
 
 
-FAQs >
+educación digital en entornos vulnerables
 
 
 
 
-Materiales de difusión >
+programa formativo docentes digitales
 
 
 
 
 
-Evaluación de solicitudes
 
 
 
 
+investigación y salud
 
-Becarios de la Fundación ”la Caixa”
 
 
 
 
+atrás
 
-Becarios de la Fundación ”la Caixa”
 
 
 
+investigación y salud
 
-Qué hacemos >
 
 
 
 
-Ciclo de conferencias >
+caixaresearch
 
 
 
 
 
 
+atrás
 
 
-Otras becas
 
 
+caixaresearch
 
 
 
 
-Atrás
+en un vistazo
 
 
 
 
-Otras becas
+caixaresearch institute un proyecto de futuro
 
 
 
 
-En un vistazo
 
+enfermedades infecciosas
 
 
 
-Becas posdoctorales Weizmann Institute Fundación ”la Caixa”
 
 
+enfermedades infecciosas
 
 
-Becas posdoctorales Fundación ”la Caixa” - MIT Aging Brain Initiative
 
 
+isglobal 
 
 
-Periodismo
 
 
+irsicaixa 
 
 
-Colegios del Mundo Unido
 
 
+convenios bilaterales 
 
 
 
 
+proyectos seleccionados 
 
-ProFuturo
 
 
 
 
+oncología
 
 
-Atrás
 
 
+enfermedades cardiovasculares
 
 
-ProFuturo
 
 
 
+neurociencias
 
-Educación Digital en entornos vulnerables
 
 
 
 
-Programa formativo Docentes Digitales
+neurociencias
 
 
 
 
+neurodegenerativas 
 
 
 
 
+neurodesarrollo 
 
-Investigación y salud
 
 
 
+minoritarias neurológicas 
 
 
-Atrás
 
 
+salud cerebral 
 
 
-Investigación y salud
 
 
 
 
+ciencias médicas
 
-CaixaResearch
 
 
 
 
+ciencias médicas
 
 
-Atrás
 
 
+endoscopia digestiva 
 
 
-CaixaResearch
 
 
+enfermedades pulmonares 
 
 
-En un vistazo
 
 
 
+proyectos europeos
 
-CaixaResearch Institute, un proyecto de futuro
 
 
 
 
+políticas de investigación y buenas prácticas
 
-Enfermedades infecciosas
 
 
 
 
+políticas de investigación y buenas prácticas
 
-Enfermedades infecciosas
 
 
 
+principios de responsabilidad 
 
-ISGlobal >
 
 
 
+política de gestión y acceso abierto 
 
-IrsiCaixa >
 
 
 
+política de integridad 
 
-Convenios Bilaterales >
 
 
 
 
-Proyectos seleccionados >
+convocatorias caixaresearch
 
 
 
 
 
-Oncología
 
 
+convocatorias caixaresearch de investigación e innovación
 
 
-Enfermedades Cardiovasculares
 
 
 
 
+atrás
 
-Neurociencias
 
 
 
+convocatorias caixaresearch de investigación e innovación
 
 
-Neurociencias
 
 
+información de las convocatorias
 
 
-Neurodegenerativas >
 
 
 
+convocatoria caixaresearch de investigación en salud
 
-Neurodesarrollo >
 
 
 
 
-Minoritarias neurológicas >
+convocatoria caixaresearch de investigación en salud
 
 
 
 
-Salud cerebral >
+descripción del programa 
 
 
 
 
+faqs 
 
 
-Ciencias médicas
 
 
+proyectos seleccionados 
 
 
 
-Ciencias médicas
 
+resumen de resultados 
 
 
 
-Endoscopia Digestiva >
 
+materiales de difusión 
 
 
 
-Enfermedades pulmonares >
 
 
+convocatoria caixaresearch de movilidad  medicina global e investigación en salud
 
 
 
-Proyectos europeos
 
 
+convocatoria caixaresearch validate
 
 
 
-Políticas de investigación y buenas prácticas
 
 
+convocatoria caixaresearch validate
 
 
 
-Políticas de investigación y buenas prácticas
 
+descripción del programa 
 
 
 
-Principios de responsabilidad >
 
+faqs 
 
 
 
-Política de Gestión y Acceso Abierto >
 
+proyectos seleccionados 
 
 
 
-Política de integridad >
 
+materiales de difusión 
 
 
 
 
-Convocatorias CaixaResearch
 
 
+convocatoria caixaresearch consolidate
 
 
 
 
 
-Convocatorias CaixaResearch de Investigación e Innovación
+convocatoria caixaresearch consolidate
 
 
 
 
+descripción del programa 
 
 
-Atrás
 
 
+faqs 
 
 
-Convocatorias CaixaResearch de Investigación e Innovación
 
 
+proyectos seleccionados 
 
 
-Información de las convocatorias
 
 
+materiales de difusión 
 
 
 
-Convocatoria CaixaResearch de Investigación en Salud
 
 
 
+convocatoria caixaresearch covid19
 
 
-Convocatoria CaixaResearch de Investigación en Salud
 
 
 
+convocatoria caixaresearch covid19
 
-Descripción del programa >
 
 
 
+descripción del programa 
 
-FAQs >
 
 
 
+proyectos seleccionados 
 
-Proyectos seleccionados >
 
 
 
 
-Resumen de resultados >
 
+convocatorias finalizadas
 
 
 
-Materiales de difusión >
 
 
+convocatorias finalizadas
 
 
 
-Convocatoria CaixaResearch de Movilidad - Medicina Global e Investigación en salud
 
+convocatoria posdoctoral ”la caixa”  mount sinai icahn school of medicine 
 
 
 
 
-Convocatoria CaixaResearch Validate
+mitspain ”la caixa” foundation seed fund 
 
 
 
 
+recercaixa 
 
-Convocatoria CaixaResearch Validate
 
 
 
 
-Descripción del programa >
 
 
 
+resultados caixaresearch
 
-FAQs >
 
 
 
 
-Proyectos seleccionados >
 
+atrás
 
 
 
-Materiales de difusión >
 
+resultados caixaresearch
 
 
 
 
+para estar informado
 
-Convocatoria CaixaResearch Consolidate
 
 
 
 
+debates caixaresearch
 
-Convocatoria CaixaResearch Consolidate
 
 
 
 
-Descripción del programa >
+debates caixaresearch
 
 
 
 
-FAQs >
+el éxito de los tratamientos ya disponibles para pacientes con covid19 
 
 
 
 
-Proyectos seleccionados >
+cáncer ¿hacia dónde se orientan las nuevas terapias 
 
 
 
 
-Materiales de difusión >
+mujeres en ciencia superando estereotipos y desigualdades 
 
 
 
 
+leucemia presente y futuro de los nuevos tratamientos 
 
 
-Convocatoria CaixaResearch Covid-19
 
 
+nuevos retos en vacunación y erradicación de enfermedades 
 
 
 
-Convocatoria CaixaResearch Covid-19
 
+¿podremos curar la obesidad una pandemia del siglo xxi 
 
 
 
-Descripción del programa >
 
+ela una enfermedad mortal… ¿por mucho tiempo 
 
 
 
-Proyectos seleccionados >
 
 
 
+conferencia caixaresearch
 
 
 
-Convocatorias finalizadas
 
 
+conferencia caixaresearch
 
 
 
-Convocatorias finalizadas
 
+pandemias superando la covid19  y preparándonos para el futuro 
 
 
 
-Convocatoria posdoctoral ”la Caixa” - Mount Sinai Icahn School of Medicine >
 
+agenda 
 
 
 
-MIT-SPAIN ”la Caixa” Foundation SEED FUND >
 
+ponentes 
 
 
 
-RecerCaixa >
 
 
 
+resultados destacados
 
 
 
 
 
-Resultados CaixaResearch
+resultados destacados
 
 
 
 
+2020 
 
 
-Atrás
 
 
+2019 
 
 
-Resultados CaixaResearch
 
 
 
 
-Para estar informado
 
 
 
+quiénes somos
 
 
-DEBATES CaixaResearch
 
 
 
+atrás
 
 
-DEBATES CaixaResearch
 
 
+quiénes somos
 
 
-El éxito de los tratamientos ya disponibles para pacientes con COVID-19 >
 
 
 
+quiénes somos
 
-Cáncer. ¿Hacia dónde se orientan las nuevas terapias? >
 
 
 
 
-Mujeres en ciencia, superando estereotipos y desigualdades >
 
+atrás
 
 
 
-Leucemia, presente y futuro de los nuevos tratamientos >
 
+quiénes somos
 
 
 
-Nuevos retos en vacunación y erradicación de enfermedades >
 
+francesc moragas
 
 
 
-¿Podremos curar la obesidad? Una pandemia del siglo XXI >
 
+nuestros inicios
 
 
 
-ELA, una enfermedad mortal… ¿por mucho tiempo? >
 
+nuestra esencia
 
 
 
 
+misión visión y valores
 
-Resultados destacados
 
 
 
 
 
-Resultados destacados
 
+información corporativa
 
 
 
-2020 >
 
 
 
+atrás
 
-2019 >
 
 
 
+información corporativa
 
 
 
 
 
+gobierno corporativo
 
-Quiénes somos
 
 
 
 
+gobierno corporativo
 
-Atrás
 
 
 
+órganos de gobierno 
 
-Quiénes somos
 
 
 
+informe anual de gobierno corporativo 
 
 
-Quiénes somos
 
 
+documentación corporativa 
 
 
 
 
-Atrás
 
+informe anual
 
 
 
-Quiénes somos
 
 
+otra información de interés
 
 
-Francesc Moragas
 
 
 
+otra información de interés
 
-Nuestros inicios
 
 
 
+disolución y liquidación de la fundación ”la caixa” 
 
-Nuestra esencia
 
 
 
+segregación de la fundación bancaria ”la caixa” 
 
-Misión, visión y valores
 
 
 
@@ -4613,142 +4591,66 @@ Misión, visión y valores
 
 
 
-Información corporativa
+información económicafinanciera
 
 
 
 
 
 
-Atrás
+atrás
 
 
 
 
-Información corporativa
+información económicafinanciera
 
 
 
 
+informe financiero anual
 
-Gobierno corporativo
 
 
 
+plan de actuación
 
 
-Gobierno corporativo
 
 
+subvenciones y ayudas públicas
 
 
-Órganos de gobierno >
 
 
 
 
-Informe anual de gobierno corporativo >
 
 
 
 
-Documentación corporativa >
 
+convocatorias
 
 
 
 
-Informe anual
+centros fundación
 
 
 
 
 
-Otra información de interés
 
 
 
 
 
-Otra información de interés
 
 
 
 
-Disolución y liquidación de la Fundación ”la Caixa” >
-
-
-
-
-Segregación de la Fundación Bancaria ”la Caixa” >
-
-
-
-
-
-
-
-
-Información económica-financiera
-
-
-
-
-
-
-Atrás
-
-
-
-
-Información económica-financiera
-
-
-
-
-Informe financiero anual
-
-
-
-
-Plan de actuación
-
-
-
-
-Subvenciones y ayudas públicas
-
-
-
-
-
-
-
-
-
-
-
-Convocatorias
-
-
-
-
-Centros Fundación
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-            		ES
+            		es
             		
 
 
@@ -4756,13 +4658,11 @@ Centros Fundación
 
 
 
-ESPAÑOL 
+español 
 
-CATALÀ 
+català 
 
-ENGLISH 
-
-
+english 
 
 
 
@@ -4773,8 +4673,10 @@ ENGLISH
 
 
 
-Portugal
-Sala de prensa
+
+
+portugal
+sala de prensa
 
 
 

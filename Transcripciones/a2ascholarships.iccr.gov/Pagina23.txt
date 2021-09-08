@@ -10,7 +10,7 @@
 
 
 
-Indian Council for Cultural Relations, Government of India
+indian council for cultural relations government of india
 
 
 
@@ -39,7 +39,7 @@ Indian Council for Cultural Relations, Government of India
 
 
 
-This page is trying to run JavaScript and your browser either does not support JavaScript or you may have turned-off JavaScript. If you have disabled JavaScript on your computer, please turn on JavaScript, to have proper access to this page.
+this page is trying to run javascript and your browser either does not support javascript or you may have turnedoff javascript if you have disabled javascript on your computer please turn on javascript to have proper access to this page
 
 
 
@@ -49,19 +49,19 @@ This page is trying to run JavaScript and your browser either does not support J
 
 
 
-Toggle navigation
+toggle navigation
 
 
 
-28 Aug, 2021 | 10:42 PM IST
+08 sep 2021  0852 pm ist
 
 
-Home
-Skip to main content
-A-
-A
-A+
-Sitemap
+home
+skip to main content
+a
+a
+a
+sitemap
 
 
 
@@ -93,83 +93,83 @@ Sitemap
 
 
 
-Toggle navigation
+toggle navigation
 
 
 
-Home
+home
 
-About us
+about us
 
-About Us
-Mission & Vision
-Organization Chart
+about us
+mission  vision
+organization chart
 
 
 
-Schemes
+schemes
 
-Scheme List
-Ayush Systems
+scheme list
+ayush systems
 
 
 
-Instructions
+instructions
 
-Instructions
+instructions
 
 
-Cities Brief
+cities brief
 
-Universities
+universities
 
 
 
 
-Universities
-Institutes of Eminence
-Arts 
-& Buddhist Studies
-AYUSH
-ICAR
-Hindi
-Law
-Studies for Indian Culture
+universities
+institutes of eminence
+arts 
+ buddhist studies
+ayush
+icar
+hindi
+law
+studies for indian culture
 
 
 
 
-Guidelines  
+guidelines  
 
-Guidelines Before Filling Form (35.1 KB)
+guidelines before filling form 351 kb
 
 
-Physical Fitness Format(234 KB)
-Travel(234 KB)
-Financial Terms (234 KB)
+physical fitness format234 kb
+travel234 kb
+financial terms 234 kb
 
 
 
-FAQ'S
+faqs
 
-Faq
+faq
 
 
-User Manual
-Contact Us
+user manual
+contact us
 
-Testimonials
+testimonials
 
 
 
 
- Registration
+ registration
 
-Applicant Registration
-Alumni Registration
+applicant registration
+alumni registration
 
 
-Login
+login
 
 
 
@@ -181,17 +181,17 @@ Login
 
 
 
-What's New
+whats new
 
 
 
-Admission is open under Ayush Scholarship scheme for AY 2021-2022
+admission is open under ayush scholarship scheme for ay 20212022
 
 
-ICCR has been receiving requests from ICCR students of 2020-21 & 2021-22 Batches regarding stipends for joining online classes.  As per existing ICCR Scholarship norms, a student is entitled to get scholarship dues only w.e.f the date of his physical arrival in India.
+iccr has been receiving requests from iccr students of 202021  202122 batches regarding stipends for joining online classes  as per existing iccr scholarship norms a student is entitled to get scholarship dues only wef the date of his physical arrival in india
 
 
-anyone away from India for more than a month will not receive stipend for the period of absence. If anyone is away for less than a month, will receive stipend
+anyone away from india for more than a month will not receive stipend for the period of absence if anyone is away for less than a month will receive stipend
 
 
 
@@ -221,11 +221,11 @@ anyone away from India for more than a month will not receive stipend for the pe
 
 
 
-Previous
+previous
 
 
 
-Next
+next
 
 
 
@@ -239,95 +239,89 @@ Next
 
 
 						
-																				Dibrugarh University											
+																				dibrugarh university											
 
 
 
 
 						
-																				Shivaji University											
+																				shivaji university											
 
 
 
 
-View All
+view all
 
 
 
 
 
 
-			Welcome to Indian Council for Cultural Relations Scholarship Portal
+			welcome to indian council for cultural relations scholarship portal
 		
 			
 
 
 
-ICCR SCHOLARSHIP PORTAL LOGIN
+iccr scholarship portal login
 
 
 
 
 
-Login ID
+login id
 
 
 
 
 
-Password
+password
 
 
 
 
 
-Are you an applicant?
+are you an applicant
 
-Yes
-No
-
-
-
-
-Apply For
-
-
-Select
-
-
-UG(Under all Scholarship Schemes for ICCR)
-PG(Under all Scholarship Schemes for ICCR)
-Ph.D(Under all Scholarship Schemes for ICCR)
-M.Phil(Under all Scholarship Schemes for ICCR)
-Dance and Music(with Gurus)
-
-Cetificate Course
-
-Ayush Scholarship Scheme(UG/PG/PHD in Ayuerveda,Yoga,Unani,Siddha and Homoeopathy)
+yes
+no
 
 
 
 
-Registation Year
+apply for
 
 
-Select
+select
+
+
+ugunder all scholarship schemes for iccr
+pgunder all scholarship schemes for iccr
+phdunder all scholarship schemes for iccr
+mphilunder all scholarship schemes for iccr
+dance and musicwith gurus
+
+cetificate course
+
+ayush scholarship schemeugpgphd in ayuervedayogaunanisiddha and homoeopathy
 
 
 
-2021-2022
+
+registation year
+
+
+select
 
 
 
-
-
-Captcha
+20212022
 
 
 
 
 
-
+captcha
 
 
 
@@ -336,10 +330,16 @@ Captcha
 
 
 
-Don't have account? Please Sign Up here.
 
 
-Forgot Password
+
+
+
+
+dont have account please sign up here
+
+
+forgot password
 
 
 
@@ -386,23 +386,23 @@ Forgot Password
 
 
 
-Terms & Conditions
-Disclaimer
-Privacy Policy
-Copyright Policy
-Hyperlinking Policy
-Help
-RTI
-About Us
-Mission & Vision
-Who's who
+terms  conditions
+disclaimer
+privacy policy
+copyright policy
+hyperlinking policy
+help
+rti
+about us
+mission  vision
+whos who
 
-Feedback
+feedback
 
 
-					Last Updated On: 16-07-2019					
+					last updated on 16072019					
 					
-© Content Owned by Indian Council for Cultural Relations, Government of India. All Rights Reserved.
+© content owned by indian council for cultural relations government of india all rights reserved
 
 
 
@@ -411,7 +411,7 @@ Feedback
 
 
 
-Click/Drop Image file Here
+clickdrop image file here
 
 
 

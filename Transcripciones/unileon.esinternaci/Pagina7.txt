@@ -14,7 +14,7 @@
 
 
 
-Becas TalentUnileon | Universidad de León
+becas talentunileon  universidad de león
 
 
 
@@ -33,14 +33,14 @@ Becas TalentUnileon | Universidad de León
 
 
 
-      Pasar al contenido principal
+      pasar al contenido principal
     
 
 
 
 
 
-Toggle navigation
+toggle navigation
 
 
 
@@ -51,24 +51,24 @@ Toggle navigation
 
 
 
-Menú de cuenta de usuario
+menú de cuenta de usuario
 
 
-Iniciar sesión
+iniciar sesión
 
 
 
 
-Enlaces secundarios
+enlaces secundarios
 
 
-Campus
+campus
 
 
-Internacional
+internacional
 
 
-Biblioteca
+biblioteca
 
 
 
@@ -81,48 +81,48 @@ Biblioteca
 
 
 
-Buscar
+buscar
 
 
-Buscar
-Buscar
+buscar
+buscar
 
 
 
 
 
-Navegación principal
+navegación principal
 
 
-Universidad
-Universidad
+universidad
+universidad
 
 
 
 
 
-Main - Universidad - Saludo
+main  universidad  saludo
 
 
-Saludo del Rector
+saludo del rector
 
 
-Localización e Historia
+localización e historia
 
 
-Gerencia
+gerencia
 
 
-Equipo de Gobierno 
+equipo de gobierno 
 
 
-Rectorado
+rectorado
 
 
-Secretaría General
+secretaría general
 
 
-Vicerrectorados
+vicerrectorados
 
 
 
@@ -131,22 +131,22 @@ Vicerrectorados
 
 
 
-Main - Universidad - Órganos
+main  universidad  órganos
 
 
-Órganos Colegiados de gobierno 
+órganos colegiados de gobierno 
 
 
-Consejo Social
+consejo social
 
 
-Consejo de Gobierno
+consejo de gobierno
 
 
-Claustro Universitario
+claustro universitario
 
 
-Claustro de Doctores
+claustro de doctores
 
 
 
@@ -155,28 +155,28 @@ Claustro de Doctores
 
 
 
-Main - Universidad - Otros Órganos
+main  universidad  otros órganos
 
 
-Otros órganos universitarios 
+otros órganos universitarios 
 
 
-Asesoría Jurídica
+asesoría jurídica
 
 
-Defensor de la Comunidad Universitaria
+defensor de la comunidad universitaria
 
 
-Junta electoral
+junta electoral
 
 
-Comisión de Reclamaciones
+comisión de reclamaciones
 
 
-Órganos de Representación
+órganos de representación
 
 
-Servicio de Inspección
+servicio de inspección
 
 
 
@@ -185,31 +185,31 @@ Servicio de Inspección
 
 
 
-Main - Universidad - Estructura
+main  universidad  estructura
 
 
-Estructura Universitaria 
+estructura universitaria 
 
 
-Facultades y Escuelas
+facultades y escuelas
 
 
-Departamentos
+departamentos
 
 
-Institutos, centros tecnológicos y cátedras extraordinarias
+institutos centros tecnológicos y cátedras extraordinarias
 
 
-Fundaciones
+fundaciones
 
 
-Servicios de Investigación y Docencia
+servicios de investigación y docencia
 
 
-Servicios Universitarios Generales
+servicios universitarios generales
 
 
-Organización administrativa
+organización administrativa
 
 
 
@@ -225,38 +225,38 @@ Organización administrativa
 
 
 
-Estudiantes
-Estudiantes
+estudiantes
+estudiantes
 
 
 
 
 
-Main - Estudiantes - Futuros
+main  estudiantes  futuros
 
 
-Futuros Estudiantes 
+futuros estudiantes 
 
 
-Acceso
+acceso
 
 
-Preinscripción
+preinscripción
 
 
-Matrícula
+matrícula
 
 
-Normativa y Calendario escolar
+normativa y calendario escolar
 
 
-Información adicional
+información adicional
 
 
-Servicios a estudiantes
+servicios a estudiantes
 
 
-Becas y ayudas
+becas y ayudas
 
 
 
@@ -265,25 +265,25 @@ Becas y ayudas
 
 
 
-Main - Estudiantes - Oferta Académica
+main  estudiantes  oferta académica
 
 
-Oferta Académica 
+oferta académica 
 
 
-Grados
+grados
 
 
-Másteres
+másteres
 
 
-Doctorados
+doctorados
 
 
-Títulos Propios
+títulos propios
 
 
-Títulos Online
+títulos online
 
 
 
@@ -292,31 +292,31 @@ Títulos Online
 
 
 
-Main - Estudiantes - Otras Propuestas
+main  estudiantes  otras propuestas
 
 
-Otras propuestas formativas 
+otras propuestas formativas 
 
 
-Centro de Idiomas
+centro de idiomas
 
 
-Programa Interuniversitario de la Experiencia (PIEx)
+programa interuniversitario de la experiencia piex
 
 
-Cursos de Extensión Universitaria
+cursos de extensión universitaria
 
 
-Cursos de Verano
+cursos de verano
 
 
-Escuela de Innovación Educativa
+escuela de innovación educativa
 
 
-Congresos, Jornadas, Seminarios y Talleres
+congresos jornadas seminarios y talleres
 
 
-Cursos Cero
+cursos cero
 
 
 
@@ -325,34 +325,34 @@ Cursos Cero
 
 
 
-Main - Estudiantes - Servicios
+main  estudiantes  servicios
 
 
-Servicios a estudiantes 
+servicios a estudiantes 
 
 
-Carné Universitario
+carné universitario
 
 
-Deportes
+deportes
 
 
-Moodle
+moodle
 
 
-Secretaría virtual
+secretaría virtual
 
 
-Actividades culturales
+actividades culturales
 
 
-Otros servicios
+otros servicios
 
 
-Programa de apoyo psicológico individualizado
+programa de apoyo psicológico individualizado
 
 
-Área de Estudiantes
+área de estudiantes
 
 
 
@@ -368,44 +368,44 @@ Programa de apoyo psicológico individualizado
 
 
 
-Investigadores
-Investigadores
+investigadores
+investigadores
 
 
 
 
 
-Main - Investigadores - Vicerrectorado
+main  investigadores  vicerrectorado
 
 
-Vicerrectorado de Investigación 
+vicerrectorado de investigación 
 
 
-Organización
+organización
 
 
-Listado telefónico
+listado telefónico
 
 
-SEGI
+segi
 
 
-Normativa e impresos
+normativa e impresos
 
 
-PEDIDOS DE COMPRAS
+pedidos de compras
 
 
-Comisión de investigación
+comisión de investigación
 
 
-Comité de Ética
+comité de ética
 
 
-Universitas XXI Investigación
+universitas xxi investigación
 
 
-Ogmios
+ogmios
 
 
 
@@ -414,25 +414,25 @@ Ogmios
 
 
 
-Main - Investigadores - Programas
+main  investigadores  programas
 
 
-Programas y Convocatorias 
+programas y convocatorias 
 
 
-Plan Propio de Ayudas
+plan propio de ayudas
 
 
-Contratos, Ayudas y Becas
+contratos ayudas y becas
 
 
-Productividad Investigadora
+productividad investigadora
 
 
-Enlaces de interés
+enlaces de interés
 
 
-Plan Estatal de I+D+i 2017-2020
+plan estatal de idi 20172020
 
 
 
@@ -441,22 +441,22 @@ Plan Estatal de I+D+i 2017-2020
 
 
 
-Main - Investigadores - Proyectos
+main  investigadores  proyectos
 
 
-Proyectos y Financiación 
+proyectos y financiación 
 
 
-Plan Estatal de I+D+i
+plan estatal de idi
 
 
-Proyectos Internacionales
+proyectos internacionales
 
 
-Financiación FEDER
+financiación feder
 
 
-Programa Marco de la UE
+programa marco de la ue
 
 
 
@@ -465,34 +465,34 @@ Programa Marco de la UE
 
 
 
-Main - Investigadores - Investigar
+main  investigadores  investigar
 
 
-Investigar y Transferir en Unileon 
+investigar y transferir en unileon 
 
 
-O.T.R.I. (Oficina de transferencia de los resultados de la investigación)
+otri oficina de transferencia de los resultados de la investigación
 
 
-O.P.E.I. (Oficina de Proyectos Europeos de Investigación)
+opei oficina de proyectos europeos de investigación
 
 
-Grupos de Investigación
+grupos de investigación
 
 
-Institutos y Centros Tecnológicos
+institutos y centros tecnológicos
 
 
-Servicios de Investigación y Docencia
+servicios de investigación y docencia
 
 
-Difusión de la Investigación
+difusión de la investigación
 
 
-HRS4R en la Universidad de León
+hrs4r en la universidad de león
 
 
-Noticias
+noticias
 
 
 
@@ -508,26 +508,26 @@ Noticias
 
 
 
-Personal
-Personal
+personal
+personal
 
 
 
 
 
-Main - Personal
+main  personal
 
 
-Personal Docente e Investigador (P.D.I.)
+personal docente e investigador pdi
 
 
-Personal de Administración y Servicios (P.A.S.)
+personal de administración y servicios pas
 
 
-Portal del empleado
+portal del empleado
 
 
-Escuela de Formación
+escuela de formación
 
 
 
@@ -537,38 +537,38 @@ Escuela de Formación
 
 
 
-Actualidad
-Actualidad
+actualidad
+actualidad
 
 
 
 
 
-Main - Actualidad
+main  actualidad
 
 
-Agenda
+agenda
 
 
-Noticias
+noticias
 
 
-Investigación
+investigación
 
 
-Convocatorias
+convocatorias
 
 
-Convocatorias urgentes
+convocatorias urgentes
 
 
-Becas
+becas
 
 
-Cursos
+cursos
 
 
-Sugerencias de difusión
+sugerencias de difusión
 
 
 
@@ -580,16 +580,16 @@ Sugerencias de difusión
 
 
 
-Enlaces secundarios
+enlaces secundarios
 
 
-Campus
+campus
 
 
-Internacional
+internacional
 
 
-Biblioteca
+biblioteca
 
 
 
@@ -604,20 +604,20 @@ Biblioteca
 
 
 
-Inicio 
+inicio 
 
 
-Internacional 
+internacional 
 
 
-Estudiantes 
+estudiantes 
 
 
-Estudiante Internacionales 
+estudiante internacionales 
 
 
 
-Becas TalentUnileon
+becas talentunileon
 
 
 
@@ -629,51 +629,51 @@ Becas TalentUnileon
 
 
 
-http://www.unileon.es/files/2021-07/resolucion_definitiva_convocatoria_talenunileon_master2021.pdf
+httpwwwunileonesfiles202107resoluciondefinitivaconvocatoriatalenunileonmaster2021pdf
 
 
-Adenda Requisitos Nivel Español Convocatoria de becas de excelencia para alumnado internacional de la Universidad de León.
-Las becas TalentUnileon son unas becas de excelencia dirigidas a alumnos internacionales que quieran cursar sus estudios de grado, máster o doctorado en la Universidad de León.
-Se podrán beneficiar de este programa estudiantes internacionales que hayan obtenido una nota media superior de al menos 8 puntos sobre 10 en sus estudios previos al grado, máster o doctorado respectivamente.
-Dentro de esta convocatoria y dentro del marco del Convenio de Colaboración entre la Universidad de León y Santander Universidades España del Banco Santander S.A., este programa recoge, para el curso 2021/2022 3 becas en cada modalidad que contarán con una financiación adicional aportada por Santander Universidades y tendrán la consideración de becas TalentUnileon- Santander Universidades
-Convocatoria para alumnos de Grado
+adenda requisitos nivel español convocatoria de becas de excelencia para alumnado internacional de la universidad de león
+las becas talentunileon son unas becas de excelencia dirigidas a alumnos internacionales que quieran cursar sus estudios de grado máster o doctorado en la universidad de león
+se podrán beneficiar de este programa estudiantes internacionales que hayan obtenido una nota media superior de al menos 8 puntos sobre 10 en sus estudios previos al grado máster o doctorado respectivamente
+dentro de esta convocatoria y dentro del marco del convenio de colaboración entre la universidad de león y santander universidades españa del banco santander sa este programa recoge para el curso 20212022 3 becas en cada modalidad que contarán con una financiación adicional aportada por santander universidades y tendrán la consideración de becas talentunileon santander universidades
+convocatoria para alumnos de grado
 
-Convocatoria
-Adenda Requisitos Nivel Español
-Plazo: hasta las 11:59 horas AM (CEST) del 28 de junio de 2021
-Listado Admitidos/Excluidos
-Resolución Definitiva de la convocatoria. Curso 2021/22
+convocatoria
+adenda requisitos nivel español
+plazo hasta las 1159 horas am cest del 28 de junio de 2021
+listado admitidosexcluidos
+resolución definitiva de la convocatoria curso 202122
 
 
-Documentación
+documentación
 
-Formulario de solicitud
+formulario de solicitud
 
 
-Convocatoria para alumnos de Máster
+convocatoria para alumnos de máster
 
-Convocatoria
-Adenda Requisitos Nivel Español
-Plazo: hasta las 23:59 horas (CEST) del 28 de junio de 2021
-Listado Admitidos/Excluidos
-Resolución Definitiva de la convocatoria. Curso 2021/22
+convocatoria
+adenda requisitos nivel español
+plazo hasta las 2359 horas cest del 28 de junio de 2021
+listado admitidosexcluidos
+resolución definitiva de la convocatoria curso 202122
 
 
-Documentación
+documentación
 
-Formulario de solicitud
+formulario de solicitud
 
 
-Convocatoria para alumnos de Doctorado
+convocatoria para alumnos de doctorado
 
-Convocatoria
-Adenda Requisitos Nivel Español
-Plazo: hasta las 23:59 horas (CEST) del 31 de octubre de 2021
+convocatoria
+adenda requisitos nivel español
+plazo hasta las 2359 horas cest del 31 de octubre de 2021
 
 
-Documentación
+documentación
 
-Formulario de solicitud
+formulario de solicitud
 
 
  
@@ -691,143 +691,143 @@ Formulario de solicitud
 
 
 
-Vive Unileon 
+vive unileon 
 
 
-Cambio de contraseña
+cambio de contraseña
 
 
-Directorio y Teléfonos
+directorio y teléfonos
 
 
-Carné Universitario
+carné universitario
 
 
-Actividades Culturales
+actividades culturales
 
 
-Servicio de Deportes
+servicio de deportes
 
 
-Centro de Idiomas
+centro de idiomas
 
 
-Oficina Verde
+oficina verde
 
 
-C.O.I.E
+coie
 
 
-Colegio Mayor San Isidoro
+colegio mayor san isidoro
 
 
-Servicios Universitarios Generales
+servicios universitarios generales
 
 
-Promociones Comerciales
+promociones comerciales
 
 
-Unileon en Positivo
+unileon en positivo
 
 
-Objetivos de Desarrollo Sostenible
+objetivos de desarrollo sostenible
 
 
-PROGRAMA DE VERANO
+programa de verano
 
 
 
 
-Portales Unileon 
+portales unileon 
 
 
-Oficina de Evaluación y Calidad
+oficina de evaluación y calidad
 
 
-Portal de Transparencia
+portal de transparencia
 
 
-Escuela de Doctorado
+escuela de doctorado
 
 
-Internacional y Movilidad
+internacional y movilidad
 
 
-Biblioteca
+biblioteca
 
 
-Extensión Universitaria
+extensión universitaria
 
 
-Escuela de Formación
+escuela de formación
 
 
-FGULEM
+fgulem
 
 
-CEI Triangular
+cei triangular
 
 
-Videoteca
+videoteca
 
 
-ULE Online
+ule online
 
 
-Portal del Empleado
+portal del empleado
 
 
-Gestión Remota
+gestión remota
 
 
-HRS4R en la ULE
+hrs4r en la ule
 
 
 
 
-Recursos en línea 
+recursos en línea 
 
 
-Moodle Institucional
+moodle institucional
 
 
-Secretaría virtual
+secretaría virtual
 
 
-Google ULe (Correo electrónico)
+google ule correo electrónico
 
 
-CAU
+cau
 
 
-Guía Docente
+guía docente
 
 
-Plan Docente
+plan docente
 
 
-Solicitud y depósito del TFG/M
+solicitud y depósito del tfgm
 
 
-Gestión Estudios de Doctorado
+gestión estudios de doctorado
 
 
-Carga de actas
+carga de actas
 
 
-Universitas XXI Investigación
+universitas xxi investigación
 
 
-Sede Electrónica
+sede electrónica
 
 
-Perfil del Contratante
+perfil del contratante
 
 
-Servicio de Informática y Comunicaciones
+servicio de informática y comunicaciones
 
 
-Yo trabajo en casa
+yo trabajo en casa
 
 
 
@@ -838,7 +838,7 @@ Yo trabajo en casa
 
 
 
-Síguenos
+síguenos
 
 
 
@@ -849,17 +849,17 @@ Síguenos
 
 
 
-   Teléfono: 987 291 000
+   teléfono 987 291 000
   
-Contacto
+contacto
 
 
 
 
 
-Aviso legal - Política de privacidad
-Mapa de la web
-2020 © Universidad de León
+aviso legal  política de privacidad
+mapa de la web
+2020 © universidad de león
 
 
 

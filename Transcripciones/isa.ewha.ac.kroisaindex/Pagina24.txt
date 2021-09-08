@@ -168,7 +168,7 @@
 
 
 			
-			휴.복학
+			휴복학
 			
 
 
@@ -245,7 +245,7 @@
 
 
 			
-			외국인 입학 Admissions
+			외국인 입학 admissions
 			
 
 
@@ -253,49 +253,49 @@
 
 
 			
-			Overview
+			overview
 			
 
 
 
 
 			
-			전공안내/Major
+			전공안내major
 			
 
 
 
 
 			
-			공지사항/Announcements
+			공지사항announcements
 			
 
 
 
 
 			
-			모집요강/Admissions Guide
+			모집요강admissions guide
 			
 
 
 
 
 			
-			GKS(KGSP)
+			gkskgsp
 			
 
 
 
 
 			
-			ASEAN HEAT Scholarship
+			asean heat scholarship
 			
 
 
 
 
 			
-			FAQ
+			faq
 			
 
 
@@ -305,7 +305,7 @@
 
 
 			
-			자료실 Archives
+			자료실 archives
 			
 
 
@@ -337,7 +337,7 @@
 
 
 			
-			English guide
+			english guide
 			
 
 
@@ -345,35 +345,35 @@
 
 
 			
-			Introduction
+			introduction
 			
 
 
 
 
 			
-			Student Support
+			student support
 			
 
 
 
 
 			
-			Board
+			board
 			
 
 
 
 
 			
-			Archives
+			archives
 			
 
 
 
 
 			
-			Brochure
+			brochure
 			
 
 
@@ -392,8 +392,8 @@
 
 
 
-		/WEB-INF/jsp/k2web/com/cop/site/layout.jsp
-		oisa_JW_MS_K2WT001_M
+		webinfjspk2webcomcopsitelayoutjsp
+		oisajwmsk2wt001m
 	
 
 
@@ -404,10 +404,10 @@
 
 
 
-   fnctId=imageSlide,fnctNo=55 
+   fnctidimageslidefnctno55 
  
 
-비쥬얼존(3 개)
+비쥬얼존3 개
 
 
 
@@ -437,7 +437,7 @@
 
 
 
- 외국인 입학 Admissions 
+ 외국인 입학 admissions 
 
 
 
@@ -447,14 +447,14 @@
 
 
 
- 국제교류팀(Exchange/Visiting) 
+ 국제교류팀exchangevisiting 
 
 
 
 
-   fnctId=recentBbs,fnctNo=42 
+   fnctidrecentbbsfnctno42 
  
-JW_rctBbs_list
+jwrctbbslist
 
 
 
@@ -465,11 +465,11 @@ JW_rctBbs_list
 
 
 새글
-[공지] 외국인 유학생을 위한 EAASIS 멘토링 프로그램 모집 안내/E
+학부 신입생 수강신청 도우미 서비스 개시for undergradu
 
 
 작성일
-2021.08.27
+20210901
 
 
 
@@ -478,24 +478,12 @@ JW_rctBbs_list
 
 
 
- 코로나19 백신 예방접종 관련 출석 인정제도 신설 안내 / Excuse
-
-
-작성일
-2021.08.17
-
-
-
-
-
-
-
-
-2021 가을학기 TOPIK 준비반 수강 안내 | Korean Speci
+새글
+제79회 한국어능력시험topik 접수 변경 사항 안내
 
 
 작성일
-2021.08.12
+20210901
 
 
 
@@ -504,11 +492,26 @@ JW_rctBbs_list
 
 
 
-날짜변경)2021학년도 제2학기 외국인유학생 비자기간 연장 안내(단체접수
+새글
+유학생을 위한 2021학년도 2학기 도서관 투어 안내
 
 
 작성일
-2021.08.10
+20210831
+
+
+
+
+
+
+
+
+새글
+공지 외국인 유학생을 위한 eaasis 멘토링 프로그램 모집 안내e
+
+
+작성일
+20210827
 
 
 
@@ -521,9 +524,9 @@ JW_rctBbs_list
 
 
 
-   fnctId=recentBbs,fnctNo=43 
+   fnctidrecentbbsfnctno43 
  
-JW_rctBbs_list
+jwrctbbslist
 
 
 
@@ -533,11 +536,11 @@ JW_rctBbs_list
 
 
 
-국적변경신청서 / Application for changing nationality inf
+국적변경신청서  application for changing nationality inf
 
 
 작성일
-2021.04.08
+20210408
 
 
 
@@ -546,24 +549,11 @@ JW_rctBbs_list
 
 
 
-표준입학허가서신청서 / Application for Certificate of Admiss
-
-
-작성일
-2020.12.15
-
-
-
-
-
-
-
-
-논문지도 일정에 대한 지도교수 확인서 (출입국관리사무소 제출용)
+표준입학허가서신청서  application for certificate of admiss
 
 
 작성일
-2020.12.14
+20201215
 
 
 
@@ -572,11 +562,24 @@ JW_rctBbs_list
 
 
 
-체류지 입증 서류 예시 - Examples of Proof of Address
+논문지도 일정에 대한 지도교수 확인서 출입국관리사무소 제출용
 
 
 작성일
-2019.08.20
+20201214
+
+
+
+
+
+
+
+
+체류지 입증 서류 예시  examples of proof of address
+
+
+작성일
+20190820
 
 
 
@@ -602,8 +605,8 @@ JW_rctBbs_list
 
 
 
-					  		[03760] 서울특별시 서대문구 이화여대길 52 Korea, Tel. (02)3277-6989
-							Copyright ⓒ 이화여자대학교 국제학생팀. All rights reserved.
+					  		03760 서울특별시 서대문구 이화여대길 52 korea tel 0232776989
+							copyright ⓒ 이화여자대학교 국제학생팀 all rights reserved
 					
 
 
