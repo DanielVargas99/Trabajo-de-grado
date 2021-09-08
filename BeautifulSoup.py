@@ -6,6 +6,7 @@ import os
 import errno
 from nltk.corpus import stopwords
 # import nltk    # Descomentar esto si es la primera vez que ejecuta el código
+import re
 
 # Crear un certificado SSL por defecto, esto por si algunas páginas no lo tienen:
 ssl._create_default_https_context = ssl._create_unverified_context
@@ -35,8 +36,9 @@ def getwebsite(url):
 def escribir(filename, text):
     file = open(filename, 'w', encoding="utf-8")  # Abrir en modo "w" Escritura
     text = text.lower()
-    text = eliminarsimbolos(text)
     text = eliminar_stopwords(text)
+    text = EliminarSimbolos(text)
+    text = re.sub("\n+", " ", text)
     file.write(text)
     file.close()
 
@@ -94,12 +96,11 @@ def geturl(filename):
     file.close()
 
 
-def eliminarsimbolos(text):
+def EliminarSimbolos(text):
     simbolosparaborrar = "!#$%&'()*+,-./:;<=>?@[\]^_`{|}~"
     for i in range(len(simbolosparaborrar)):
         text = text.replace(simbolosparaborrar[i], "")
     return text
-
 
 def eliminar_stopwords(texto):
     return ' '.join([word for word in texto.split(' ') if word not in stop_words])

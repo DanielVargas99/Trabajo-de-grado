@@ -5,6 +5,7 @@ import requests
 from pdf2image import convert_from_path
 import os
 import errno
+import re
 from nltk.corpus import stopwords
 # import nltk    # Descomentar esto si es la primera vez que ejecuta el código
 
@@ -165,8 +166,9 @@ def extraertextodeimagenes(filelimit, cont, newpath):
 def escribir(filename, text):
     file = open(filename, "a", encoding="utf-8")  # Abrir en modo "a" Append
     text = text.lower()
-    text = eliminarsimbolos(text)
     text = eliminar_stopwords(text)
+    text = EliminarSimbolos(text)
+    text = re.sub("\n+", " ", text)
     file.write(text)
 
 
@@ -209,7 +211,7 @@ def creardirectorio(url):
     return nuevodirectorio
 
 
-def eliminarsimbolos(text):
+def EliminarSimbolos(text):
     simbolosparaborrar = "!#$%&'()*+,-./:;<=>?@[\]^_`{|}~"
     for i in range(len(simbolosparaborrar)):
         text = text.replace(simbolosparaborrar[i], "")
