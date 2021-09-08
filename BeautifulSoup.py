@@ -91,4 +91,6 @@ def EliminarSimbolos(text):
         text = text.replace(simbolosparaborrar[i], "")
     return text
 
+#GG EZ
+
 geturl(enlaces)
