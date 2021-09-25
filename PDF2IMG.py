@@ -16,6 +16,9 @@ path = "Transcripciones/"
 # Ruta en donde se encuentra el archivo .txt donde se almacena la lista de las url de descarga de los PDF
 enlaces = "PDFs.txt"
 
+# Ruta en donde se encuentra el archivo .txt donde se almacena la transcripción de todas las paginas web
+training_dataset = path + "TranscripciónDeTodasLasPaginas.txt"
+
 # Definir los diferentes idiomas que aparecerán en las páginas:
 languages = ["spanish", "english"]
 
@@ -178,12 +181,14 @@ def extraertextodeimagenes(filelimit, cont, newpath):
 
 def escribir(filename, text):
     file = open(filename, "a", encoding="utf-8")  # Abrir en modo "a" Append
+    training_file = open(training_dataset, 'a', encoding="utf-8")  # Abrir en modo "a" Append
 
     # A continuación se hace el llamado a las funciones que realizan la limpieza del texto
     text = limpieza_textos(text)
 
     # Una vez hecha la limpieza, se escribe en el archivo .txt
     file.write(text)
+    training_file.write(" " + text)
 
 
 '''
@@ -249,7 +254,8 @@ def detectar_idioma(text_to_detect):
 
         # Recorremos las palabras del texto a analizar
         for word in tokens:
-            if word in current_lang_stop_words:  # Si la palabra se encuentra entre las stopwords, incrementa el contador
+            # Si la palabra se encuentra entre las stopwords, incrementa el contador:
+            if word in current_lang_stop_words:
                 lang_count[lang] += 1
 
     # Obtener y retornar el idioma con el número mayor de coincidencias
@@ -260,33 +266,30 @@ def detectar_idioma(text_to_detect):
 # al final me retorna el texto con todas las transformaciones que se le hicieron en la limpieza
 def limpieza_textos(text):
 
-    text = text.lower()
+    text = text.lower()  # Minusculas
     text = re.sub("\n+", " ", text)  # Eliminar saltos de linea
     text = re.sub("\r+", " ", text)
     text = re.sub("\t+", " ", text)
     text = re.sub(r"[0-9]+", "", text)  # Eliminar cualquier numero del texto
-    text = EliminarSimbolos(text)
-    # text = re.sub("  +", " ", text)  # Eliminar espacios en blanco
 
     # Hacer limpieza especificamente para textos en ingles
     if detectar_idioma(text[0:80]) == "english":
         text = limpieza_textos_en(text)
 
+    text = EliminarSimbolos(text)
     text = eliminar_stopwords(text)
 
     return text
 
 
 def limpieza_textos_en(text):
-
     text = expandir_contracciones(text)
     text = lemmatize_words(text)
-
     return text
 
 
 def EliminarSimbolos(text):
-    simbolosparaborrar = "!#$%&'()*+,-./:;<=>?@[\]^_`{|}~”—®»"
+    simbolosparaborrar = "¡!#$€£¢¥%&'\"()*+,-./:;<=>¿?@[\]^_`{|}~“”‘’—–®©»ªº™⭐♦"
     for i in range(len(simbolosparaborrar)):
         text = text.replace(simbolosparaborrar[i], "")
     return text
@@ -297,6 +300,7 @@ def eliminar_stopwords(texto):
 
 
 def expandir_contracciones(text):
+    text = re.sub("’", "'", text)
     text = re.sub(r"n\'t", " not", text)
     text = re.sub(r"\'re", " are", text)
     text = re.sub(r"\'s", " is", text)
