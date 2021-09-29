@@ -1,0 +1,5 @@
+GoogleNews-vectors-negative300.bin: https://s3.amazonaws.com/dl4j-distribution/GoogleNews-vectors-negative300.bin.gz
+glove.6B.300d.txt: https://www.kaggle.com/thanakomsn/glove6b300dtxt
+glove.6B.200d.txt: https://www.kaggle.com/incorpes/glove6b200d
+glove.6B.100d.txt: https://www.kaggle.com/danielwillgeorge/glove6b100dtxt
+glove.6B.50d.txt: https://www.kaggle.com/watts2/glove6b50dtxt

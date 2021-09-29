@@ -169,7 +169,7 @@ def extraertextodeimagenes(filelimit, cont, newpath):
         text = text.replace('-\n', '')
 
         # Store the .txt file in the new location
-        nombrearchivotxt = newpath + "PDF" + str(cont) + ".txt"
+        nombrearchivotxt = newpath + "PDF" + str(8) + ".txt"
 
         # Finally, write the processed text to the file.
         escribir(nombrearchivotxt, text)
@@ -289,7 +289,7 @@ def limpieza_textos_en(text):
 
 
 def EliminarSimbolos(text):
-    simbolosparaborrar = "¡!#$€£¢¥%&'\"()*+,-./:;<=>¿?@[\]^_`{|}~“”‘’—–®©»ªº™⭐♦"
+    simbolosparaborrar = "¡!#$€£¢¥%&'\"()*+,-./:;<=>¿?@[\]^_`{|}~“”‘’—–®©ⓒ»ªº™⭐♦"
     for i in range(len(simbolosparaborrar)):
         text = text.replace(simbolosparaborrar[i], "")
     return text

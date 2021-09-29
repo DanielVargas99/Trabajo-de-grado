@@ -173,8 +173,8 @@ def tsne_plot(model):
 
 
 # Entrenar el modelo propio (Si es la primera vez que se entrena, descomentar esto)
-# word_tokens_modelo_propio = tokenizar(training_dataset)
-# entrenar_modelo_propio(word_tokens_modelo_propio)
+word_tokens_modelo_propio = tokenizar(training_dataset)
+entrenar_modelo_propio(word_tokens_modelo_propio)
 
 # Cambiar la variable embedding_name según el modelo de embedding que se desee utilizar
 embedding_name = 'modelo_propio'
@@ -186,12 +186,14 @@ modelo = get_embeddings(embedding_path_dict, embedding_name)
 
 # Pruebas de los modelos
 print(modelo.wv.most_similar(positive=['beca', 'scholarships'], negative=['scholarship'], topn=1))
-print(modelo.wv.most_similar('becas'))
-print(modelo.wv.most_similar('master'))
-print(modelo.wv.most_similar('study'))
-print(modelo.wv.most_similar('posgrado'))
-print(modelo.wv.most_similar('scholarship'))
-print(modelo.wv.similarity(w1="beca", w2="scholarship"), modelo.wv.similarity(w1="beca", w2="icetex"))
+print("becas: ", modelo.wv.most_similar('becas'))
+print("master: ", modelo.wv.most_similar('master'))
+print("study: ", modelo.wv.most_similar('study'))
+print("posgrado: ", modelo.wv.most_similar('posgrado'))
+print("scholarship: ", modelo.wv.most_similar('scholarship'))
+print("colombia: ", modelo.wv.most_similar('colombia'))
+print("intercambio: ", modelo.wv.most_similar('intercambio'))
+print("becas", modelo.wv.similarity(w1="beca", w2="scholarship"), modelo.wv.similarity(w1="beca", w2="icetex"))
 # print(modelo.most_similar(positive=['beca', 'scholarships'], negative=['scholarship'], topn=1))
 # print(modelo.most_similar('beca'))
 # print(modelo.most_similar('master'))
