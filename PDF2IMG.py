@@ -169,7 +169,7 @@ def extraertextodeimagenes(filelimit, cont, newpath):
         text = text.replace('-\n', '')
 
         # Store the .txt file in the new location
-        nombrearchivotxt = newpath + "PDF" + str(8) + ".txt"
+        nombrearchivotxt = newpath + "PDF" + str(cont) + ".txt"
 
         # Finally, write the processed text to the file.
         escribir(nombrearchivotxt, text)

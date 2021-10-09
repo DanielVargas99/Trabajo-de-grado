@@ -6,12 +6,15 @@ from gensim.models import KeyedVectors as kv
 from gensim.scripts.glove2word2vec import glove2word2vec
 from sklearn.manifold import TSNE
 
-
 # Ruta en donde se encuentra el archivo .txt donde se almacena la transcripción de todas las paginas web
 training_dataset = "Transcripciones/TranscripciónDeTodasLasPaginas.txt"
 
 # Ruta en donde se encuentran todos los modelos de word embedding guardados:
 path_models = "Word2Vec/"
+
+'''
+Definir los modelos de Word-Embedding que se utilizarán y cargarlos en la RAM
+'''
 
 # Diccionario que guarda la información de los modelos de word embedding:
 embedding_path_dict = {'googlenews': {
@@ -79,7 +82,7 @@ def get_embeddings(embedding_dict, emb_name):
     if emb_name == 'googlenews':
         emb_path = embedding_dict[emb_name]['path']
         bin_flag = embedding_dict[emb_name]['binary']
-        embeddings_index = kv.load_word2vec_format(emb_path, binary=bin_flag)
+        embeddings_index = kv.load_word2vec_format(emb_path, binary=bin_flag, limit=600000)
     elif emb_name == 'modelo_propio':
         emb_path = embedding_dict[emb_name]['path']
         embeddings_index = gensim.models.Word2Vec.load(emb_path)
@@ -116,6 +119,11 @@ def get_embeddings(embedding_dict, emb_name):
     return embeddings_index
 
 
+'''
+Entrenamiento de un modelo propio basado en el vocabulario de las páginas web de las transcripciones
+'''
+
+
 def tokenizar(filename):
     file = open(filename, "r", encoding='utf-8').read()  # Abrir en modo "r" lectura
     # tokenizar el documento en oraciones
@@ -137,6 +145,11 @@ def entrenar_modelo_propio(tokens):
     # Guardar el modelo entrenado
     modelo_w2v.save(path_models+'ModeloPropio.bin')
     return modelo_w2v
+
+
+'''
+Graficar el modelo que se esté usando, cualquiera de los que estan en embedding_path_dict
+'''
 
 
 # Esta función se utiliza para graficar el vocabulario y poder comprobar de una manera más grafica como está
@@ -161,10 +174,10 @@ def tsne_plot(model):
         y.append(value[1])
 
     plt.figure(figsize=(16, 16))
-    for i in range(len(x)):
-        plt.scatter(x[i], y[i])
-        plt.annotate(labels[i],
-                     xy=(x[i], y[i]),
+    for j in range(len(x)):
+        plt.scatter(x[j], y[j])
+        plt.annotate(labels[j],
+                     xy=(x[j], y[j]),
                      xytext=(5, 2),
                      textcoords='offset points',
                      ha='right',
@@ -172,9 +185,14 @@ def tsne_plot(model):
     plt.show()
 
 
+'''
+Llamados a las funciones para entrenar el modelo propio y graficar.
+Cambiar la variable embedding_name según el modelo de embedding que se desee utilizar
+'''
+
 # Entrenar el modelo propio (Si es la primera vez que se entrena, descomentar esto)
-word_tokens_modelo_propio = tokenizar(training_dataset)
-entrenar_modelo_propio(word_tokens_modelo_propio)
+# word_tokens_modelo_propio = tokenizar(training_dataset)
+# entrenar_modelo_propio(word_tokens_modelo_propio)
 
 # Cambiar la variable embedding_name según el modelo de embedding que se desee utilizar
 embedding_name = 'modelo_propio'
@@ -184,19 +202,31 @@ modelo = get_embeddings(embedding_path_dict, embedding_name)
 # ejecutar la función si el PC tiene poca RAM.
 # tsne_plot(modelo)
 
-# Pruebas de los modelos
+'''
+Pruebas de los modelos
+'''
+
+# Pruebas para el modelo propio (Solo aplican para este):
+
+# Agregar aquí las palabras que se probarán en el modelo
+pruebas_modelo_propio = ['beca', 'alemania', 'uk', 'colombia', 'canada', 'deadline', 'master', 'study',
+                         'scholarship', 'intercambio', 'deadline']
+
+for i in pruebas_modelo_propio:
+    print(i + ": ", modelo.wv.most_similar(i))
+
 print(modelo.wv.most_similar(positive=['beca', 'scholarships'], negative=['scholarship'], topn=1))
-print("becas: ", modelo.wv.most_similar('becas'))
-print("master: ", modelo.wv.most_similar('master'))
-print("study: ", modelo.wv.most_similar('study'))
-print("posgrado: ", modelo.wv.most_similar('posgrado'))
-print("scholarship: ", modelo.wv.most_similar('scholarship'))
-print("colombia: ", modelo.wv.most_similar('colombia'))
-print("intercambio: ", modelo.wv.most_similar('intercambio'))
-print("becas", modelo.wv.similarity(w1="beca", w2="scholarship"), modelo.wv.similarity(w1="beca", w2="icetex"))
+print(modelo.wv.similarity(w1="beca", w2="scholarship"), modelo.wv.similarity(w1="beca", w2="icetex"))
+
+# Pruebas para los demás modelos, aplicable para el de google o los de glove:
+
+# Agregar aquí las palabras que se probarán en el modelo
+# pruebas_otros_modelos = ['germany', 'uk', 'canada', 'deadline', 'master', 'study', 'scholarship',
+#                         'deadline', 'beca', 'colombia', 'intercambio']
+
+# for i in pruebas_otros_modelos:
+#    print(i + ": ", modelo.most_similar(i))
+
+# print(modelo.most_similar(positive=['king', 'woman'], negative=['man'], topn=1))
 # print(modelo.most_similar(positive=['beca', 'scholarships'], negative=['scholarship'], topn=1))
-# print(modelo.most_similar('beca'))
-# print(modelo.most_similar('master'))
-# print(modelo.most_similar('study'))
-# print(modelo.most_similar('scholarship'))
 # print(modelo.similarity(w1="beca", w2="scholarship"))

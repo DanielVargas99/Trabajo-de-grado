@@ -1,3 +1,6 @@
+# See http://help.github.com/ignore-files/ for more about ignoring files.
+
+# Word Embedding models
 glove.6B.50d.txt
 glove.6B.50d.word2vec.txt
 glove.6B.100d.txt
@@ -6,6 +9,4 @@ glove.6B.200d.txt
 glove.6B.200d.word2vec.txt
 glove.6B.300d.txt
 glove.6B.300d.word2vec.txt
-glove.6B.zip
 GoogleNews-vectors-negative300.bin
-GoogleNews-vectors-negative300.bin.gz
