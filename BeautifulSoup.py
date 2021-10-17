@@ -43,7 +43,8 @@ lemmatizer = WordNetLemmatizer()
 
 
 def getwebsite(url):
-    req = Request(url, headers={'User-Agent': 'Mozilla / 5.0 (Windows NT 6.1) AppleWebKit / 537.36 (KHTML, como Gecko) Chrome / 41.0.2228.0 Safari / 537.3'})
+    req = Request(url, headers={'User-Agent': 'Mozilla / 5.0 (Windows NT 6.1) AppleWebKit / 537.36 (KHTML, como Gecko)'
+                                              'Chrome / 41.0.2228.0 Safari / 537.3'})
     page = urlopen(req).read().decode("utf-8")
     pagina = BeautifulSoup(page, "html.parser")  # Este objeto contiene todo el contenido del sitio web
     return pagina
@@ -100,6 +101,7 @@ def creardirectorio(url):
         if e.errno != errno.EEXIST:
             raise
 
+    print(nuevodirectorio)
     return nuevodirectorio
 
 
@@ -163,7 +165,7 @@ def limpieza_textos(text):
     if detectar_idioma(text[0:80]) == "english":
         text = limpieza_textos_en(text)
 
-    text = EliminarSimbolos(text)
+    text = eliminar_simbolos(text)
     text = eliminar_stopwords(text)
 
     return text
@@ -175,7 +177,7 @@ def limpieza_textos_en(text):
     return text
 
 
-def EliminarSimbolos(text):
+def eliminar_simbolos(text):
     simbolosparaborrar = "¡!#$€£¢¥%&'\"()*+,-./:;<=>¿?@[\]^_`{|}~“”‘’—–®©ⓒ»ªº™⭐♦"
     for i in range(len(simbolosparaborrar)):
         text = text.replace(simbolosparaborrar[i], "")

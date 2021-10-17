@@ -135,10 +135,13 @@ def tokenizar(filename):
 
 def entrenar_modelo_propio(tokens):
     # Entrenar el modelo de Word2Vec basado en el vocabulario de las páginas web + Modelo GloVe 50d
-    modelo_w2v = Word2Vec(window=10,
+    modelo_w2v = Word2Vec(window=6,
                           sentences=tokens,
                           vector_size=300,
                           min_count=2,
+                          alpha=0.03,  # Initial learning rate
+                          # min_alpha: Minimum value at which the learning rate will decrease linearly during training:
+                          min_alpha=0.0007,
                           workers=2)
     # modelo_w2v.build_vocab(tokens, progress_per=10000)
     modelo_w2v.train(training_dataset, total_examples=modelo_w2v.corpus_count, epochs=modelo_w2v.epochs)
@@ -210,7 +213,7 @@ Pruebas de los modelos
 
 # Agregar aquí las palabras que se probarán en el modelo
 pruebas_modelo_propio = ['beca', 'alemania', 'uk', 'colombia', 'canada', 'deadline', 'master', 'study',
-                         'scholarship', 'intercambio', 'deadline']
+                         'scholarship', 'intercambio']
 
 for i in pruebas_modelo_propio:
     print(i + ": ", modelo.wv.most_similar(i))
