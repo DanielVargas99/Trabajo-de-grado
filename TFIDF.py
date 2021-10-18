@@ -1,13 +1,10 @@
+from sklearn.feature_extraction.text import TfidfVectorizer
 import os
-from math import log
-import nltk
-from nltk import TextCollection
 
 # Cambiar la ruta para cada caso, en esta ruta se guardan los archivos .txt con las transcripciones de cada página
 path = "Transcripciones/"
 
-# Ruta en donde se encuentra el archivo .txt donde se almacena la transcripción de todas las paginas web
-training_dataset = path + "TranscripciónDeTodasLasPaginas.txt"
+tfidfvectorizer = TfidfVectorizer(stop_words={'english'}, max_df=0.9, min_df=0.02)
 
 
 def obtener_archivos_txt():
@@ -33,86 +30,36 @@ def obtener_archivos_txt():
     return transcripciones
 
 
-def tokenizar(filename):
-    file = open(filename, "r", encoding='utf-8').read()  # Abrir en modo "r" lectura
-    # tokenizar el documento en oraciones
-    sentences = nltk.sent_tokenize(file)
-    # tokenizar cada oracion en palbras
-    tokens = [nltk.tokenize.word_tokenize(sentence) for sentence in sentences]
-    return tokens[0]
+def obtener_textos(lista_documentos):
+    lista_textos = []
+    for doc in lista_documentos:
+        lista_textos.append(open(doc, mode='r', encoding='utf-8').read())
+    return lista_textos
 
 
-'''
-Calcular TF (Term Frequency)
-'''
+def tf_idf(lista_textos):
+    tfidfvectorizer.fit(lista_textos)
+    tfidf_train_set = []
+    for doc in lista_textos:
+        tfidf_train_set.append(tfidfvectorizer.transform([doc]))
+    return tfidf_train_set
 
 
-def tf(termino, documento):
-
-    # Primero: Hallar la frecuencia de la palabra en el documento
-    tokens = tokenizar(documento)
-    term_frequency = tokens.count(termino)
-
-    # Segundo: Frecuencia de termino normalizada
-    normalized_term_frequency = term_frequency / len(tokens)
-
-    return normalized_term_frequency
-
-
-'''
-Calcular IDF (Inverse Document Frequency)
-'''
+def print_tfidf_values(lista_documentos, feature_names, tfidf_train):
+    dict_keywords_paginas = {}
+    for i, doc in enumerate(lista_documentos):
+        tfidf_value = tfidf_train[i]
+        lista_tuplas = []
+        for col in tfidf_value.nonzero()[1]:
+            lista_tuplas.append((feature_names[col], tfidf_value[0, col]))
+        dict_keywords_paginas[doc] = lista_tuplas
+    return dict_keywords_paginas
 
 
-def idf(termino, lista_documentos):
-
-    # Primero: Calcular el numero de documentos donde el termino t aparece
-
-    cont = 0
-    for document in lista_documentos:
-        tokens_actual_document = tokenizar(document)
-        if termino in tokens_actual_document:
-            cont += 1
-
-    # Segundo: Calcular IDF
-    idf = log(len(lista_documentos)/cont)
-
-    return idf
-
-
-def tf_idf(tf, idf):
-    # Multiplicar tf con idf para obtener tf-idf
-    tfidf = tf * idf
-    return tfidf
-
-
-def term_frequency_in_all_documents(termino, lista_documentos):
-
-    term_frequency_all_documents = []
-    for i in range(len(lista_documentos)):
-        term_frequency_all_documents.append(tf(termino, lista_documentos[i]))
-    return term_frequency_all_documents
-
-
-def best_match_documents(term_frequency_all_documents, idf_value):
-
-    lista_tf_idf_calculos = []
-    for i in range(len(term_frequency_all_documents)):
-        lista_tf_idf_calculos.append(tf_idf(term_frequency_all_documents[i], idf_value))
-    topn_documents = sorted(range(len(lista_tf_idf_calculos)), key=lambda i: lista_tf_idf_calculos[i],reverse=True)[:10]
-    
-
-    return topn_documents
-
-
-termino = 'becas'
 lista_de_documentos = obtener_archivos_txt()
-tf_normalizada = tf(termino, lista_de_documentos[17])
-inverse_document_frequency = idf(termino, lista_de_documentos)
-tfidf = tf_idf(tf_normalizada, inverse_document_frequency)
-# frecuencia_todos_los_documentos = term_frequency_in_all_documents(termino, lista_de_documentos)
+lista_transcripciones = obtener_textos(lista_de_documentos)
+tfidf_train = tf_idf(lista_transcripciones)
+feature_names = tfidfvectorizer.get_feature_names_out()
+dict_tfidf_alldocuments = print_tfidf_values(lista_de_documentos, feature_names, tfidf_train)
 
-
-print(tf_normalizada, inverse_document_frequency, tfidf)
-# print(best_match_documents(frecuencia_todos_los_documentos, inverse_document_frequency))
-
+print(dict_tfidf_alldocuments['Transcripciones/appspublic.agci.clbecas\\PDF8.txt'])
