@@ -3,6 +3,8 @@ from PIL import Image
 from pdf2image import convert_from_path
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
+import spacy
+import unidecode
 import os
 import errno
 import re
@@ -38,6 +40,10 @@ stop_words = stop_words_sp | stop_words_en
 
 # Definir un lematizador para el idioma inglés
 lemmatizer = WordNetLemmatizer()
+
+# Definir un lematizador para el idioma español, para que, por ejemplo, no existan palabras como:
+# canto, cantas, canta, cantamos, cantais, cantan, sino solo una palabra: "cantar"
+lemmatizer_sp = spacy.load('es_core_news_sm')
 
 '''
 Part #1 : Downloading the PDF files
@@ -271,20 +277,20 @@ def limpieza_textos(text):
     text = re.sub("\r+", " ", text)
     text = re.sub("\t+", " ", text)
     text = re.sub(r"[0-9]+", "", text)  # Eliminar cualquier numero del texto
+    text = delete_long_words(text)  # En caso de que hallan palabras super largas, sin un espacio, eliminarlas
+    text = unidecode.unidecode(text)  # Eliminar cualquier tilde, dieresis o "ñ"
 
     # Hacer limpieza especificamente para textos en ingles
     if detectar_idioma(text[0:80]) == "english":
-        text = limpieza_textos_en(text)
+        text = expandir_contracciones(text)
+        text = lemmatize_words_en(text)
+    else:
+        # Hacer limpieza especificamente para textos en español
+        text = lemmatize_words_sp(text)
 
     text = EliminarSimbolos(text)
     text = eliminar_stopwords(text)
 
-    return text
-
-
-def limpieza_textos_en(text):
-    text = expandir_contracciones(text)
-    text = lemmatize_words(text)
     return text
 
 
@@ -312,8 +318,23 @@ def expandir_contracciones(text):
     return text
 
 
-def lemmatize_words(text):
+def lemmatize_words_en(text):
     return " ".join([lemmatizer.lemmatize(word) for word in text.split()])
+
+
+def lemmatize_words_sp(text):
+    modelo_aplicado = lemmatizer_sp(text)
+    lemmas = [tok.lemma_ for tok in modelo_aplicado]
+    texto_lematizado = " ".join(lemmas)
+    return texto_lematizado
+
+
+def delete_long_words(text):
+    tokens = text.split()
+    for i in range(len(tokens)):
+        if len(tokens[i]) > 100:
+            tokens[i] = ""
+    return " ".join(tokens)
 
 
 geturl(enlaces)

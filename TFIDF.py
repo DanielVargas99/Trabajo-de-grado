@@ -1,12 +1,18 @@
 from sklearn.feature_extraction.text import TfidfVectorizer
 import os
+import csv
 
 # Cambiar la ruta para cada caso, en esta ruta se guardan los archivos .txt con las transcripciones de cada página
 path = "Transcripciones/"
 
-tfidfvectorizer = TfidfVectorizer(stop_words={'english'}, max_df=0.9, min_df=0.02)
+tfidfvectorizer = TfidfVectorizer(stop_words={'english'}, max_df=0.9, min_df=0.02, ngram_range=(1, 3))
+
+# Lista de palabras a omitir, que pueden no representar un buen termino de busqueda
+skipwords = ["scholarship", "scholarships", "beca", "becas", "login", "javascript", "ser", "si", "haber", "poder",
+             "mas"]
 
 
+# Función encargada de retornar una lista con las ubicaciones/rutas de todos los archivos .txt
 def obtener_archivos_txt():
 
     # Lista que guarda todos los elementos dentro de la ruta Transcripciones/ (incluyendo carpetas)
@@ -24,19 +30,27 @@ def obtener_archivos_txt():
             # contenido_subcarpeta: Variable que guarda cada archivo .txt dentro de el directorio de fichero_actual
             contenido_subcarpeta = os.listdir(fichero_actual)
             for archivo_transcripcion in contenido_subcarpeta:
-                # Añadir cada archivo .txt a la lista de transcripciones
-                transcripciones.append(os.path.join(fichero_actual, archivo_transcripcion))
+                # Guardar solo los archivos .txt, excluir los archivos .csv
+                if archivo_transcripcion.endswith('.txt'):
+                    # Añadir cada archivo .txt a la lista de transcripciones
+                    transcripciones.append(os.path.join(fichero_actual, archivo_transcripcion))
 
     return transcripciones
 
 
+# Función encargada de retornar una lista con los textos/transcripciones de todos los archivos .txt
 def obtener_textos(lista_documentos):
     lista_textos = []
-    for doc in lista_documentos:
+    # index: 0,1,...,len(lista_documentos); doc: se refiere al elemento actual de lista_documentos
+    for index, doc in enumerate(lista_documentos):
+        # Añadir a lista_textos la transcripción de la página actual
         lista_textos.append(open(doc, mode='r', encoding='utf-8').read())
+        # Para cada uno de los textos de lista_textos vamos a eliminar las skipwords definidas al inicio
+        lista_textos[index] = delete_skipwords(lista_textos[index])
     return lista_textos
 
 
+# Calcular el tfidf de cada documento
 def tf_idf(lista_textos):
     tfidfvectorizer.fit(lista_textos)
     tfidf_train_set = []
@@ -46,14 +60,41 @@ def tf_idf(lista_textos):
 
 
 def print_tfidf_values(lista_documentos, feature_names, tfidf_train):
+
+    # Crear un diccionario donde la llave es el nombre/ubicación/ruta de cada documento de transcripcion, y el
+    # elemento asociado a esa llave es una lista de tuplas, donde cada tupla tiene la palabra o n-grama y su
+    # respectivo valor tf-idf calculado
     dict_keywords_paginas = {}
+
+    # i: 0,1,...,len(lista_documentos); doc: se refiere al elemento actual de lista_documentos
     for i, doc in enumerate(lista_documentos):
+
         tfidf_value = tfidf_train[i]
         lista_tuplas = []
+
+        # Este for construye la lista de tuplas con el n-grama y su respectivo valor tfidf calculado
         for col in tfidf_value.nonzero()[1]:
             lista_tuplas.append((feature_names[col], tfidf_value[0, col]))
+
+        # Crear el archivo .csv correspondiente al archivo .txt actual
+        nombre_tupla = doc + '.csv'
+        with open(nombre_tupla, 'w', newline='', encoding='utf-8') as file:
+            writer = csv.writer(file, delimiter=';')
+            writer.writerows(lista_tuplas)
+
+        # Asociar en el diccionario al documento actual su lista de caracteristicas
         dict_keywords_paginas[doc] = lista_tuplas
+
     return dict_keywords_paginas
+
+
+# Metodo encargado de eliminar las skipwords (definidas al principio del documento) de cada transcripción,
+# Esto para lograr obtener buenos valores tf-idf
+def delete_skipwords(text):
+    for i in range(len(skipwords)):
+        # Aquí se eliminan todas las skipwords del texto actual, una a una
+        text = text.replace(skipwords[i], "")
+    return text
 
 
 lista_de_documentos = obtener_archivos_txt()
@@ -62,4 +103,5 @@ tfidf_train = tf_idf(lista_transcripciones)
 feature_names = tfidfvectorizer.get_feature_names_out()
 dict_tfidf_alldocuments = print_tfidf_values(lista_de_documentos, feature_names, tfidf_train)
 
-print(dict_tfidf_alldocuments['Transcripciones/appspublic.agci.clbecas\\PDF8.txt'])
+print(lista_de_documentos[0])
+print(dict_tfidf_alldocuments[lista_de_documentos[0]])

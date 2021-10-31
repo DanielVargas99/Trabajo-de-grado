@@ -1,13 +1,9 @@
-https://becas.alianzapacifico.net/
-https://portal.icetex.gov.co/Portal/Home/HomeEstudiante/becas/becas-para-estudios-en-el-exterior
-https://www.becas-santander.com/es/index.html
 https://www.unipi.it/index.php/programas-hacia-america-latina/item/4021-estudiantes-de-america-latina-proyecto-inclinados
 https://computer.ing.unipi.it/aide-lm
 https://www.unipi.it/index.php/lauree/corso/11227
 https://www.chevening.org/scholarships/
-https://www.gla.ac.uk/scholarships/universityofglasgowinternationalleadershipscholarship/
-https://www.unileon.es/internacional/estudiantes/estudiantes-internacionales/becas-talentunileon
-https://www.fulbright.edu.co/
+https://becas-sin-fronteras.com/beca/becas-para-estudios-academicos-de-posgrado-e-investigacion-oea-a0401/
+https://becas-sin-fronteras.com/beca/becas-academicas-de-estudios-de-pregrado-oea-a1593/
 https://www.daad.co/es/becas/
 https://becas.universidadviu.com/becas-quiero/
 https://enic-kazakhstan.edu.kz/
@@ -21,7 +17,6 @@ https://www.its.ac.id/international/experiencing-its/prospective-student/scholar
 https://scholarships.uq.edu.au/
 https://www.edx.org/search?partner=Harvard%20University&subject=Computer%20Science&utm_content=text-link&utm_medium=affiliate_partner&utm_source=aw&utm_term=332527_MasOportunidades.org
 https://international.ku.edu.tr/graduate-programs/tuition-and-scholarships/
-https://adobe.wd5.myworkdayjobs.com/external_experienced/7/refreshFacet/318c8bb6f553100021d223d9780d30be
 http://a2ascholarships.iccr.gov.in/
 http://isa.ewha.ac.kr/oisa/index.do
 https://www.gist.ac.kr/iadm/html/sub04/04.html
@@ -72,3 +67,11 @@ https://scholarships.adelaide.edu.au/Scholarships/postgraduate-research/faculty-
 https://www.scholarshipsads.com/scholarship-for-online-programs-at-iubh-university-of-applied-sciences-germany/
 https://www.utwente.nl/en/education/scholarship-finder/university-of-twente-scholarship/
 https://www.gla.ac.uk/postgraduate/taught/computingsciencemsc/#
+https://www.scholarshipsads.com/new-zealand-aid-programme-2021-2022-scholarships-for-international-students/
+https://www.gla.ac.uk/postgraduate/taught/computersystemsengineering/
+https://www.gla.ac.uk/postgraduate/taught/dataanalytics/
+https://www.gla.ac.uk/postgraduate/taught/datascience/
+https://www.gla.ac.uk/postgraduate/taught/roboticsai/
+https://www.gla.ac.uk/postgraduate/taught/softwaredevelopment/
+https://app.becas-santander.com/es/program/becas-santander-tech-emerging-technologies-program-by-mit-professional-education
+https://app.becas-santander.com/es/program/becas-santander-tech-digital-business-the-university-of-chicago

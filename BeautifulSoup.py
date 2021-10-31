@@ -3,6 +3,8 @@ from bs4 import BeautifulSoup
 from urllib.request import urlopen, Request
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
+import unidecode
+import spacy
 import ssl
 import os
 import errno
@@ -39,7 +41,15 @@ stop_words_en = set(stopwords.words('english'))
 stop_words = stop_words_sp | stop_words_en
 
 # Definir un lematizador para el idioma inglés
-lemmatizer = WordNetLemmatizer()
+lemmatizer_en = WordNetLemmatizer()
+
+# Definir un lematizador para el idioma español, para que, por ejemplo, no existan palabras como:
+# canto, cantas, canta, cantamos, cantais, cantan, sino solo una palabra: "cantar"
+lemmatizer_sp = spacy.load('es_core_news_sm')
+
+'''
+Parte #1: Obtener las transcripciones de los sitios web (web scrapper) y guardarlas en carpetas
+'''
 
 
 def getwebsite(url):
@@ -146,7 +156,7 @@ def detectar_idioma(text_to_detect):
 
 
 '''
-Funciones para realizar limpieza a los textos
+Parte #2: Funciones para realizar limpieza a los textos y preprocesamiento
 '''
 
 
@@ -159,26 +169,26 @@ def limpieza_textos(text):
     text = re.sub("\r+", " ", text)
     text = re.sub("\t+", " ", text)
     text = re.sub(r"[0-9]+", "", text)  # Eliminar cualquier numero del texto
+    text = delete_long_words(text)  # En caso de que hallan palabras super largas, sin un espacio, eliminarlas
     # text = re.sub("  +", " ", text)  # Eliminar espacios en blanco
 
     # Hacer limpieza especificamente para textos en ingles
     if detectar_idioma(text[0:80]) == "english":
-        text = limpieza_textos_en(text)
+        text = expandir_contracciones(text)
+        text = lemmatize_words_en(text)
+    else:
+        # Hacer limpieza especificamente para textos en español
+        text = lemmatize_words_sp(text)
 
+    text = unidecode.unidecode(text)  # Eliminar cualquier tilde, dieresis o "ñ"
     text = eliminar_simbolos(text)
     text = eliminar_stopwords(text)
 
     return text
 
 
-def limpieza_textos_en(text):
-    text = expandir_contracciones(text)
-    text = lemmatize_words(text)
-    return text
-
-
 def eliminar_simbolos(text):
-    simbolosparaborrar = "¡!#$€£¢¥%&'\"()*+,-./:;<=>¿?@[\]^_`{|}~“”‘’—–®©ⓒ»ªº™⭐♦"
+    simbolosparaborrar = "¡!#$€£¢¥%&'\"()*+,-./:;<=>¿?@[\]^_`{|}~“”‘’—–®©ⓒ»ªº™⭐♦※"
     for i in range(len(simbolosparaborrar)):
         text = text.replace(simbolosparaborrar[i], "")
     return text
@@ -201,8 +211,23 @@ def expandir_contracciones(text):
     return text
 
 
-def lemmatize_words(text):
-    return " ".join([lemmatizer.lemmatize(word) for word in text.split()])
+def lemmatize_words_en(text):
+    return " ".join([lemmatizer_en.lemmatize(word) for word in text.split()])
+
+
+def lemmatize_words_sp(text):
+    modelo_aplicado = lemmatizer_sp(text)
+    lemmas = [tok.lemma_ for tok in modelo_aplicado]
+    texto_lematizado = " ".join(lemmas)
+    return texto_lematizado
+
+
+def delete_long_words(text):
+    tokens = text.split()
+    for i in range(len(tokens)):
+        if len(tokens[i]) > 100:
+            tokens[i] = ""
+    return " ".join(tokens)
 
 
 geturl(enlaces)

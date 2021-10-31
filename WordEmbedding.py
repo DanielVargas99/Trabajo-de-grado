@@ -194,8 +194,8 @@ Cambiar la variable embedding_name según el modelo de embedding que se desee ut
 '''
 
 # Entrenar el modelo propio (Si es la primera vez que se entrena, descomentar esto)
-# word_tokens_modelo_propio = tokenizar(training_dataset)
-# entrenar_modelo_propio(word_tokens_modelo_propio)
+word_tokens_modelo_propio = tokenizar(training_dataset)
+entrenar_modelo_propio(word_tokens_modelo_propio)
 
 # Cambiar la variable embedding_name según el modelo de embedding que se desee utilizar
 embedding_name = 'modelo_propio'
