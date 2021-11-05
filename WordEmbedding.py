@@ -82,7 +82,7 @@ def get_embeddings(embedding_dict, emb_name):
     if emb_name == 'googlenews':
         emb_path = embedding_dict[emb_name]['path']
         bin_flag = embedding_dict[emb_name]['binary']
-        embeddings_index = kv.load_word2vec_format(emb_path, binary=bin_flag, limit=600000)
+        embeddings_index = kv.load_word2vec_format(emb_path, binary=bin_flag, limit=500000)
     elif emb_name == 'modelo_propio':
         emb_path = embedding_dict[emb_name]['path']
         embeddings_index = gensim.models.Word2Vec.load(emb_path)
@@ -194,8 +194,8 @@ Cambiar la variable embedding_name según el modelo de embedding que se desee ut
 '''
 
 # Entrenar el modelo propio (Si es la primera vez que se entrena, descomentar esto)
-word_tokens_modelo_propio = tokenizar(training_dataset)
-entrenar_modelo_propio(word_tokens_modelo_propio)
+# word_tokens_modelo_propio = tokenizar(training_dataset)
+# entrenar_modelo_propio(word_tokens_modelo_propio)
 
 # Cambiar la variable embedding_name según el modelo de embedding que se desee utilizar
 embedding_name = 'modelo_propio'
@@ -213,7 +213,7 @@ Pruebas de los modelos
 
 # Agregar aquí las palabras que se probarán en el modelo
 pruebas_modelo_propio = ['beca', 'alemania', 'uk', 'colombia', 'canada', 'deadline', 'master', 'study',
-                         'scholarship', 'intercambio']
+                         'scholarship', 'intercambio', 'icetex']
 
 for i in pruebas_modelo_propio:
     print(i + ": ", modelo.wv.most_similar(i))

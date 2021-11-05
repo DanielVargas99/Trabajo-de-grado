@@ -60,7 +60,25 @@ def getwebsite(url):
     return pagina
 
 
+# Función que retorna un arreglo donde cada posición es una linea del texto del documento ingresado
+def leer_fichero_linea_por_linea(filename):
+    words = []
+    with open(filename) as diccionario:
+        lineas = diccionario.readlines()
+        for linea in lineas:
+            words.append(linea.strip('\n'))
+    return words
+
+
+dict_all_words = leer_fichero_linea_por_linea("Word2Vec/dictionary_sp_en.txt")
+
+
 def escribir(filename, text):
+    with open(filename, 'a', encoding="utf-8") as file:
+        file.write(text)
+
+
+def escribir_preprocesamiento(filename, text):
     file = open(filename, 'w', encoding="utf-8")  # Abrir en modo "w" Escritura
     training_file = open(training_dataset, 'a', encoding="utf-8")  # Abrir en modo "a" Append
 
@@ -78,7 +96,7 @@ def transcribir(url, cont, directorio):
     transcript = soup.get_text()
     # Darle al archivo el nombre PaginaN, donde N es un contador:
     nombrearchivo = directorio + "Pagina" + str(cont) + ".txt"
-    escribir(nombrearchivo, transcript)
+    escribir_preprocesamiento(nombrearchivo, transcript)
 
 
 def creardirectorio(url):
@@ -169,33 +187,31 @@ def limpieza_textos(text):
     text = re.sub("\r+", " ", text)
     text = re.sub("\t+", " ", text)
     text = re.sub(r"[0-9]+", "", text)  # Eliminar cualquier numero del texto
-    text = delete_long_words(text)  # En caso de que hallan palabras super largas, sin un espacio, eliminarlas
+    # text = delete_long_words(text)  # En caso de que hallan palabras super largas, sin un espacio, eliminarlas
     # text = re.sub("  +", " ", text)  # Eliminar espacios en blanco
 
     # Hacer limpieza especificamente para textos en ingles
-    if detectar_idioma(text[0:80]) == "english":
+    if detectar_idioma(text[0:100]) == "english":
         text = expandir_contracciones(text)
         text = lemmatize_words_en(text)
     else:
         # Hacer limpieza especificamente para textos en español
         text = lemmatize_words_sp(text)
 
-    text = unidecode.unidecode(text)  # Eliminar cualquier tilde, dieresis o "ñ"
     text = eliminar_simbolos(text)
+    text = buscar_en_diccionario(text)
+    text = unidecode.unidecode(text)  # Eliminar cualquier tilde, dieresis o "ñ"
     text = eliminar_stopwords(text)
 
     return text
 
 
-def eliminar_simbolos(text):
-    simbolosparaborrar = "¡!#$€£¢¥%&'\"()*+,-./:;<=>¿?@[\]^_`{|}~“”‘’—–®©ⓒ»ªº™⭐♦※"
-    for i in range(len(simbolosparaborrar)):
-        text = text.replace(simbolosparaborrar[i], "")
-    return text
-
-
-def eliminar_stopwords(text):
-    return ' '.join([word for word in text.split(' ') if word not in stop_words])
+def delete_long_words(text):
+    tokens = text.split()
+    for i in range(len(tokens)):
+        if len(tokens[i]) > 100:
+            tokens[i] = ""
+    return " ".join(tokens)
 
 
 def expandir_contracciones(text):
@@ -222,12 +238,26 @@ def lemmatize_words_sp(text):
     return texto_lematizado
 
 
-def delete_long_words(text):
+def buscar_en_diccionario(text):
+    path_out_of_dictionary_words = path + "PalabrasFueraDelDiccionario.txt"
     tokens = text.split()
-    for i in range(len(tokens)):
-        if len(tokens[i]) > 100:
-            tokens[i] = ""
-    return " ".join(tokens)
+
+    palabras_en_el_diccionario = ' '.join([word for word in tokens if word in dict_all_words])
+    #palabras_fuera_del_diccionario = ' '.join([word for word in tokens if word not in dict_all_words])
+    #escribir(path_out_of_dictionary_words, " " + palabras_fuera_del_diccionario)
+
+    return palabras_en_el_diccionario
+
+
+def eliminar_simbolos(text):
+    simbolosparaborrar = "¡!#$€£¢¥%&'\"()*+,-./:;<=>¿?@[\]^_`{|}~“”‘’—–®©ⓒ»ªº™⭐♦※"
+    for i in range(len(simbolosparaborrar)):
+        text = text.replace(simbolosparaborrar[i], "")
+    return text
+
+
+def eliminar_stopwords(text):
+    return ' '.join([word for word in text.split(' ') if word not in stop_words])
 
 
 geturl(enlaces)

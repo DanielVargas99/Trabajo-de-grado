@@ -5,11 +5,25 @@ import csv
 # Cambiar la ruta para cada caso, en esta ruta se guardan los archivos .txt con las transcripciones de cada página
 path = "Transcripciones/"
 
-tfidfvectorizer = TfidfVectorizer(stop_words={'english'}, max_df=0.9, min_df=0.02, ngram_range=(1, 3))
+tfidfvectorizer = TfidfVectorizer(encoding='utf-8',
+                                  #strip_accents='unicode',
+                                  stop_words={'english'},
+                                  max_df=0.95,
+                                  min_df=0.03,
+                                  ngram_range=(1, 3),
+                                  #sublinear_tf=True
+                                  )
 
 # Lista de palabras a omitir, que pueden no representar un buen termino de busqueda
-skipwords = ["scholarship", "scholarships", "beca", "becas", "login", "javascript", "ser", "si", "haber", "poder",
-             "mas"]
+skipwords = ["login", "javascript", "ser", "si", "haber", "poder", "mas", "navigation", "faq", "univerdad", "please",
+             "univertaria", "univertario", "univerty", "ter", "maestrio", "laurea", "ay", "aa", "pm", "profeonales",
+             "exior", "aqui", "logo", "shall", "per", "mat", "et", "innational", "criia", "degn", "univerties", "dk",
+             "requito", "studi", "msc", "ict", "progra", "es", "th", "must", "ess", "inc", "reved", "analys", "vic",
+             "rusan", "copy", "cooki", "bolin", "prentacion", "analis", "eo", "oming", "muca", "maial", "ma", "reree",
+             "dcripcion", "sem", "ms", "monly", "mon", "houng", "guidir", "fe", "degreir", "inforion", "mme", "webte",
+             "stings", "rolucion", "scienc", "archiv", "wa", "staff", "indonea", "tio", "te", "pripal", "po", "tricht",
+             "mm", "ear", "conoce", "alguna", "trias", "idio", "educanal", "deg", "undergradua", "ancion", "viern",
+             "juev", "forcion", "elegibl"]
 
 
 # Función encargada de retornar una lista con las ubicaciones/rutas de todos los archivos .txt
@@ -103,5 +117,5 @@ tfidf_train = tf_idf(lista_transcripciones)
 feature_names = tfidfvectorizer.get_feature_names_out()
 dict_tfidf_alldocuments = print_tfidf_values(lista_de_documentos, feature_names, tfidf_train)
 
-print(lista_de_documentos[0])
-print(dict_tfidf_alldocuments[lista_de_documentos[0]])
+print(lista_de_documentos[34])
+#print(dict_tfidf_alldocuments[lista_de_documentos[34]])

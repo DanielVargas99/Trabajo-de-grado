@@ -277,8 +277,6 @@ def limpieza_textos(text):
     text = re.sub("\r+", " ", text)
     text = re.sub("\t+", " ", text)
     text = re.sub(r"[0-9]+", "", text)  # Eliminar cualquier numero del texto
-    text = delete_long_words(text)  # En caso de que hallan palabras super largas, sin un espacio, eliminarlas
-    text = unidecode.unidecode(text)  # Eliminar cualquier tilde, dieresis o "ñ"
 
     # Hacer limpieza especificamente para textos en ingles
     if detectar_idioma(text[0:80]) == "english":
@@ -288,21 +286,11 @@ def limpieza_textos(text):
         # Hacer limpieza especificamente para textos en español
         text = lemmatize_words_sp(text)
 
-    text = EliminarSimbolos(text)
+    text = unidecode.unidecode(text)  # Eliminar cualquier tilde, dieresis o "ñ"
+    text = eliminar_simbolos(text)
     text = eliminar_stopwords(text)
 
     return text
-
-
-def EliminarSimbolos(text):
-    simbolosparaborrar = "¡!#$€£¢¥%&'\"()*+,-./:;<=>¿?@[\]^_`{|}~“”‘’—–®©ⓒ»ªº™⭐♦"
-    for i in range(len(simbolosparaborrar)):
-        text = text.replace(simbolosparaborrar[i], "")
-    return text
-
-
-def eliminar_stopwords(texto):
-    return ' '.join([word for word in texto.split(' ') if word not in stop_words])
 
 
 def expandir_contracciones(text):
@@ -329,12 +317,15 @@ def lemmatize_words_sp(text):
     return texto_lematizado
 
 
-def delete_long_words(text):
-    tokens = text.split()
-    for i in range(len(tokens)):
-        if len(tokens[i]) > 100:
-            tokens[i] = ""
-    return " ".join(tokens)
+def eliminar_simbolos(text):
+    simbolosparaborrar = "¡!#$€£¢¥%&'\"()*+,-./:;<=>¿?@[\]^_`{|}~“”‘’—–®©ⓒ»ªº™⭐♦"
+    for i in range(len(simbolosparaborrar)):
+        text = text.replace(simbolosparaborrar[i], "")
+    return text
+
+
+def eliminar_stopwords(texto):
+    return ' '.join([word for word in texto.split(' ') if word not in stop_words])
 
 
 geturl(enlaces)
