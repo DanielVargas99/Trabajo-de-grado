@@ -10,3 +10,7 @@ glove.6B.200d.word2vec.txt
 glove.6B.300d.txt
 glove.6B.300d.word2vec.txt
 GoogleNews-vectors-negative300.bin
+
+# Dictionaries
+dictionary_en.txt
+dictionary_sp.txt
