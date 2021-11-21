@@ -212,8 +212,7 @@ Pruebas de los modelos
 # Pruebas para el modelo propio (Solo aplican para este):
 
 # Agregar aquí las palabras que se probarán en el modelo
-pruebas_modelo_propio = ['beca', 'alemania', 'uk', 'colombia', 'canada', 'deadline', 'master', 'study',
-                         'scholarship', 'intercambio', 'icetex']
+pruebas_modelo_propio = ['beca', 'uk', 'colombia', 'deadline', 'master', 'study', 'scholarship', 'exchange', 'icetex']
 
 for i in pruebas_modelo_propio:
     print(i + ": ", modelo.wv.most_similar(i))

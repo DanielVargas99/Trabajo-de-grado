@@ -63,7 +63,7 @@ def getwebsite(url):
 # Función que retorna un arreglo donde cada posición es una linea del texto del documento ingresado
 def leer_fichero_linea_por_linea(filename):
     words = []
-    with open(filename) as diccionario:
+    with open(filename, encoding='utf-8') as diccionario:
         lineas = diccionario.readlines()
         for linea in lineas:
             words.append(linea.strip('\n'))

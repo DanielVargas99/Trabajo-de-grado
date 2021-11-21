@@ -18,6 +18,9 @@ path = "Transcripciones/"
 # Ruta en donde se encuentra el archivo .txt donde se almacena la lista de las url de descarga de los PDF
 enlaces = "PDFs.txt"
 
+# En caso de que el pdf se encuentre de manera local, cambiar el nombre según sea el caso
+local_archive = path + "BecasQuiero-desarrollo-aplicaciones-servicios-web.pdf"
+
 # Ruta en donde se encuentra el archivo .txt donde se almacena la transcripción de todas las paginas web
 training_dataset = path + "TranscripciónDeTodasLasPaginas.txt"
 
@@ -55,7 +58,9 @@ def download_file(url, cont):
     # String para darle nombre al archivo PDF descargado a partir de la URL
     local_filename = path + "PDF" + str(cont) + '.pdf'
 
-    myfile = requests.get(url, stream=True, allow_redirects=True)
+    myfile = requests.get(url, stream=True, allow_redirects=True, headers={'User-Agent': 'Mozilla / 5.0 (Windows NT 6.1)'
+                                                                          'AppleWebKit / 537.36 (KHTML, como Gecko)'
+                                                                          'Chrome / 41.0.2228.0 Safari / 537.3'})
 
     with open(local_filename, "wb") as pdf:
         for chunk in myfile.iter_content(chunk_size=1024):
@@ -91,6 +96,9 @@ def geturl(archivoenlaces):
 
         # Descrgar el PDF de la url de la actual linea del archivo "PDFs.txt"
         nombrepdf = download_file(url, contador)
+
+        # En caso de que el PDF se encuentre local y no haya que descargarlo, descomentar esta linea
+        # nombrepdf = local_archive
 
         # Llamar a la funcion que convierte cada página del PDF a imagen
         convertirpaginasaimagenes(nombrepdf, contador, url)
@@ -183,6 +191,20 @@ def extraertextodeimagenes(filelimit, cont, newpath):
     # Close the file after writing all the text.
     # f.close()
     # nombrearchivotxt.close()
+
+
+
+# Función que retorna un arreglo donde cada posición es una linea del texto del documento ingresado
+def leer_fichero_linea_por_linea(filename):
+    words = []
+    with open(filename, encoding='utf-8') as diccionario:
+        lineas = diccionario.readlines()
+        for linea in lineas:
+            words.append(linea.strip('\n'))
+    return words
+
+
+dict_all_words = leer_fichero_linea_por_linea("Word2Vec/dictionary_sp_en.txt")
 
 
 def escribir(filename, text):
@@ -286,8 +308,9 @@ def limpieza_textos(text):
         # Hacer limpieza especificamente para textos en español
         text = lemmatize_words_sp(text)
 
-    text = unidecode.unidecode(text)  # Eliminar cualquier tilde, dieresis o "ñ"
     text = eliminar_simbolos(text)
+    text = buscar_en_diccionario(text)
+    text = unidecode.unidecode(text)  # Eliminar cualquier tilde, dieresis o "ñ"
     text = eliminar_stopwords(text)
 
     return text
@@ -315,6 +338,17 @@ def lemmatize_words_sp(text):
     lemmas = [tok.lemma_ for tok in modelo_aplicado]
     texto_lematizado = " ".join(lemmas)
     return texto_lematizado
+
+
+def buscar_en_diccionario(text):
+    path_out_of_dictionary_words = path + "PalabrasFueraDelDiccionario.txt"
+    tokens = text.split()
+
+    palabras_en_el_diccionario = ' '.join([word for word in tokens if word in dict_all_words])
+    #palabras_fuera_del_diccionario = ' '.join([word for word in tokens if word not in dict_all_words])
+    #escribir(path_out_of_dictionary_words, " " + palabras_fuera_del_diccionario)
+
+    return palabras_en_el_diccionario
 
 
 def eliminar_simbolos(text):

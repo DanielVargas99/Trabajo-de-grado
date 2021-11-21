@@ -7,15 +7,15 @@ path = "Transcripciones/"
 
 tfidfvectorizer = TfidfVectorizer(encoding='utf-8',
                                   #strip_accents='unicode',
-                                  stop_words={'english'},
                                   max_df=0.95,
                                   min_df=0.03,
                                   ngram_range=(1, 3),
-                                  sublinear_tf=True
+                                  #sublinear_tf=True
                                   )
 
 # Lista de palabras a omitir, que pueden no representar un buen termino de busqueda
-skipwords = ["beca", "becas", "scholarship", "scholarships", "login", "navigation", "faq", "email", "boletin"]
+skipwords = [" becas ", " beca ", " scholarships ", " scholarship ", " login ", " navigation ", " faq ", " email ",
+             " boletin ", " cookies ", " cooky ", " si ", " i ", " ii ", " iii ", " iv ", " v ", " use "]
 
 
 # Función encargada de retornar una lista con las ubicaciones/rutas de todos los archivos .txt
@@ -83,7 +83,7 @@ def print_tfidf_values(lista_documentos, feature_names, tfidf_train):
             lista_tuplas.append((feature_names[col], tfidf_value[0, col]))
 
         lista_tuplas.sort(key=lambda x: x[1], reverse=True)
-        #lista_tuplas = lista_tuplas[:30]
+        # lista_tuplas = lista_tuplas[:30]
 
         # Crear el archivo .csv correspondiente al archivo .txt actual
         nombre_tupla = doc + '.csv'

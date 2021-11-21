@@ -1,3 +1,197 @@
+afganistán
+albania
+alemania
+andorra
+angola
+antigua y barbuda
+arabia saudita
+argelia
+argentina
+armenia
+australia
+austria
+azerbaiyán
+bahamas
+bangladés
+barbados
+baréin
+bélgica
+belice
+benín
+bielorrusia
+birmania
+bolivia
+bosnia y herzegovina
+botsuana
+brasil
+brunéi
+bulgaria
+burkina faso
+burundi
+bután
+cabo verde
+camboya
+camerún
+canadá
+catar
+chad
+chile
+china
+chipre
+ciudad del vaticano
+colombia
+comoras
+corea del norte
+corea del sur
+costa de marfil
+costa rica
+croacia
+cuba
+dinamarca
+dominica
+ecuador
+egipto
+el salvador
+emiratos árabes unidos
+eritrea
+eslovaquia
+eslovenia
+españa
+estados unidos
+estonia
+etiopía
+filipinas
+finlandia
+fiyi
+francia
+gabón
+gambia
+georgia
+ghana
+granada
+grecia
+guatemala
+guyana
+guinea
+guinea ecuatorial
+guinea-bisáu
+haití
+honduras
+hungría
+india
+indonesia
+irak
+irán
+irlanda
+islandia
+islas marshall
+islas salomón
+israel
+italia
+jamaica
+japón
+jordania
+kazajistán
+kenia
+kirguistán
+kiribati
+kuwait
+laos
+lesoto
+letonia
+líbano
+liberia
+libia
+liechtenstein
+lituania
+luxemburgo
+macedonia del norte
+madagascar
+malasia
+malaui
+maldivas
+malí
+malta
+marruecos
+mauricio
+mauritania
+méxico
+micronesia
+moldavia
+mónaco
+mongolia
+montenegro
+mozambique
+namibia
+nauru
+nepal
+nicaragua
+níger
+nigeria
+noruega
+nueva zelanda
+omán
+países bajos
+pakistán
+palaos
+panamá
+papúa nueva guinea
+paraguay
+perú
+polonia
+portugal
+reino unido
+república centroafricana
+república checa
+república del congo
+república democrática del congo
+república dominicana
+ruanda
+rumanía
+rusia
+samoa
+san cristóbal y nieves
+san marino
+san vicente y las granadinas
+santa lucía
+santo tomé y príncipe
+senegal
+serbia
+seychelles
+sierra leona
+singapur
+siria
+somalia
+sri lanka
+suazilandia
+sudáfrica
+sudán
+sudán del sur
+suecia
+suiza
+surinam
+tailandia
+tanzania
+tayikistán
+timor oriental
+togo
+tonga
+trinidad y tobago
+túnez
+turkmenistán
+turquía
+tuvalu
+ucrania
+uganda
+uruguay
+uzbekistán
+vanuatu
+venezuela
+vietnam
+yemen
+yibuti
+zambia
+zimbabue
 a
 aba
 abaá
