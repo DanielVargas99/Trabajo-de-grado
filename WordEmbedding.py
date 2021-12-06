@@ -212,7 +212,8 @@ Pruebas de los modelos
 # Pruebas para el modelo propio (Solo aplican para este):
 
 # Agregar aquí las palabras que se probarán en el modelo
-pruebas_modelo_propio = ['beca', 'uk', 'colombia', 'deadline', 'master', 'study', 'scholarship', 'exchange', 'icetex']
+pruebas_modelo_propio = ['beca', 'uk', 'colombia', 'deadline', 'master', 'study', 'scholarship', 'exchange', 'icetex',
+                         'ciberseguridad', 'cybersecurity', 'game', 'iot', 'desarrollo', 'design']
 
 for i in pruebas_modelo_propio:
     print(i + ": ", modelo.wv.most_similar(i))
@@ -224,11 +225,11 @@ print(modelo.wv.similarity(w1="beca", w2="scholarship"), modelo.wv.similarity(w1
 
 # Agregar aquí las palabras que se probarán en el modelo
 # pruebas_otros_modelos = ['germany', 'uk', 'canada', 'deadline', 'master', 'study', 'scholarship',
-#                         'deadline', 'beca', 'colombia', 'intercambio']
-
+#                          'deadline', 'beca', 'colombia', 'intercambio']
+#
 # for i in pruebas_otros_modelos:
-#    print(i + ": ", modelo.most_similar(i))
-
+#     print(i + ": ", modelo.most_similar(i))
+#
 # print(modelo.most_similar(positive=['king', 'woman'], negative=['man'], topn=1))
 # print(modelo.most_similar(positive=['beca', 'scholarships'], negative=['scholarship'], topn=1))
 # print(modelo.similarity(w1="beca", w2="scholarship"))
