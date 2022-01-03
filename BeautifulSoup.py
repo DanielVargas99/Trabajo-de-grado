@@ -187,7 +187,6 @@ def limpieza_textos(text):
     text = re.sub("\r+", " ", text)
     text = re.sub("\t+", " ", text)
     text = re.sub(r"[0-9]+", "", text)  # Eliminar cualquier numero del texto
-    # text = delete_long_words(text)  # En caso de que hallan palabras super largas, sin un espacio, eliminarlas
     # text = re.sub("  +", " ", text)  # Eliminar espacios en blanco
 
     # Hacer limpieza especificamente para textos en ingles
@@ -204,14 +203,6 @@ def limpieza_textos(text):
     text = eliminar_stopwords(text)
 
     return text
-
-
-def delete_long_words(text):
-    tokens = text.split()
-    for i in range(len(tokens)):
-        if len(tokens[i]) > 100:
-            tokens[i] = ""
-    return " ".join(tokens)
 
 
 def expandir_contracciones(text):

@@ -1,4 +1,5 @@
 from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import cosine_similarity
 import os
 import csv
 
@@ -18,7 +19,7 @@ tfidfvectorizer = TfidfVectorizer(encoding='utf-8',
 
 
 # Función encargada de retornar una lista con las ubicaciones/rutas de todos los archivos .txt
-def obtener_archivos_txt():
+def obtener_archivos(extension):
 
     # Lista que guarda todos los elementos dentro de la ruta Transcripciones/ (incluyendo carpetas)
     contenido = os.listdir(path)
@@ -36,7 +37,7 @@ def obtener_archivos_txt():
             contenido_subcarpeta = os.listdir(fichero_actual)
             for archivo_transcripcion in contenido_subcarpeta:
                 # Guardar solo los archivos .txt, excluir los archivos .csv
-                if archivo_transcripcion.endswith('.txt'):
+                if archivo_transcripcion.endswith(extension):
                     # Añadir cada archivo .txt a la lista de transcripciones
                     transcripciones.append(os.path.join(fichero_actual, archivo_transcripcion))
 
@@ -117,7 +118,7 @@ def delete_skipwords(text, skipwords):
     return text
 
 
-lista_de_documentos = obtener_archivos_txt()
+lista_de_documentos = obtener_archivos('.txt')
 lista_transcripciones = obtener_textos(lista_de_documentos)
 tfidf_train = tf_idf(lista_transcripciones)
 feature_names = tfidfvectorizer.get_feature_names_out()
