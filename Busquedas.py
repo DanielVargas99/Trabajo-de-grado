@@ -3,6 +3,7 @@ import unidecode
 import os
 import nltk
 import spacy
+from nltk import ngrams
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
 
@@ -18,6 +19,9 @@ languages = ["spanish", "english"]
 # Crear una lista de las palabras "Stopwords" que se eliminarán del texto
 stop_words_sp = set(stopwords.words('spanish'))
 stop_words_en = set(stopwords.words('english'))
+
+# Concatenar las stopwords
+stop_words = stop_words_sp | stop_words_en
 
 # Definir un lematizador para el idioma inglés
 lemmatizer_en = WordNetLemmatizer()
@@ -64,7 +68,7 @@ def buscar_palabra_en_lista_csv(lista_csvs):
             for row in reader:
                 for j in range(len(busqueda)):
                     if row[0] == busqueda[j]:  # row[0] la primera columna del csv
-                        cont += float(row[1])
+                        cont += 1
         lista_aux.append((lista_csvs[i], cont))
 
     return lista_aux
@@ -125,7 +129,21 @@ def limpieza_busqueda(text):
         text = lemmatize_words_sp(text)
 
     text = unidecode.unidecode(text)  # Eliminar cualquier tilde, dieresis o "ñ"
-    print(text)
+    text = eliminar_stopwords(text)
+    return text
+
+
+# Este metodo retorna una lista con unigramas, bigramas y trigramas basados en la busqueda realizada por el usuario
+def crear_ngrams_busqueda(text):
+    unigrams = ngrams(text.split(), 1)
+    bigrams = ngrams(text.split(), 2)
+    trigrams = ngrams(text.split(), 3)
+
+    unigrams = [' '.join(grams) for grams in unigrams]
+    bigrams = [' '.join(grams) for grams in bigrams]
+    trigrams = [' '.join(grams) for grams in trigrams]
+
+    text = unigrams + bigrams + trigrams
     return text
 
 
@@ -147,12 +165,16 @@ def lemmatize_words_sp(text):
     return texto_lematizado
 
 
+def eliminar_stopwords(text):
+    return ' '.join([word for word in text.split(' ') if word not in stop_words])
+
+
 print("Ingrese los términos de busqueda:\n")
 busqueda = input()
 
 csvs = obtener_archivos('.csv')  # Obtener una lista con las ubicaciones de todos los archivos CSV
 busqueda = limpieza_busqueda(busqueda)  # Hacer limpieza a la busqueda que ingrese el usuario
-busqueda = busqueda.split(" ")  # Separar la busqueda por espacios
+busqueda = crear_ngrams_busqueda(busqueda)  # Separar la busqueda en unigramas, bigramas y trigramas
 resultadosBusqueda = buscar_palabra_en_lista_csv(csvs)  # Obtener los documentos que más se ajusten a la busqueda
 sortedList = sorted(resultadosBusqueda, key=lambda aux: aux[1], reverse=True)  # Ordenar la lista de mayor a menor
 
