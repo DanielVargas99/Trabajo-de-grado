@@ -57,7 +57,7 @@ def obtener_archivos(extension):
     return csvs_files
 
 
-def buscar_palabra_en_lista_csv(lista_csvs):
+def buscar_palabra_en_lista_csv(lista_csvs, text):
 
     lista_aux = []
 
@@ -66,8 +66,8 @@ def buscar_palabra_en_lista_csv(lista_csvs):
         with open(lista_csvs[i]) as p:
             reader = csv.reader(p, delimiter=';')
             for row in reader:
-                for j in range(len(busqueda)):
-                    if row[0] == busqueda[j]:  # row[0] la primera columna del csv
+                for j in range(len(text)):
+                    if row[0] == text[j]:  # row[0] la primera columna del csv
                         cont += 1
         lista_aux.append((lista_csvs[i], cont))
 
@@ -175,7 +175,7 @@ busqueda = input()
 csvs = obtener_archivos('.csv')  # Obtener una lista con las ubicaciones de todos los archivos CSV
 busqueda = limpieza_busqueda(busqueda)  # Hacer limpieza a la busqueda que ingrese el usuario
 busqueda = crear_ngrams_busqueda(busqueda)  # Separar la busqueda en unigramas, bigramas y trigramas
-resultadosBusqueda = buscar_palabra_en_lista_csv(csvs)  # Obtener los documentos que más se ajusten a la busqueda
+resultadosBusqueda = buscar_palabra_en_lista_csv(csvs, busqueda)  # Obtener los documentos que más se ajusten a la busqueda
 sortedList = sorted(resultadosBusqueda, key=lambda aux: aux[1], reverse=True)  # Ordenar la lista de mayor a menor
 
 print("\nRecomendación\n")
