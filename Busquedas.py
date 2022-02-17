@@ -106,6 +106,7 @@ def principal():
                         }
             lista_aux.append(beca_seleccionada)
 
+        print("PRUEBAAAAAAAAAAAAAA: ",lista_aux)
         return lista_aux
 
     def limpieza_busqueda(text_en, text_sp):
@@ -237,6 +238,7 @@ def principal():
     resultados_busqueda = buscar_palabra_en_lista_csv(csvs, busqueda)  # Obtener los documentos que más se ajusten a la busqueda
     sorted_list = sorted(resultados_busqueda, key=lambda aux: (aux[1], aux[2]), reverse=True)  # Ordenar la lista de mayor a menor
 
+    print(sorted_list)
     return jsonify({"BECAS": imprimir_resultados(sorted_list)})
 
 if __name__ == '__main__':
