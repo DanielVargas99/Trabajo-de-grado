@@ -236,7 +236,6 @@ def principal():
     busqueda = crear_ngrams_busqueda(busqueda)  # Separar la busqueda en unigramas, bigramas y trigramas
     resultados_busqueda = buscar_palabra_en_lista_csv(csvs, busqueda)  # Obtener los documentos que más se ajusten a la busqueda
     sorted_list = sorted(resultados_busqueda, key=lambda aux: (aux[1], aux[2]), reverse=True)  # Ordenar la lista de mayor a menor
-    print(sorted_list)
 
     return jsonify({"BECAS": imprimir_resultados(sorted_list)})
 
