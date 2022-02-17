@@ -4,6 +4,7 @@ import os
 import spacy
 import re
 import psycopg2
+import nltk
 from nltk import ngrams
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
@@ -33,6 +34,9 @@ def principal():
 
     # Definir un lematizador para el idioma inglés
     lemmatizer_en = WordNetLemmatizer()
+
+    # Esto es para el lematizador en ingles
+    nltk.download('wordnet')
 
     # Definir un lematizador para el idioma español, para que, por ejemplo, no existan palabras como:
     # canto, cantas, canta, cantamos, cantais, cantan, sino solo una palabra: "cantar"
