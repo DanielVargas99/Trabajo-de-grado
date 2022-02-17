@@ -94,7 +94,6 @@ def principal():
             with open(resumen, encoding='utf-8') as a: # Se abre el archivo que contiene los resumenes de las becas
                 reader = csv.reader(a, delimiter=';')
                 for row in reader:
-                    print(row[0], lista_ordenada[i][0])
                     if row[0] == lista_ordenada[i][0]:
                         beca_seleccionada = {
                             "Documento": row[0],
@@ -237,6 +236,7 @@ def principal():
     busqueda = crear_ngrams_busqueda(busqueda)  # Separar la busqueda en unigramas, bigramas y trigramas
     resultados_busqueda = buscar_palabra_en_lista_csv(csvs, busqueda)  # Obtener los documentos que más se ajusten a la busqueda
     sorted_list = sorted(resultados_busqueda, key=lambda aux: (aux[1], aux[2]), reverse=True)  # Ordenar la lista de mayor a menor
+    print(sorted_list)
 
     return jsonify({"BECAS": imprimir_resultados(sorted_list)})
 
