@@ -5,6 +5,7 @@ import spacy
 import re
 import psycopg2
 import nltk
+import gensim
 from nltk import ngrams
 from nltk.corpus import stopwords
 from nltk.stem import WordNetLemmatizer
@@ -24,6 +25,10 @@ def principal():
 
     # Ubicación del archivo csv que contiene un resumen de cada página web
     resumen = path + 'resumenes.csv'
+
+    # Definir el modelo de Word-Embedding que se utilizará y cargarlo en la memoria
+    modelo = path + 'ModeloPropio.bin'
+    modelo_word2vec = gensim.models.Word2Vec.load(modelo) # Cargar el modelo en memoria
 
     # Crear una lista de las palabras "Stopwords" que se eliminarán del texto
     stop_words_sp = set(stopwords.words('spanish'))
@@ -87,10 +92,10 @@ def principal():
 
         return lista_aux
 
-    def imprimir_resultados(lista_ordenada):
+    def imprimir_resultados(lista_ordenada, cant_resulados):
         lista_aux = []
         beca_seleccionada = {}
-        for i in range(20):  # Tomar solo los primeros 20 elementos de la lista
+        for i in range(cant_resulados):  # Tomar solo los primeros 20 elementos de la lista
             with open(resumen, encoding='utf-8') as a: # Se abre el archivo que contiene los resumenes de las becas
                 reader = csv.reader(a, delimiter=';')
                 for row in reader:
@@ -214,6 +219,23 @@ def principal():
 
         return (text_en, text_sp)
 
+    def busquedas_relacionadas(busqueda):
+        terminos_relacionados = ""
+        for termino in busqueda:
+            try:
+                # Se busca en el modelo propio de Word2Vec las palabras más similares al termino de busqueda actual
+                # modelo_word2vec.wv.most_similar retorna una lista con las 3 palabras más similares
+                lista_terminos_similares = modelo_word2vec.wv.most_similar(termino, topn=3)
+                for term in lista_terminos_similares:
+                    # Voy a considerar unicamente los que tengan una similaridad de más del 80% en relacion a la
+                    # palabra actual, además, excluyo los terminos que ya aparecieron anteriormente.
+                    # term[0] indica la palabra mientras que term[1] indica el porcentaje de similaridad
+                    if term[1] >= 0.8 and term[0] not in terminos_relacionados and term[0] not in busqueda:
+                        terminos_relacionados += term[0] + " "
+            except Exception: # En caso de que la palabra no esté en el vocabulario del modelo, ignorar
+                pass
+        return terminos_relacionados
+
     def definir_busqueda():
 
         busqueda = ""
@@ -229,15 +251,25 @@ def principal():
         return busqueda
 
 
-    busqueda = definir_busqueda()
+    busqueda = definir_busqueda() # Definir si es una busqueda hecha por el usuario o si es con los intereses
     traduccion = traducir(busqueda) # Se manda la busqueda a traducir y asi tenerla en ambos idiomas
     csvs = obtener_archivos('.csv')  # Obtener una lista con las ubicaciones de todos los archivos CSV
-    busqueda = limpieza_busqueda(traduccion[0], traduccion[1])  # Hacer limpieza a la busqueda que ingrese el usuario
-    busqueda = crear_ngrams_busqueda(busqueda)  # Separar la busqueda en unigramas, bigramas y trigramas
-    resultados_busqueda = buscar_palabra_en_lista_csv(csvs, busqueda)  # Obtener los documentos que más se ajusten a la busqueda
-    sorted_list = sorted(resultados_busqueda, key=lambda aux: (aux[1], aux[2]), reverse=True)  # Ordenar la lista de mayor a menor
+    busqueda = limpieza_busqueda(traduccion[0], traduccion[1])  # Hacer limpieza a la busqueda
+    busqueda_relacionada = busquedas_relacionadas(busqueda.split()) # Definir una busqueda alternativa, relacionada
 
-    return jsonify({"BECAS": imprimir_resultados(sorted_list)})
+    # Separar la busqueda en unigramas, bigramas y trigramas
+    busqueda = crear_ngrams_busqueda(busqueda) 
+    busqueda_relacionada = crear_ngrams_busqueda(busqueda_relacionada)
+
+    # Obtener los documentos que más se ajusten a la busqueda
+    resultados_busqueda = buscar_palabra_en_lista_csv(csvs, busqueda) 
+    resultados_busqueda_relacionada = buscar_palabra_en_lista_csv(csvs, busqueda_relacionada)
+
+    # Ordenar la lista de mayor a menor
+    sorted_list = sorted(resultados_busqueda, key=lambda aux: (aux[1], aux[2]), reverse=True)
+    sorted_list_rel = sorted(resultados_busqueda_relacionada, key=lambda aux: (aux[1], aux[2]), reverse=True)
+
+    return jsonify({"BECAS": imprimir_resultados(sorted_list, 20), "BECAS RELACIONADAS": imprimir_resultados(sorted_list_rel, 10)})
 
 if __name__ == '__main__':
     app.debug = True
