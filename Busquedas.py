@@ -229,7 +229,7 @@ def principal():
                 for term in lista_terminos_similares:
                     # Voy a considerar unicamente los que tengan una similaridad de más del 80% en relacion a la
                     # palabra actual, además, excluyo los terminos que ya aparecieron anteriormente.
-                    # term[0] indica la palabra mientras que term[1] indica el porcentaje de similaridad
+                    # term[0] indica la palabra mientras que term[1] indica el porcentaje de similaridad.
                     if term[1] >= 0.8 and term[0] not in terminos_relacionados and term[0] not in busqueda:
                         terminos_relacionados += term[0] + " "
             except Exception: # En caso de que la palabra no esté en el vocabulario del modelo, ignorar
