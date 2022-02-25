@@ -14,6 +14,105 @@ from googletrans import Translator
 
 app = Flask(__name__)
 
+
+@app.route('/sesion', methods=['POST'])
+def inicioSesion():
+
+    respuesta = ""
+    datos = {}
+
+    # Función que permite conectarse a la base de datos alojada en Heroku
+    def conexionBD():
+        try:
+            conexion = psycopg2.connect(host="ec2-52-203-74-38.compute-1.amazonaws.com", user="nqbtcbwoqhjisp", 
+                password="715efa6d7d856275fc6c0b52db0961a9d24f0d9f5a7f7da77d98a2ddbcbd8323", database="d95lni663n81s0")
+        except Exception as err:
+            print("Error al crear conexion", err)
+        else:
+            print("Conexion creada correctamente")
+
+        cursor_bd = conexion.cursor()
+
+        return cursor_bd
+
+    # Crea un objeto de tipo cursor que apunta a la BD y ejecuta un Query, para hacer la consulta a la BD
+    def consultas(Query):
+        cursor = conexionBD()
+        cursor.execute(Query)
+        consulta = cursor.fetchone()
+        cursor.close()
+        return consulta
+
+    usuario = "'" + request.json['USUARIO'] + "'"
+    contraseña = "'" + request.json['CONTRASEÑA'] + "'"
+
+    consulta = consultas("SELECT * FROM usuarios WHERE correo = " + usuario + " and contraseña = " + contraseña)
+
+    if consulta == None:
+        respuesta = "n"
+    else:
+        respuesta = "s"
+        datos = {
+            "nombre": consulta[0],
+            "apellido": consulta[1],
+            "edad": consulta[2],
+            "sexo": consulta[3],
+            "estrato": consulta[4],
+            "correo": consulta[5],
+            "contraseña": consulta[6]
+        }
+    
+    return jsonify({"RESPUESTA": respuesta , "DATOS": datos})
+
+
+@app.route('/registrar', methods=['POST'])
+def registrarDatos():
+
+    # Función que permite conectarse a la base de datos alojada en Heroku
+    def insercionBD():
+        try:
+            conexion = psycopg2.connect(host="ec2-52-203-74-38.compute-1.amazonaws.com", user="nqbtcbwoqhjisp", 
+                password="715efa6d7d856275fc6c0b52db0961a9d24f0d9f5a7f7da77d98a2ddbcbd8323", database="d95lni663n81s0")
+        except Exception as err:
+            print("Error al crear conexion", err)
+        else:
+            print("Conexion creada correctamente")
+
+        cursor_bd = conexion.cursor()
+
+        nombres = "'" + request.json['NOMBRES'] + "'"
+        apellidos = "'" + request.json['APELLIDOS'] + "'"
+        edad = request.json['EDAD']
+        sexo = "'" + request.json['SEXO'] + "'"
+        estrato = request.json['ESTRATO']
+        correo = "'" + request.json['CORREO'] + "'"
+        contraseña = "'" + request.json['CONTRASEÑA'] + "'"
+        interes1 = "'" + request.json['INTERES1'] + "'"
+        interes2 = "'" + request.json['INTERES2'] + "'"
+        interes3 = "'" + request.json['INTERES3'] + "'"
+        interes4 = "'" + request.json['INTERES4'] + "'"
+        interes5 = "'" + request.json['INTERES5'] + "'"
+
+        try:
+            cursor_bd.execute("INSERT INTO usuarios VALUES (" + nombres + "," + apellidos + "," +
+            str(edad) + "," + sexo + "," + str(estrato) + "," + correo + "," + contraseña + "," + interes1 + "," +
+            interes2 + "," + interes3 + "," + interes4 + "," + interes5 + ") ")
+        except Exception as err:
+            respuesta = "n"
+        else:
+            respuesta = "s"
+        
+        conexion.commit()
+        cursor_bd.close()
+        conexion.close()
+
+        return respuesta
+
+    consulta = insercionBD()
+
+    return jsonify({"RESPUESTA": consulta})
+
+
 @app.route('/', methods=['POST'])
 def principal():
 
@@ -177,10 +276,8 @@ def principal():
     # Crea un objeto de tipo cursor que apunta a la BD y ejecuta un Query, para hacer la consulta a la BD
     def consultas(Query):
         cursor = conexionBD()
-
         cursor.execute(Query)
         consulta = cursor.fetchone()
-
         cursor.close()
 
         return consulta
@@ -244,7 +341,8 @@ def principal():
             # Aquí llega el usuario mediante un request POST, obtengo la lista de los intereses
             busqueda = consultaUser("'" + request.json['USUARIO'] + "'")
             for i in range(len(busqueda)):
-                if busqueda[i] == None: busqueda.pop(i) # En caso de que un interes esté vacio, se elimina
+                if busqueda[i] == None or busqueda[i] == "":
+                    busqueda.pop(i) # En caso de que un interes esté vacio, se elimina
         else:
             busqueda = [request.json['BUSQUEDA']]
 
