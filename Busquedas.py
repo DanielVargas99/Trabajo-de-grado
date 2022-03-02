@@ -37,6 +37,135 @@ def consultas(Query):
     return consulta
 
 
+@app.route('/modificari', methods=['POST'])
+def modificarIntereses():
+
+    try:
+        conexion = psycopg2.connect(host="ec2-52-203-74-38.compute-1.amazonaws.com", user="nqbtcbwoqhjisp", 
+            password="715efa6d7d856275fc6c0b52db0961a9d24f0d9f5a7f7da77d98a2ddbcbd8323", database="d95lni663n81s0")
+    except Exception as err:
+        print("Error al crear conexion", err)
+    else:
+        print("Conexion creada correctamente")
+
+    cursor_bd = conexion.cursor()
+
+    correo = "'" + request.json['CORREO'] + "'"
+    interes1 = "'" + request.json['INTERES1'] + "'"
+    interes2 = "'" + request.json['INTERES2'] + "'"
+    interes3 = "'" + request.json['INTERES3'] + "'"
+    interes4 = "'" + request.json['INTERES4'] + "'"
+    interes5 = "'" + request.json['INTERES5'] + "'"
+
+    try:
+        cursor_bd.execute("UPDATE usuarios SET interes1 = " + interes1 + ", interes2 = " + interes2
+        + ", interes3 = " + interes3 + ", interes4 = " + interes4 + ", interes5 = " + interes5 + " WHERE correo = " + correo) 
+    except Exception as err:
+        respuesta = "n"
+    else:
+        respuesta = "s"
+        
+    conexion.commit()
+    cursor_bd.close()
+    conexion.close()
+
+    return jsonify({"RESPUESTA": respuesta})
+
+
+@app.route('/modificarc', methods=['POST'])
+def modificarCuenta():
+
+    try:
+        conexion = psycopg2.connect(host="ec2-52-203-74-38.compute-1.amazonaws.com", user="nqbtcbwoqhjisp", 
+            password="715efa6d7d856275fc6c0b52db0961a9d24f0d9f5a7f7da77d98a2ddbcbd8323", database="d95lni663n81s0")
+    except Exception as err:
+        print("Error al crear conexion", err)
+    else:
+        print("Conexion creada correctamente")
+
+    cursor_bd = conexion.cursor()
+    correo = "'" + request.json['CORREO'] + "'"
+    correoN = "'" + request.json['CORREON'] + "'"
+    contraseña = "'" + request.json['CONTRASEÑA'] + "'"
+
+    try:
+        cursor_bd.execute("UPDATE usuarios SET correo = " + correoN + ", contraseña = " + contraseña
+        + " WHERE correo = " + correo) 
+    except Exception as err:
+        respuesta = "n"
+    else:
+        respuesta = "s"
+        
+    conexion.commit()
+    cursor_bd.close()
+    conexion.close()
+
+    return jsonify({"RESPUESTA": respuesta})
+
+
+@app.route('/modificarp', methods=['POST'])
+def modificarDatos():
+
+    try:
+        conexion = psycopg2.connect(host="ec2-52-203-74-38.compute-1.amazonaws.com", user="nqbtcbwoqhjisp", 
+            password="715efa6d7d856275fc6c0b52db0961a9d24f0d9f5a7f7da77d98a2ddbcbd8323", database="d95lni663n81s0")
+    except Exception as err:
+        print("Error al crear conexion", err)
+    else:
+        print("Conexion creada correctamente")
+
+    cursor_bd = conexion.cursor()
+
+    nombres = "'" + request.json['NOMBRES'] + "'"
+    apellidos = "'" + request.json['APELLIDOS'] + "'"
+    edad = request.json['EDAD']
+    sexo = "'" + request.json['SEXO'] + "'"
+    estrato = request.json['ESTRATO']
+    correo = "'" + request.json['CORREO'] + "'"
+
+    try:
+        cursor_bd.execute("UPDATE usuarios SET nombre = " + nombres + ", apellido = " + apellidos
+        + ", edad = " + str(edad) + ", sexo = " + sexo + ", estrato = " + str(estrato) + " WHERE correo = " + correo) 
+    except Exception as err:
+        respuesta = "n"
+    else:
+        respuesta = "s"
+        
+    conexion.commit()
+    cursor_bd.close()
+    conexion.close()
+
+    return jsonify({"RESPUESTA": respuesta})
+
+
+@app.route('/eliminar', methods=['POST'])
+def eliminarCuenta():
+
+    try:
+        conexion = psycopg2.connect(host="ec2-52-203-74-38.compute-1.amazonaws.com", user="nqbtcbwoqhjisp", 
+            password="715efa6d7d856275fc6c0b52db0961a9d24f0d9f5a7f7da77d98a2ddbcbd8323", database="d95lni663n81s0")
+    except Exception as err:
+        print("Error al crear conexion", err)
+    else:
+        print("Conexion creada correctamente")
+
+    cursor_bd = conexion.cursor()
+    correo = "'" + request.json['CORREO'] + "'"
+
+    try:
+        cursor_bd.execute("DELETE FROM usuarios WHERE correo = " + correo)
+    except Exception as err:
+        respuesta = "n"
+    else:
+        respuesta = "s"
+        
+    conexion.commit()
+    cursor_bd.close()
+    conexion.close()
+
+    return jsonify({"RESPUESTA": respuesta})
+
+
 @app.route('/validar', methods=['POST'])
 def validarCorreo():
     correo = "'" + request.json['CORREO'] + "'"
@@ -53,9 +182,7 @@ def validarCorreo():
 @app.route('/sesion', methods=['POST'])
 def inicioSesion():
 
-    respuesta = ""
     datos = {}
-
     usuario = "'" + request.json['USUARIO'] + "'"
     contraseña = "'" + request.json['CONTRASEÑA'] + "'"
 
@@ -72,7 +199,12 @@ def inicioSesion():
             "sexo": consulta[3],
             "estrato": consulta[4],
             "correo": consulta[5],
-            "contraseña": consulta[6]
+            "contraseña": consulta[6],
+            "interes1": consulta[7],
+            "interes2": consulta[8],
+            "interes3": consulta[9],
+            "interes4": consulta[10],
+            "interes5": consulta[11],
         }
     
     return jsonify({"RESPUESTA": respuesta , "DATOS": datos})
@@ -81,49 +213,43 @@ def inicioSesion():
 @app.route('/registrar', methods=['POST'])
 def registrarDatos():
 
-    # Función que permite conectarse a la base de datos alojada en Heroku
-    def insercionBD():
-        try:
-            conexion = psycopg2.connect(host="ec2-52-203-74-38.compute-1.amazonaws.com", user="nqbtcbwoqhjisp", 
-                password="715efa6d7d856275fc6c0b52db0961a9d24f0d9f5a7f7da77d98a2ddbcbd8323", database="d95lni663n81s0")
-        except Exception as err:
-            print("Error al crear conexion", err)
-        else:
-            print("Conexion creada correctamente")
+    try:
+        conexion = psycopg2.connect(host="ec2-52-203-74-38.compute-1.amazonaws.com", user="nqbtcbwoqhjisp", 
+            password="715efa6d7d856275fc6c0b52db0961a9d24f0d9f5a7f7da77d98a2ddbcbd8323", database="d95lni663n81s0")
+    except Exception as err:
+        print("Error al crear conexion", err)
+    else:
+        print("Conexion creada correctamente")
 
-        cursor_bd = conexion.cursor()
+    cursor_bd = conexion.cursor()
 
-        nombres = "'" + request.json['NOMBRES'] + "'"
-        apellidos = "'" + request.json['APELLIDOS'] + "'"
-        edad = request.json['EDAD']
-        sexo = "'" + request.json['SEXO'] + "'"
-        estrato = request.json['ESTRATO']
-        correo = "'" + request.json['CORREO'] + "'"
-        contraseña = "'" + request.json['CONTRASEÑA'] + "'"
-        interes1 = "'" + request.json['INTERES1'] + "'"
-        interes2 = "'" + request.json['INTERES2'] + "'"
-        interes3 = "'" + request.json['INTERES3'] + "'"
-        interes4 = "'" + request.json['INTERES4'] + "'"
-        interes5 = "'" + request.json['INTERES5'] + "'"
+    nombres = "'" + request.json['NOMBRES'] + "'"
+    apellidos = "'" + request.json['APELLIDOS'] + "'"
+    edad = request.json['EDAD']
+    sexo = "'" + request.json['SEXO'] + "'"
+    estrato = request.json['ESTRATO']
+    correo = "'" + request.json['CORREO'] + "'"
+    contraseña = "'" + request.json['CONTRASEÑA'] + "'"
+    interes1 = "'" + request.json['INTERES1'] + "'"
+    interes2 = "'" + request.json['INTERES2'] + "'"
+    interes3 = "'" + request.json['INTERES3'] + "'"
+    interes4 = "'" + request.json['INTERES4'] + "'"
+    interes5 = "'" + request.json['INTERES5'] + "'"
 
-        try:
-            cursor_bd.execute("INSERT INTO usuarios VALUES (" + nombres + "," + apellidos + "," +
-            str(edad) + "," + sexo + "," + str(estrato) + "," + correo + "," + contraseña + "," + interes1 + "," +
-            interes2 + "," + interes3 + "," + interes4 + "," + interes5 + ") ")
-        except Exception as err:
-            respuesta = "n"
-        else:
-            respuesta = "s"
+    try:
+        cursor_bd.execute("INSERT INTO usuarios VALUES (" + nombres + "," + apellidos + "," +
+        str(edad) + "," + sexo + "," + str(estrato) + "," + correo + "," + contraseña + "," + interes1 + "," +
+        interes2 + "," + interes3 + "," + interes4 + "," + interes5 + ") ")
+    except Exception as err:
+        respuesta = "n"
+    else:
+        respuesta = "s"
         
-        conexion.commit()
-        cursor_bd.close()
-        conexion.close()
+    conexion.commit()
+    cursor_bd.close()
+    conexion.close()
 
-        return respuesta
-
-    consulta = insercionBD()
-
-    return jsonify({"RESPUESTA": consulta})
+    return jsonify({"RESPUESTA": respuesta})
 
 
 @app.route('/', methods=['POST'])
