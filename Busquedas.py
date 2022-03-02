@@ -14,34 +14,47 @@ from googletrans import Translator
 
 app = Flask(__name__)
 
+# Función que permite conectarse a la base de datos alojada en Heroku
+def conexionBD():
+    try:
+        conexion = psycopg2.connect(host="ec2-52-203-74-38.compute-1.amazonaws.com", user="nqbtcbwoqhjisp", 
+            password="715efa6d7d856275fc6c0b52db0961a9d24f0d9f5a7f7da77d98a2ddbcbd8323", database="d95lni663n81s0")
+    except Exception as err:
+        print("Error al crear conexion", err)
+    else:
+        print("Conexion creada correctamente")
+
+    cursor_bd = conexion.cursor()
+
+    return cursor_bd
+
+# Crea un objeto de tipo cursor que apunta a la BD y ejecuta un Query, para hacer la consulta a la BD
+def consultas(Query):
+    cursor = conexionBD()
+    cursor.execute(Query)
+    consulta = cursor.fetchone()
+    cursor.close()
+    return consulta
+
+
+@app.route('/validar', methods=['POST'])
+def validarCorreo():
+    correo = "'" + request.json['CORREO'] + "'"
+    consulta = consultas("SELECT * FROM usuarios WHERE correo = " + correo)
+
+    if consulta == None:
+        respuesta = "n"
+    else:
+        respuesta = "s"
+    
+    return jsonify({"RESPUESTA": respuesta})
+
 
 @app.route('/sesion', methods=['POST'])
 def inicioSesion():
 
     respuesta = ""
     datos = {}
-
-    # Función que permite conectarse a la base de datos alojada en Heroku
-    def conexionBD():
-        try:
-            conexion = psycopg2.connect(host="ec2-52-203-74-38.compute-1.amazonaws.com", user="nqbtcbwoqhjisp", 
-                password="715efa6d7d856275fc6c0b52db0961a9d24f0d9f5a7f7da77d98a2ddbcbd8323", database="d95lni663n81s0")
-        except Exception as err:
-            print("Error al crear conexion", err)
-        else:
-            print("Conexion creada correctamente")
-
-        cursor_bd = conexion.cursor()
-
-        return cursor_bd
-
-    # Crea un objeto de tipo cursor que apunta a la BD y ejecuta un Query, para hacer la consulta a la BD
-    def consultas(Query):
-        cursor = conexionBD()
-        cursor.execute(Query)
-        consulta = cursor.fetchone()
-        cursor.close()
-        return consulta
 
     usuario = "'" + request.json['USUARIO'] + "'"
     contraseña = "'" + request.json['CONTRASEÑA'] + "'"
@@ -258,29 +271,6 @@ def principal():
 
     def eliminar_stopwords(text):
         return ' '.join([word for word in text.split(' ') if word not in stop_words])
-
-    # Función que permite conectarse a la base de datos alojada en Heroku
-    def conexionBD():
-        try:
-            conexion = psycopg2.connect(host="ec2-52-203-74-38.compute-1.amazonaws.com", user="nqbtcbwoqhjisp", 
-                password="715efa6d7d856275fc6c0b52db0961a9d24f0d9f5a7f7da77d98a2ddbcbd8323", database="d95lni663n81s0")
-        except Exception as err:
-            print("Error al crear conexion", err)
-        else:
-            print("Conexion creada correctamente")
-
-        cursor_bd = conexion.cursor()
-
-        return cursor_bd
-
-    # Crea un objeto de tipo cursor que apunta a la BD y ejecuta un Query, para hacer la consulta a la BD
-    def consultas(Query):
-        cursor = conexionBD()
-        cursor.execute(Query)
-        consulta = cursor.fetchone()
-        cursor.close()
-
-        return consulta
 
     # Retorna los intereses del usuario que se le envíe
     def consultaUser(correo):
