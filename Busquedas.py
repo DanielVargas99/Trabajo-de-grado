@@ -458,7 +458,7 @@ def principal():
             busqueda = consultaUser("'" + request.json['USUARIO'] + "'")
             for i in range(len(busqueda)):
                 if busqueda[i] == None or busqueda[i] == "":
-                    busqueda[i] = "Empty" # En caso de que un interes esté vacio, se cambia por "Empty"
+                    busqueda[i] = "xd" # En caso de que un interes esté vacio, se cambia por "Empty"
         else:
             busqueda = [request.json['BUSQUEDA']]
 
