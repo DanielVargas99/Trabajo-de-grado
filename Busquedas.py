@@ -286,7 +286,7 @@ def principal():
     lemmatizer_sp = spacy.load('es_core_news_sm')
 
     # Función encargada de retornar una lista con las ubicaciones/rutas de todos los archivos .csv
-    def obtener_archivos(extension):
+    def obtener_archivos(path, extension):
 
         # Lista que guarda todos los elementos dentro de la ruta Transcripciones/ (incluyendo carpetas)
         contenido = os.listdir(path)
@@ -467,7 +467,7 @@ def principal():
 
     busqueda = definir_busqueda() # Definir si es una busqueda hecha por el usuario o si es con los intereses
     traduccion = traducir(busqueda) # Se manda la busqueda a traducir y asi tenerla en ambos idiomas
-    csvs = obtener_archivos('.csv')  # Obtener una lista con las ubicaciones de todos los archivos CSV
+    csvs = obtener_archivos(path, '.csv')  # Obtener una lista con las ubicaciones de todos los archivos CSV
     busqueda = limpieza_busqueda(traduccion[0], traduccion[1])  # Hacer limpieza a la busqueda
     busqueda_relacionada = busquedas_relacionadas(busqueda.split()) # Definir una busqueda alternativa, relacionada
 
