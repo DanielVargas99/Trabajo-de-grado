@@ -213,6 +213,25 @@ def inicioSesion():
 @app.route('/registrar', methods=['POST'])
 def registrarDatos():
 
+    def addUserToDataframe(correo):
+        # Cambiar la ruta para cada caso, en esta ruta se guardan los archivos .txt con las transcripciones de cada página
+        path = "Transcripciones/"
+        csvCalificaciones = path + "calificaciones.csv"
+        csvSalida = path + "calificaciones2.csv"
+        with open(csvCalificaciones, encoding='utf-8') as read_obj, open(csvSalida, "w", newline='') as write_obj:
+            csv_reader = csv.reader(read_obj, delimiter=';') # Create a csv.reader object from the input file object
+            csv_writer = csv.writer(write_obj, delimiter=';') # Create a csv.writer object from the output file object
+            i=0 # Contador de interacciones para el ciclo for
+            for row in csv_reader: # Read each row of the input csv file as list
+                if i == 0:
+                    row.append(correo) # Si es la primer fila, añadir el correo del usuario
+                    i += 1
+                else:
+                    row.append(0) # Fill the new column with 0
+                csv_writer.writerow(row) # Add the updated row / list to the output file
+        os.remove(csvCalificaciones)
+        os.rename(csvSalida, csvCalificaciones)
+
     try:
         conexion = psycopg2.connect(host="ec2-52-203-74-38.compute-1.amazonaws.com", user="nqbtcbwoqhjisp", 
             password="715efa6d7d856275fc6c0b52db0961a9d24f0d9f5a7f7da77d98a2ddbcbd8323", database="d95lni663n81s0")
@@ -244,12 +263,39 @@ def registrarDatos():
         respuesta = "n"
     else:
         respuesta = "s"
-        
+    
     conexion.commit()
     cursor_bd.close()
     conexion.close()
+    addUserToDataframe(request.json['CORREO']) # Añadir el nuevo usuario al df de calificaciones
 
     return jsonify({"RESPUESTA": respuesta})
+
+
+@app.route('/addrating', methods=['POST'])
+def addRating():
+    # Cambiar la ruta para cada caso, en esta ruta se guardan los archivos .txt con las transcripciones de cada página
+    path = "Transcripciones/"
+    correo = request.json['CORREO']
+    pagina = request.json['DOCUMENTO']
+    rating = request.json['RATING']
+    csvCalificaciones = path + "calificaciones.csv"
+    csvSalida = path + "calificaciones2.csv"
+    with open(csvCalificaciones, encoding='utf-8') as read_obj, open(csvSalida, "w", newline='') as write_obj:
+        csv_reader = csv.reader(read_obj, delimiter=';') # Create a csv.reader object from the input file object
+        csv_writer = csv.writer(write_obj, delimiter=';') # Create a csv.writer object from the output file object
+        column = 0
+        for row in csv_reader:
+            if column == 0: # Si estamos en la primera fila, obtener la columna del usuario en el csv
+                column = row.index(correo)
+            if row[0] == pagina:
+                row[column] = rating # Añadir la calificación del usuario a la beca correspondiente
+                csv_writer.writerow(row) # Add the updated row / list to the output file
+            else:
+                csv_writer.writerow(row) # Add the updated row / list to the output file
+    os.remove(csvCalificaciones)
+    os.rename(csvSalida, csvCalificaciones)
+    return jsonify({"RESPUESTA": "s"}) 
 
 
 @app.route('/', methods=['POST'])
@@ -285,6 +331,9 @@ def principal():
     # canto, cantas, canta, cantamos, cantais, cantan, sino solo una palabra: "cantar"
     lemmatizer_sp = spacy.load('es_core_news_sm')
 
+    # CSV que guarda las calificaciones de estrellas que han hecho todos los usuarios
+    csvCalificaciones = path + "calificaciones.csv"
+
     # Función encargada de retornar una lista con las ubicaciones/rutas de todos los archivos .csv
     def obtener_archivos(path, extension):
 
@@ -316,7 +365,8 @@ def principal():
 
         for i in range(len(lista_csvs)):
             cont = 0
-            tfidf = 0.0
+            tfidf = mean = 0.0
+            mean = averageRating(lista_csvs[i]) # Calcular la calficacion promedio de esta página
             with open(lista_csvs[i], encoding='utf-8') as p: # Se abre el csv asignado en la posición i
                 reader = csv.reader(p, delimiter=';') # Se lee el contenido del csv
                 for row in reader: # Se lee fila por fila
@@ -326,7 +376,7 @@ def principal():
                             # Se hace una sumatoria del valor TFIDF cuando una fila del csv es igual a uno de los
                             # terminos de la busqueda:
                             tfidf += float(row[1])
-            lista_aux.append((lista_csvs[i], cont, tfidf))
+            lista_aux.append((lista_csvs[i], cont, tfidf, mean))
 
         return lista_aux
 
@@ -350,6 +400,19 @@ def principal():
             lista_aux.append(beca_seleccionada)
 
         return lista_aux
+
+    # Calcula el promedio de calificaciones que todos los usuarios han hecho de una página
+    def averageRating(pagina):
+        sum = cantElementos = 0
+        with open(csvCalificaciones, encoding='utf-8') as read_obj:
+            csv_reader = csv.reader(read_obj, delimiter=';') # Create a csv.reader object from the input file object
+            for row in csv_reader:
+                if row[0] == pagina:
+                    # Recorrer la fila de calificaciones de la página, empezando desde la columna 1:
+                    for rating in row[1:]:
+                        sum += int(rating)
+                        cantElementos += 1
+                    return sum/cantElementos # Retornar el promedio
 
     def limpieza_busqueda(text_en, text_sp):
         text_en = text_en.lower()
@@ -479,9 +542,11 @@ def principal():
     resultados_busqueda = buscar_palabra_en_lista_csv(csvs, busqueda) 
     resultados_busqueda_relacionada = buscar_palabra_en_lista_csv(csvs, busqueda_relacionada)
 
-    # Ordenar la lista de mayor a menor
-    sorted_list = sorted(resultados_busqueda, key=lambda aux: (aux[1], aux[2]), reverse=True)
-    sorted_list_rel = sorted(resultados_busqueda_relacionada, key=lambda aux: (aux[1], aux[2]), reverse=True)
+    # Ordenar la lista de mayor a menor, considerando primero la cantidad de ocurrencias que hay en cada archivo
+    # según la busqueda, seguido de la suma del valor tfidf más el promedio de calificaciones del archivo
+    sorted_list = sorted(resultados_busqueda, key=lambda aux: (aux[1], aux[2]+aux[3]), reverse=True)
+    sorted_list_rel = sorted(resultados_busqueda_relacionada, key=lambda aux: (aux[1], aux[2]+aux[3]), reverse=True)
+    print(sorted_list)
 
     return jsonify({"BECAS": imprimir_resultados(sorted_list, 20), "BECAS RELACIONADAS": imprimir_resultados(sorted_list_rel, 10)})
 
