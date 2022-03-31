@@ -168,8 +168,8 @@ def definir_busqueda(correo):
     # no recibo otros tipos de busqueda
     busqueda = consultaUser(correo)
     for i in range(len(busqueda)):
-        if busqueda[i] == None:
-            busqueda[i] = "Example" # En caso de que un interes esté vacio, para que no de error
+        if busqueda[i] == None or busqueda[i] == "":
+            busqueda[i] = "xd" # En caso de que un interes esté vacio, para que no de error
 
     return busqueda
 
