@@ -141,6 +141,23 @@ def modificarDatos():
 @app.route('/eliminar', methods=['POST'])
 def eliminarCuenta():
 
+    def deleteUserFromDataframe(correo):
+        # Cambiar la ruta para cada caso, en esta ruta se guardan los archivos .txt con las transcripciones de cada página
+        path = "Transcripciones/"
+        csvCalificaciones = path + "calificaciones.csv"
+        csvSalida = path + "calificaciones2.csv"
+        with open(csvCalificaciones, encoding='utf-8') as read_obj, open(csvSalida, "w", newline='') as write_obj:
+            csv_reader = csv.reader(read_obj, delimiter=';') # Create a csv.reader object from the input file object
+            csv_writer = csv.writer(write_obj, delimiter=';') # Create a csv.writer object from the output file object
+            column=0 # Contador de interacciones para el ciclo for
+            for row in csv_reader: # Read each row of the input csv file as list
+                if column == 0:
+                    column = row.index(correo)
+                del row[column]
+                csv_writer.writerow(row) # Add the updated row / list to the output file
+        os.remove(csvCalificaciones)
+        os.rename(csvSalida, csvCalificaciones)
+
     try:
         conexion = psycopg2.connect(host="ec2-52-203-74-38.compute-1.amazonaws.com", user="nqbtcbwoqhjisp", 
             password="715efa6d7d856275fc6c0b52db0961a9d24f0d9f5a7f7da77d98a2ddbcbd8323", database="d95lni663n81s0")
@@ -162,6 +179,7 @@ def eliminarCuenta():
     conexion.commit()
     cursor_bd.close()
     conexion.close()
+    deleteUserFromDataframe(request.json['CORREO'])
 
     return jsonify({"RESPUESTA": respuesta})
 
