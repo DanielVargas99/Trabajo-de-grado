@@ -564,7 +564,6 @@ def principal():
     # según la busqueda, seguido de la suma del valor tfidf más el promedio de calificaciones del archivo
     sorted_list = sorted(resultados_busqueda, key=lambda aux: (aux[1], aux[2]+aux[3]), reverse=True)
     sorted_list_rel = sorted(resultados_busqueda_relacionada, key=lambda aux: (aux[1], aux[2]+aux[3]), reverse=True)
-    print(sorted_list)
 
     return jsonify({"BECAS": imprimir_resultados(sorted_list, 20), "BECAS RELACIONADAS": imprimir_resultados(sorted_list_rel, 10)})
 
