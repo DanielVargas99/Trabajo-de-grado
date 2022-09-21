@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="10dp">
+
+        <TextView
+            android:id="@+id/textoDialog"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Ha ocurrido un error con la conexion..."
+            android:textSize="20dp"
+            android:textColor="@color/black"
+            android:gravity="center"
+            android:fontFamily="@font/geomanist_regular"
+            android:paddingTop="20dp"
+            android:paddingBottom="20dp"
+            android:paddingRight="10dp"
+            android:paddingLeft="10dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal">
+
+            <Button
+                android:id="@+id/cancelar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Cancelar"
+                android:textColor="@color/black"
+                android:layout_weight="1"
+                android:fontFamily="@font/geomanist_bold"
+                android:padding="5dp"
+                android:layout_margin="5dp"
+                android:backgroundTint="@color/animacion_cuenta"/>
+
+            <Button
+                android:id="@+id/reintentar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Reintentar"
+                android:textColor="@color/black"
+                android:layout_weight="1"
+                android:fontFamily="@font/geomanist_bold"
+                android:padding="5dp"
+                android:layout_margin="5dp"
+                android:backgroundTint="@color/animacion_cuenta"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

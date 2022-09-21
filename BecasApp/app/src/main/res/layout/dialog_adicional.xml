@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center">
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:padding="10dp">
+
+        <TextView
+            android:id="@+id/textoDialog2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="20dp"
+            android:textColor="@color/black"
+            android:gravity="center"
+            android:fontFamily="@font/geomanist_regular"
+            android:paddingTop="20dp"
+            android:paddingBottom="20dp"
+            android:paddingRight="10dp"
+            android:paddingLeft="10dp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center">
+
+            <Button
+                android:id="@+id/botonEntendido"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Entendido"
+                android:fontFamily="@font/geomanist_bold"
+                android:layout_margin="5dp"
+                android:textColor="@color/black"
+                android:backgroundTint="@color/animacion_cuenta"/>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</LinearLayout>

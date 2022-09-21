@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".infoCuenta"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Información de cuenta"
+            android:textSize="30dp"
+            android:fontFamily="@font/geomanist_bold"
+            android:textColor="@color/black"
+            android:gravity="center"
+            android:layout_marginTop="20dp"
+            android:padding="10dp"/>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20dp"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp">
+
+            <TextView
+                android:id="@+id/correoU"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Correo: "
+                android:textSize="20dp"
+                android:textColor="@color/black"
+                android:fontFamily="@font/geomanist_regular"
+                android:paddingLeft="5dp"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                android:paddingRight="2dp"/>
+
+            <TextView
+                android:id="@+id/correoUser"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:textAlignment="textEnd"
+                android:textSize="20dp"
+                android:fontFamily="@font/geomanist_regular"
+                android:layout_toRightOf="@id/correoU"
+                android:paddingLeft="2dp"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                android:paddingRight="5dp"/>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="15dp"
+            android:paddingRight="15dp"
+            android:paddingTop="5dp"
+            android:paddingBottom="5dp">
+
+            <TextView
+                android:id="@+id/passU"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Contraseña: "
+                android:textSize="20dp"
+                android:textColor="@color/black"
+                android:fontFamily="@font/geomanist_regular"
+                android:paddingLeft="5dp"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                android:paddingRight="2dp"/>
+
+            <TextView
+                android:id="@+id/passUser"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text=""
+                android:textAlignment="textEnd"
+                android:textSize="20dp"
+                android:fontFamily="@font/geomanist_regular"
+                android:layout_toRightOf="@id/passU"
+                android:paddingLeft="2dp"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                android:paddingRight="5dp"/>
+
+        </RelativeLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:background="#CDCDCD"
+            android:layout_marginTop="20dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginBottom="15dp" />
+
+        <Button
+            android:id="@+id/editarC"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Editar datos de cuenta"
+            android:textSize="14dp"
+            android:fontFamily="@font/geomanist_bold"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="30dp"
+            android:layout_marginRight="30dp"
+            android:layout_marginBottom="20dp"
+            android:paddingTop="15dp"
+            android:paddingBottom="15dp"
+            app:cornerRadius="50dp"
+            android:backgroundTint="@color/animacion_boton"/>
+
+    </LinearLayout>
+
+</ScrollView>

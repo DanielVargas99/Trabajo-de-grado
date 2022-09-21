@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">BecasApp</string>
+
+    <string-array name="estratos">
+        <item>Seleccione su estrato</item>
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+    </string-array>
+
+    <string-array name="sexos">
+        <item>Seleccione su sexo</item>
+        <item>Hombre</item>
+        <item>Mujer</item>
+        <item>No binario</item>
+    </string-array>
+</resources>

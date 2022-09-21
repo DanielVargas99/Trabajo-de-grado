@@ -1,0 +1,182 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".EditarPerfil"
+    android:background="@drawable/fondo_cuenta">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_above="@id/boton_navegar">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Cuenta"
+                android:textSize="30dp"
+                android:fontFamily="@font/geomanist_bold"
+                android:textColor="@color/black"
+                android:gravity="center"
+                android:layout_marginTop="20dp"
+                android:padding="10dp"/>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center">
+
+                <TextView
+                    android:id="@+id/nombreUsuario"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Nombres"
+                    android:textSize="20dp"
+                    android:textColor="@color/black"
+                    android:fontFamily="@font/geomanist_regular"
+                    android:paddingLeft="5dp"
+                    android:paddingTop="5dp"
+                    android:paddingBottom="5dp"
+                    android:paddingRight="2dp"/>
+
+                <TextView
+                    android:id="@+id/apellidoUsuario"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Apellidos"
+                    android:textSize="20dp"
+                    android:textColor="@color/black"
+                    android:fontFamily="@font/geomanist_regular"
+                    android:layout_toRightOf="@id/nombreUsuario"
+                    android:paddingLeft="2dp"
+                    android:paddingTop="5dp"
+                    android:paddingBottom="5dp"
+                    android:paddingRight="5dp"/>
+
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/correoUsuario"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Correo electronico"
+                android:textSize="16dp"
+                android:fontFamily="@font/geomanist_regular"
+                android:textColor="@color/black"
+                android:gravity="center"
+                android:padding="5dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Configuración de cuenta"
+                android:textSize="25dp"
+                android:layout_marginTop="20dp"
+                android:layout_marginBottom="15dp"
+                android:fontFamily="@font/geomanist_bold"
+                android:textColor="@color/black"
+                android:gravity="center"
+                android:padding="10dp"/>
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/infoP"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Información personal"
+                android:backgroundTint="@color/animacion_cuenta"
+                android:textColor="@color/black"
+                android:textAlignment="textStart"
+                android:padding="10dp"
+                app:icon="@drawable/ic_infop"
+                app:iconGravity="start"
+                app:iconTint="@color/black"
+                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense"/>
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/infoC"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Información de cuenta"
+                android:backgroundTint="@color/animacion_cuenta"
+                android:textColor="@color/black"
+                android:textAlignment="textStart"
+                android:padding="10dp"
+                app:icon="@drawable/ic_pass"
+                app:iconGravity="start"
+                app:iconTint="@color/black"
+                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense"/>
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/infoI"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Temas de interés"
+                android:backgroundTint="@color/animacion_cuenta"
+                android:textColor="@color/black"
+                android:textAlignment="textStart"
+                android:padding="10dp"
+                app:icon="@drawable/ic_interes"
+                app:iconGravity="start"
+                app:iconTint="@color/black"
+                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense"/>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:background="#CDCDCD"
+                android:layout_marginTop="15dp"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginBottom="15dp" />
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/eliminar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Eliminar cuenta"
+                android:backgroundTint="@color/animacion_cuenta"
+                android:textColor="#FF0000"
+                android:textAlignment="textStart"
+                android:padding="10dp"
+                app:icon="@drawable/ic_eliminar"
+                app:iconGravity="start"
+                app:iconTint="#FF0000"
+                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense"/>
+
+            <com.google.android.material.button.MaterialButton
+                android:id="@+id/cerrar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Cerrar sesión"
+                android:backgroundTint="@color/animacion_cuenta"
+                android:textColor="@color/black"
+                android:textAlignment="textStart"
+                android:padding="10dp"
+                app:icon="@drawable/ic_cerrar"
+                app:iconGravity="start"
+                app:iconTint="@color/black"
+                style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.Dense"/>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+    <com.google.android.material.bottomnavigation.BottomNavigationView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/boton_navegar"
+        app:itemBackground="@color/colorBase"
+        app:itemTextColor="@drawable/selector"
+        app:itemIconTint="@drawable/selector"
+        app:menu="@menu/menu_navegar"
+        android:layout_alignParentBottom="true"/>
+
+</RelativeLayout>

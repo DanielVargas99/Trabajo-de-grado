@@ -1,0 +1,812 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".RegistroIntereses">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:layout_marginTop="10dp">
+
+        <TextView
+            android:id="@+id/intereses"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:padding="20dp"
+            android:text="Te podría interesar"
+            android:textSize="30dp"
+            android:fontFamily="@font/geomanist_bold"
+            android:textColor="@color/black"/>
+
+        <GridLayout
+            android:id="@+id/layoutIntereses"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:rowCount="7"
+            android:columnCount="2"
+            android:columnOrderPreserved="true"
+            android:rowOrderPreserved="true"
+            android:alignmentMode="alignMargins"
+            android:padding="10dp">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="100dp"
+                android:layout_height="120dp"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                app:cardElevation="10dp"
+                app:cardCornerRadius="20dp"
+                android:layout_margin="10dp"
+                android:clickable="true">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/reino_unido"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:gravity="bottom">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="Reino unido"
+                        android:textColor="@color/white"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:fontFamily="@font/geomanist_regular"
+                        android:layout_marginBottom="5dp"/>
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="100dp"
+                android:layout_height="120dp"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                app:cardElevation="10dp"
+                app:cardCornerRadius="20dp"
+                android:layout_margin="10dp">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/espana"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:gravity="bottom">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="España"
+                        android:textColor="@color/white"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:fontFamily="@font/geomanist_regular"
+                        android:layout_marginBottom="5dp"/>
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="100dp"
+                android:layout_height="120dp"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                app:cardElevation="10dp"
+                app:cardCornerRadius="20dp"
+                android:layout_margin="10dp"
+                android:clickable="true">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/maestria"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:gravity="bottom">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="Maestria"
+                        android:textColor="@color/white"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:fontFamily="@font/geomanist_regular"
+                        android:layout_marginBottom="5dp"/>
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="100dp"
+                android:layout_height="120dp"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                app:cardElevation="10dp"
+                app:cardCornerRadius="20dp"
+                android:layout_margin="10dp"
+                android:clickable="true">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/doctorado"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:gravity="bottom">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="Doctorado"
+                        android:textColor="@color/white"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:fontFamily="@font/geomanist_regular"
+                        android:layout_marginBottom="5dp"/>
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="100dp"
+                android:layout_height="120dp"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                app:cardElevation="10dp"
+                app:cardCornerRadius="20dp"
+                android:layout_margin="10dp"
+                android:clickable="true">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/especializacion"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:gravity="bottom">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="Especializacion"
+                        android:textColor="@color/white"
+                        android:textSize="18dp"
+                        android:textAlignment="center"
+                        android:fontFamily="@font/geomanist_regular"
+                        android:layout_marginBottom="5dp"/>
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="100dp"
+                android:layout_height="120dp"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                app:cardElevation="10dp"
+                app:cardCornerRadius="20dp"
+                android:layout_margin="10dp"
+                android:clickable="true">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/total"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:gravity="bottom">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="Beca total"
+                        android:textColor="@color/white"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:fontFamily="@font/geomanist_regular"
+                        android:layout_marginBottom="5dp"/>
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="100dp"
+                android:layout_height="120dp"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                app:cardElevation="10dp"
+                app:cardCornerRadius="20dp"
+                android:layout_margin="10dp"
+                android:clickable="true">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/software"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:gravity="bottom">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="Ciencias de la computacion"
+                        android:textColor="@color/white"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:fontFamily="@font/geomanist_regular"
+                        android:layout_marginBottom="5dp"/>
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="100dp"
+                android:layout_height="120dp"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                app:cardElevation="10dp"
+                app:cardCornerRadius="20dp"
+                android:layout_margin="10dp"
+                android:clickable="true">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/ingenieria"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:gravity="bottom">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="Ingenieria"
+                        android:textColor="@color/white"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:fontFamily="@font/geomanist_regular"
+                        android:layout_marginBottom="5dp"/>
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="100dp"
+                android:layout_height="120dp"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                app:cardElevation="10dp"
+                app:cardCornerRadius="20dp"
+                android:layout_margin="10dp"
+                android:clickable="true">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/ia"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:gravity="bottom">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="Inteligencia artificial"
+                        android:textColor="@color/white"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:fontFamily="@font/geomanist_regular"
+                        android:layout_marginBottom="5dp"/>
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="100dp"
+                android:layout_height="120dp"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                app:cardElevation="10dp"
+                app:cardCornerRadius="20dp"
+                android:layout_margin="10dp"
+                android:clickable="true">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/machine"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:gravity="bottom">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="Machine learning"
+                        android:textColor="@color/white"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:fontFamily="@font/geomanist_regular"
+                        android:layout_marginBottom="5dp"/>
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="100dp"
+                android:layout_height="120dp"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                app:cardElevation="10dp"
+                app:cardCornerRadius="20dp"
+                android:layout_margin="10dp"
+                android:clickable="true">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/ciberseguridad"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:gravity="bottom">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="Ciberseguridad"
+                        android:textColor="@color/white"
+                        android:textSize="18dp"
+                        android:textAlignment="center"
+                        android:fontFamily="@font/geomanist_regular"
+                        android:layout_marginBottom="5dp"/>
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="100dp"
+                android:layout_height="120dp"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                app:cardElevation="10dp"
+                app:cardCornerRadius="20dp"
+                android:layout_margin="10dp"
+                android:clickable="true">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/big_data"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:gravity="bottom">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="Big data"
+                        android:textColor="@color/white"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:fontFamily="@font/geomanist_regular"
+                        android:layout_marginBottom="5dp"/>
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="100dp"
+                android:layout_height="120dp"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                app:cardElevation="10dp"
+                app:cardCornerRadius="20dp"
+                android:layout_margin="10dp"
+                android:clickable="true">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/pregrado"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:gravity="bottom">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="Pregrado"
+                        android:textColor="@color/white"
+                        android:textSize="20dp"
+                        android:textAlignment="center"
+                        android:fontFamily="@font/geomanist_regular"
+                        android:layout_marginBottom="5dp"/>
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="100dp"
+                android:layout_height="120dp"
+                android:layout_columnWeight="1"
+                android:layout_rowWeight="1"
+                app:cardElevation="10dp"
+                app:cardCornerRadius="20dp"
+                android:layout_margin="10dp"
+                android:clickable="true">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:background="@drawable/estados_unidos"/>
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical"
+                    android:gravity="bottom">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="Estados Unidos"
+                        android:textColor="@color/white"
+                        android:textSize="18dp"
+                        android:textAlignment="center"
+                        android:fontFamily="@font/geomanist_regular"
+                        android:layout_marginBottom="5dp"/>
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+        </GridLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="10dp"
+            android:layout_marginTop="10dp">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="O añade tus intereses aquí"
+                android:textSize="22dp"
+                android:textColor="@color/black"
+                android:padding="5dp"
+                android:layout_marginBottom="10dp"
+                android:gravity="center"
+                android:fontFamily="@font/geomanist_bold"/>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingRight="15dp"
+                android:paddingLeft="15dp"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                android:layout_margin="10dp"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/texto">
+
+                <TextView
+                    android:id="@+id/interes1"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Interes 1: "
+                    android:textColor="@color/black"
+                    android:textSize="18dp"
+                    android:fontFamily="@font/geomanist_regular"
+                    android:layout_centerVertical="true"/>
+
+                <EditText
+                    android:id="@+id/campoint1"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@id/interes1"
+                    android:fontFamily="@font/geomanist_regular"
+                    android:textColor="@color/black"
+                    android:textSize="18dp" />
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingRight="15dp"
+                android:paddingLeft="15dp"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                android:layout_margin="10dp"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/texto">
+
+                <TextView
+                    android:id="@+id/interes2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Interes 2: "
+                    android:textColor="@color/black"
+                    android:textSize="18dp"
+                    android:fontFamily="@font/geomanist_regular"
+                    android:layout_centerVertical="true"/>
+
+                <EditText
+                    android:id="@+id/campoint2"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@id/interes2"
+                    android:textColor="@color/black"
+                    android:textSize="18dp"
+                    android:fontFamily="@font/geomanist_regular"/>
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingRight="15dp"
+                android:paddingLeft="15dp"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                android:layout_margin="10dp"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/texto">
+
+                <TextView
+                    android:id="@+id/interes3"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Interes 3: "
+                    android:textColor="@color/black"
+                    android:textSize="18dp"
+                    android:fontFamily="@font/geomanist_regular"
+                    android:layout_centerVertical="true"/>
+
+                <EditText
+                    android:id="@+id/campoint3"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@id/interes3"
+                    android:textColor="@color/black"
+                    android:textSize="18dp"
+                    android:fontFamily="@font/geomanist_regular"
+                    android:gravity="center_vertical"/>
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingRight="15dp"
+                android:paddingLeft="15dp"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                android:layout_margin="10dp"
+                android:layout_marginBottom="5dp"
+                android:background="@drawable/texto">
+
+                <TextView
+                    android:id="@+id/interes4"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Interes 4: "
+                    android:textColor="@color/black"
+                    android:textSize="18dp"
+                    android:fontFamily="@font/geomanist_regular"
+                    android:layout_centerVertical="true"/>
+
+                <EditText
+                    android:id="@+id/campoint4"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@id/interes4"
+                    android:textColor="@color/black"
+                    android:textSize="18dp"
+                    android:fontFamily="@font/geomanist_regular"
+                    android:gravity="center_vertical"/>
+
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:paddingRight="15dp"
+                android:paddingLeft="15dp"
+                android:paddingTop="5dp"
+                android:paddingBottom="5dp"
+                android:layout_margin="10dp"
+                android:layout_marginBottom="15dp"
+                android:background="@drawable/texto">
+
+                <TextView
+                    android:id="@+id/interes5"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Interes 5: "
+                    android:textColor="@color/black"
+                    android:textSize="18dp"
+                    android:fontFamily="@font/geomanist_regular"
+                    android:layout_centerVertical="true"/>
+
+                <EditText
+                    android:id="@+id/campoint5"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_toRightOf="@id/interes5"
+                    android:textColor="@color/black"
+                    android:textSize="18dp"
+                    android:fontFamily="@font/geomanist_regular"
+                    android:gravity="center_vertical"/>
+
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/generar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Generar resultados"
+                android:textSize="22dp"
+                android:textColor="@color/black"
+                android:padding="5dp"
+                android:layout_marginTop="25dp"
+                android:layout_marginBottom="10dp"
+                android:gravity="center"
+                android:fontFamily="@font/geomanist_bold"/>
+
+            <ImageView
+                android:id="@+id/imageView"
+                android:layout_width="160dp"
+                android:layout_height="160dp"
+                android:layout_marginBottom="10dp"
+                app:srcCompat="@drawable/imagenintereses"
+                android:layout_gravity="center"/>
+
+            <Button
+                android:id="@+id/finalizar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Finalizar"
+                android:layout_marginTop="20dp"
+                android:textSize="18dp"
+                android:fontFamily="@font/geomanist_bold"
+                android:layout_gravity="center"
+                android:layout_marginLeft="10dp"
+                android:layout_marginRight="10dp"
+                app:cornerRadius="50dp"
+                android:paddingTop="15dp"
+                android:paddingBottom="15dp"
+                android:backgroundTint="@color/animacion_boton"/>
+
+            <RelativeLayout
+                android:id="@+id/progress_layout3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="15dp"
+                android:layout_marginBottom="25dp">
+
+                <ProgressBar
+                    android:id="@+id/progressBar"
+                    style="?android:attr/progressBarStyleHorizontal"
+                    android:layout_width="match_parent"
+                    android:layout_height="15dp"
+                    android:progress="100"
+                    android:layout_centerVertical="true"
+                    android:layout_marginLeft="70dp"
+                    android:layout_marginRight="70dp"
+                    android:progressDrawable="@drawable/barra_progreso"/>
+
+                <ImageView
+                    android:id="@+id/image1"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:src="@drawable/numero1"
+                    android:background="@color/white"
+                    android:layout_centerVertical="true"
+                    android:layout_alignParentStart="true"
+                    android:layout_marginLeft="70dp" />
+
+                <ImageView
+                    android:id="@+id/image2"
+                    android:layout_width="30dp"
+                    android:layout_height="30dp"
+                    android:src="@drawable/numero2"
+                    android:layout_marginTop="10dp"
+                    android:layout_centerInParent="true"/>
+
+                <ImageView
+                    android:id="@+id/image3"
+                    android:layout_width="40dp"
+                    android:layout_height="40dp"
+                    android:src="@drawable/numero3s"
+                    android:background="@color/white"
+                    android:layout_alignParentEnd="true"
+                    android:layout_marginRight="70dp"
+                    android:layout_centerVertical="true"/>
+
+            </RelativeLayout>
+
+        </LinearLayout>
+
+    </LinearLayout>
+
+</ScrollView>

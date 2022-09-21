@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".infoBeca"
+    android:orientation="vertical"
+    android:background="@drawable/info_beca">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Información"
+        android:textSize="30dp"
+        android:textColor="@color/white"
+        android:layout_marginTop="20dp"
+        android:fontFamily="@font/geomanist_bold"
+        android:gravity="center"
+        android:padding="10dp" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="10dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:paddingLeft="10dp"
+            android:paddingRight="10dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:background="@color/blancoTrans">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Nombre de la beca"
+                android:fontFamily="@font/geomanist_bold"
+                android:textSize="20dp"
+                android:textColor="@color/black"
+                android:layout_marginTop="20dp"
+                android:padding="5dp"/>
+
+            <TextView
+                android:id="@+id/nombreBeca"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/geomanist_regular"
+                android:textSize="18dp"
+                android:textColor="@color/black"
+                android:text=""
+                android:padding="5dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Descripción de la beca"
+                android:fontFamily="@font/geomanist_bold"
+                android:textSize="20dp"
+                android:textColor="@color/black"
+                android:layout_marginTop="10dp"
+                android:padding="5dp"/>
+
+            <TextView
+                android:id="@+id/descripcionBeca"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/geomanist_regular"
+                android:textSize="18dp"
+                android:textColor="@color/black"
+                android:text=""
+                android:padding="5dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="País o lugar de destino"
+                android:fontFamily="@font/geomanist_bold"
+                android:textSize="20dp"
+                android:textColor="@color/black"
+                android:layout_marginTop="10dp"
+                android:padding="5dp"/>
+
+            <TextView
+                android:id="@+id/lugarBeca"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/geomanist_regular"
+                android:textSize="18dp"
+                android:textColor="@color/black"
+                android:text=""
+                android:padding="5dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Entidad que ofrece la beca"
+                android:fontFamily="@font/geomanist_bold"
+                android:textSize="20dp"
+                android:textColor="@color/black"
+                android:layout_marginTop="10dp"
+                android:padding="5dp"/>
+
+            <TextView
+                android:id="@+id/entidadBeca"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/geomanist_regular"
+                android:textSize="18dp"
+                android:textColor="@color/black"
+                android:text=""
+                android:padding="5dp"/>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Tipo de beca"
+                android:fontFamily="@font/geomanist_bold"
+                android:textSize="20dp"
+                android:textColor="@color/black"
+                android:layout_marginTop="10dp"
+                android:padding="5dp"/>
+
+            <TextView
+                android:id="@+id/tipoBeca"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fontFamily="@font/geomanist_regular"
+                android:textSize="18dp"
+                android:textColor="@color/black"
+                android:text=""
+                android:padding="5dp"/>
+
+            <Button
+                android:id="@+id/enlaceBeca"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Ir a la pagina de la beca"
+                android:textSize="14dp"
+                android:fontFamily="@font/geomanist_bold"
+                android:layout_marginTop="30dp"
+                android:layout_marginLeft="30dp"
+                android:layout_marginRight="30dp"
+                android:layout_marginBottom="20dp"
+                android:paddingTop="15dp"
+                android:paddingBottom="15dp"
+                app:cornerRadius="50dp"
+                android:backgroundTint="@color/animacion_boton"/>
+
+            <TextView
+                android:id="@+id/textoRating"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="¿Qué te ha parecido esta recomendación?"
+                android:textSize="15dp"
+                android:gravity="center"
+                android:padding="10dp"
+                android:fontFamily="@font/geomanist_regular"
+                android:textColor="@color/black" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:layout_gravity="center"
+                android:layout_marginBottom="30dp">
+
+                <RatingBar
+                    android:id="@+id/rating"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:numStars="5"
+                    android:rating="0"
+                    android:stepSize="1"
+                    android:progressTint="@color/colorBase"
+                    android:progressBackgroundTint="@color/white"
+                    android:isIndicator="false"
+                    android:layout_gravity="center"/>
+
+                <TextView
+                    android:id="@+id/agradecimiento"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Gracias por tu opinión"
+                    android:textSize="12dp"
+                    android:layout_gravity="end"
+                    android:fontFamily="@font/geomanist_regular"
+                    android:textColor="@color/black"
+                    android:visibility="invisible"/>
+
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+
+</LinearLayout>
