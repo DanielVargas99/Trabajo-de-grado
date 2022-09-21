@@ -1,1 +1,0 @@
-web: gunicorn Busquedas:app --log-file -
